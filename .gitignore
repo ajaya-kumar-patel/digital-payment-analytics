@@ -1,0 +1,19 @@
+# Generated datasets
+data/*.csv
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Power BI
+*.pbix
+*.pbit

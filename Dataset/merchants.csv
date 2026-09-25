@@ -1,0 +1,2001 @@
+merchant_id,merchant_name,category,city,state,merchant_type,onboarding_date
+MER00001,Merchant_00001,Education,Srinagar,Jammu and Kashmir,Offline,2020-12-07
+MER00002,Merchant_00002,Healthcare,Patna,Bihar,Offline,2023-01-04
+MER00003,Merchant_00003,Grocery,Pune,Maharashtra,Hybrid,2022-08-24
+MER00004,Merchant_00004,Grocery,Kochi,Kerala,Online,2022-04-21
+MER00005,Merchant_00005,Entertainment,Bengaluru,Karnataka,Offline,2020-05-13
+MER00006,Merchant_00006,Fashion,Dehradun,Uttarakhand,Offline,2021-10-15
+MER00007,Merchant_00007,Grocery,Delhi,Delhi,Hybrid,2021-08-11
+MER00008,Merchant_00008,Fashion,Pune,Maharashtra,Hybrid,2024-08-14
+MER00009,Merchant_00009,Food,Nagpur,Maharashtra,Offline,2020-09-06
+MER00010,Merchant_00010,Grocery,Jaipur,Rajasthan,Online,2023-02-26
+MER00011,Merchant_00011,Food,Chandigarh,Chandigarh,Offline,2024-06-28
+MER00012,Merchant_00012,Food,Jaipur,Rajasthan,Offline,2023-07-09
+MER00013,Merchant_00013,Electronics,Pune,Maharashtra,Offline,2024-10-20
+MER00014,Merchant_00014,Other,Chandigarh,Chandigarh,Offline,2021-03-24
+MER00015,Merchant_00015,Fashion,Chennai,Tamil Nadu,Hybrid,2023-10-05
+MER00016,Merchant_00016,Other,Surat,Gujarat,Offline,2022-06-24
+MER00017,Merchant_00017,Electronics,Mumbai,Maharashtra,Offline,2022-09-04
+MER00018,Merchant_00018,Healthcare,Bengaluru,Karnataka,Online,2021-04-04
+MER00019,Merchant_00019,Utilities,Visakhapatnam,Andhra Pradesh,Online,2020-03-22
+MER00020,Merchant_00020,Food,Kolkata,West Bengal,Offline,2022-10-02
+MER00021,Merchant_00021,Entertainment,Lucknow,Uttar Pradesh,Hybrid,2020-12-19
+MER00022,Merchant_00022,Grocery,Delhi,Delhi,Hybrid,2020-07-14
+MER00023,Merchant_00023,Utilities,Mumbai,Maharashtra,Offline,2021-11-08
+MER00024,Merchant_00024,Fashion,Chennai,Tamil Nadu,Hybrid,2024-09-14
+MER00025,Merchant_00025,Utilities,Delhi,Delhi,Offline,2023-02-06
+MER00026,Merchant_00026,Other,Kolkata,West Bengal,Hybrid,2020-09-04
+MER00027,Merchant_00027,Utilities,Chennai,Tamil Nadu,Hybrid,2022-12-31
+MER00028,Merchant_00028,Food,Jaipur,Rajasthan,Offline,2021-07-29
+MER00029,Merchant_00029,Other,Patna,Bihar,Online,2024-12-11
+MER00030,Merchant_00030,Grocery,Chennai,Tamil Nadu,Hybrid,2020-09-15
+MER00031,Merchant_00031,Electronics,Jaipur,Rajasthan,Online,2022-10-26
+MER00032,Merchant_00032,Grocery,Mumbai,Maharashtra,Offline,2021-06-30
+MER00033,Merchant_00033,Electronics,Bengaluru,Karnataka,Hybrid,2020-01-24
+MER00034,Merchant_00034,Healthcare,Coimbatore,Tamil Nadu,Hybrid,2020-06-18
+MER00035,Merchant_00035,Utilities,Chandigarh,Chandigarh,Offline,2021-04-05
+MER00036,Merchant_00036,Grocery,Bengaluru,Karnataka,Online,2024-07-20
+MER00037,Merchant_00037,Other,Visakhapatnam,Andhra Pradesh,Hybrid,2023-01-06
+MER00038,Merchant_00038,Food,Guwahati,Assam,Offline,2021-09-23
+MER00039,Merchant_00039,Fashion,Chandigarh,Chandigarh,Hybrid,2022-10-18
+MER00040,Merchant_00040,Other,Hyderabad,Telangana,Online,2022-09-26
+MER00041,Merchant_00041,Fashion,Hyderabad,Telangana,Offline,2024-03-09
+MER00042,Merchant_00042,Food,Ahmedabad,Gujarat,Offline,2022-12-13
+MER00043,Merchant_00043,Travel,Bengaluru,Karnataka,Online,2021-02-24
+MER00044,Merchant_00044,Food,Jaipur,Rajasthan,Hybrid,2020-12-25
+MER00045,Merchant_00045,Grocery,Kolkata,West Bengal,Offline,2021-10-17
+MER00046,Merchant_00046,Food,Chennai,Tamil Nadu,Online,2024-11-23
+MER00047,Merchant_00047,Utilities,Bhopal,Madhya Pradesh,Hybrid,2021-05-06
+MER00048,Merchant_00048,Grocery,Ahmedabad,Gujarat,Hybrid,2024-06-14
+MER00049,Merchant_00049,Utilities,Bengaluru,Karnataka,Online,2024-08-02
+MER00050,Merchant_00050,Healthcare,Bengaluru,Karnataka,Offline,2021-01-08
+MER00051,Merchant_00051,Utilities,Lucknow,Uttar Pradesh,Online,2022-02-02
+MER00052,Merchant_00052,Travel,Mumbai,Maharashtra,Offline,2024-09-28
+MER00053,Merchant_00053,Fashion,Dehradun,Uttarakhand,Offline,2020-10-07
+MER00054,Merchant_00054,Education,Kolkata,West Bengal,Offline,2024-10-08
+MER00055,Merchant_00055,Electronics,Nagpur,Maharashtra,Offline,2024-02-14
+MER00056,Merchant_00056,Utilities,Coimbatore,Tamil Nadu,Hybrid,2022-12-19
+MER00057,Merchant_00057,Entertainment,Surat,Gujarat,Hybrid,2024-09-24
+MER00058,Merchant_00058,Healthcare,Indore,Madhya Pradesh,Hybrid,2020-06-02
+MER00059,Merchant_00059,Fashion,Delhi,Delhi,Hybrid,2022-01-06
+MER00060,Merchant_00060,Grocery,Patna,Bihar,Offline,2020-02-23
+MER00061,Merchant_00061,Healthcare,Kolkata,West Bengal,Offline,2021-06-28
+MER00062,Merchant_00062,Fashion,Bhubaneswar,Odisha,Online,2022-10-01
+MER00063,Merchant_00063,Food,Nagpur,Maharashtra,Offline,2022-09-25
+MER00064,Merchant_00064,Fashion,Hyderabad,Telangana,Offline,2022-11-06
+MER00065,Merchant_00065,Fashion,Chennai,Tamil Nadu,Hybrid,2020-03-03
+MER00066,Merchant_00066,Food,Jaipur,Rajasthan,Online,2024-06-13
+MER00067,Merchant_00067,Food,Hyderabad,Telangana,Offline,2024-10-21
+MER00068,Merchant_00068,Education,Surat,Gujarat,Hybrid,2023-08-13
+MER00069,Merchant_00069,Food,Hyderabad,Telangana,Offline,2023-06-20
+MER00070,Merchant_00070,Utilities,Pune,Maharashtra,Hybrid,2021-12-25
+MER00071,Merchant_00071,Healthcare,Dehradun,Uttarakhand,Hybrid,2024-09-11
+MER00072,Merchant_00072,Grocery,Ahmedabad,Gujarat,Hybrid,2023-09-15
+MER00073,Merchant_00073,Other,Ahmedabad,Gujarat,Offline,2023-02-10
+MER00074,Merchant_00074,Food,Ahmedabad,Gujarat,Online,2023-08-25
+MER00075,Merchant_00075,Fashion,Jaipur,Rajasthan,Offline,2024-10-17
+MER00076,Merchant_00076,Food,Ahmedabad,Gujarat,Online,2021-11-11
+MER00077,Merchant_00077,Electronics,Hyderabad,Telangana,Online,2020-07-02
+MER00078,Merchant_00078,Entertainment,Hyderabad,Telangana,Offline,2022-08-05
+MER00079,Merchant_00079,Education,Kochi,Kerala,Hybrid,2021-01-01
+MER00080,Merchant_00080,Electronics,Bengaluru,Karnataka,Offline,2023-02-13
+MER00081,Merchant_00081,Entertainment,Bengaluru,Karnataka,Offline,2024-06-30
+MER00082,Merchant_00082,Fashion,Delhi,Delhi,Hybrid,2021-03-14
+MER00083,Merchant_00083,Electronics,Bhubaneswar,Odisha,Hybrid,2021-12-17
+MER00084,Merchant_00084,Food,Jaipur,Rajasthan,Hybrid,2021-04-06
+MER00085,Merchant_00085,Fashion,Delhi,Delhi,Online,2024-11-30
+MER00086,Merchant_00086,Education,Lucknow,Uttar Pradesh,Offline,2022-06-29
+MER00087,Merchant_00087,Grocery,Pune,Maharashtra,Offline,2020-03-18
+MER00088,Merchant_00088,Grocery,Kolkata,West Bengal,Online,2024-04-24
+MER00089,Merchant_00089,Grocery,Chennai,Tamil Nadu,Offline,2021-10-06
+MER00090,Merchant_00090,Other,Guwahati,Assam,Online,2023-07-19
+MER00091,Merchant_00091,Food,Delhi,Delhi,Offline,2023-06-28
+MER00092,Merchant_00092,Other,Bengaluru,Karnataka,Offline,2021-01-09
+MER00093,Merchant_00093,Other,Mumbai,Maharashtra,Online,2023-09-17
+MER00094,Merchant_00094,Entertainment,Visakhapatnam,Andhra Pradesh,Offline,2020-03-15
+MER00095,Merchant_00095,Electronics,Bengaluru,Karnataka,Hybrid,2020-12-17
+MER00096,Merchant_00096,Healthcare,Mumbai,Maharashtra,Online,2024-09-06
+MER00097,Merchant_00097,Grocery,Kochi,Kerala,Offline,2021-04-28
+MER00098,Merchant_00098,Travel,Visakhapatnam,Andhra Pradesh,Offline,2021-08-10
+MER00099,Merchant_00099,Travel,Bhubaneswar,Odisha,Offline,2022-06-20
+MER00100,Merchant_00100,Food,Lucknow,Uttar Pradesh,Hybrid,2022-07-18
+MER00101,Merchant_00101,Electronics,Bengaluru,Karnataka,Hybrid,2021-10-19
+MER00102,Merchant_00102,Travel,Bengaluru,Karnataka,Online,2020-03-12
+MER00103,Merchant_00103,Utilities,Chennai,Tamil Nadu,Online,2021-06-07
+MER00104,Merchant_00104,Other,Ahmedabad,Gujarat,Offline,2021-12-28
+MER00105,Merchant_00105,Fashion,Kolkata,West Bengal,Online,2024-08-01
+MER00106,Merchant_00106,Grocery,Coimbatore,Tamil Nadu,Offline,2021-04-21
+MER00107,Merchant_00107,Grocery,Pune,Maharashtra,Offline,2021-12-04
+MER00108,Merchant_00108,Entertainment,Surat,Gujarat,Online,2024-11-02
+MER00109,Merchant_00109,Grocery,Hyderabad,Telangana,Online,2021-11-30
+MER00110,Merchant_00110,Grocery,Chennai,Tamil Nadu,Online,2021-09-21
+MER00111,Merchant_00111,Fashion,Chandigarh,Chandigarh,Offline,2020-07-11
+MER00112,Merchant_00112,Entertainment,Jaipur,Rajasthan,Offline,2020-11-04
+MER00113,Merchant_00113,Utilities,Kolkata,West Bengal,Hybrid,2022-09-02
+MER00114,Merchant_00114,Grocery,Mumbai,Maharashtra,Hybrid,2023-07-13
+MER00115,Merchant_00115,Other,Guwahati,Assam,Hybrid,2020-07-04
+MER00116,Merchant_00116,Fashion,Ahmedabad,Gujarat,Offline,2021-12-03
+MER00117,Merchant_00117,Fashion,Jaipur,Rajasthan,Offline,2020-02-20
+MER00118,Merchant_00118,Utilities,Chennai,Tamil Nadu,Offline,2023-12-04
+MER00119,Merchant_00119,Fashion,Bhopal,Madhya Pradesh,Offline,2024-08-03
+MER00120,Merchant_00120,Entertainment,Kolkata,West Bengal,Offline,2020-02-16
+MER00121,Merchant_00121,Food,Bengaluru,Karnataka,Hybrid,2020-11-18
+MER00122,Merchant_00122,Grocery,Lucknow,Uttar Pradesh,Offline,2021-11-25
+MER00123,Merchant_00123,Food,Jaipur,Rajasthan,Online,2023-07-02
+MER00124,Merchant_00124,Fashion,Delhi,Delhi,Online,2020-02-05
+MER00125,Merchant_00125,Utilities,Ahmedabad,Gujarat,Offline,2022-02-08
+MER00126,Merchant_00126,Other,Kochi,Kerala,Offline,2020-03-14
+MER00127,Merchant_00127,Grocery,Chennai,Tamil Nadu,Online,2023-11-05
+MER00128,Merchant_00128,Electronics,Pune,Maharashtra,Offline,2021-08-10
+MER00129,Merchant_00129,Education,Delhi,Delhi,Hybrid,2022-09-17
+MER00130,Merchant_00130,Utilities,Bhopal,Madhya Pradesh,Hybrid,2020-08-24
+MER00131,Merchant_00131,Healthcare,Bengaluru,Karnataka,Offline,2021-03-31
+MER00132,Merchant_00132,Grocery,Lucknow,Uttar Pradesh,Hybrid,2022-09-04
+MER00133,Merchant_00133,Fashion,Indore,Madhya Pradesh,Offline,2020-11-25
+MER00134,Merchant_00134,Food,Kolkata,West Bengal,Hybrid,2024-11-28
+MER00135,Merchant_00135,Electronics,Hyderabad,Telangana,Offline,2020-10-28
+MER00136,Merchant_00136,Grocery,Indore,Madhya Pradesh,Offline,2024-07-10
+MER00137,Merchant_00137,Fashion,Delhi,Delhi,Online,2023-04-27
+MER00138,Merchant_00138,Electronics,Hyderabad,Telangana,Hybrid,2022-06-24
+MER00139,Merchant_00139,Grocery,Mumbai,Maharashtra,Offline,2024-01-18
+MER00140,Merchant_00140,Grocery,Kolkata,West Bengal,Offline,2022-03-14
+MER00141,Merchant_00141,Travel,Mumbai,Maharashtra,Online,2020-08-15
+MER00142,Merchant_00142,Food,Hyderabad,Telangana,Offline,2024-07-01
+MER00143,Merchant_00143,Food,Lucknow,Uttar Pradesh,Online,2021-08-25
+MER00144,Merchant_00144,Utilities,Surat,Gujarat,Offline,2023-02-12
+MER00145,Merchant_00145,Grocery,Nagpur,Maharashtra,Online,2021-12-23
+MER00146,Merchant_00146,Grocery,Nagpur,Maharashtra,Offline,2023-10-09
+MER00147,Merchant_00147,Electronics,Bhubaneswar,Odisha,Offline,2024-06-21
+MER00148,Merchant_00148,Utilities,Hyderabad,Telangana,Offline,2022-09-11
+MER00149,Merchant_00149,Fashion,Mumbai,Maharashtra,Online,2022-03-10
+MER00150,Merchant_00150,Education,Kolkata,West Bengal,Offline,2021-02-12
+MER00151,Merchant_00151,Utilities,Kolkata,West Bengal,Hybrid,2023-02-27
+MER00152,Merchant_00152,Electronics,Mumbai,Maharashtra,Offline,2021-09-21
+MER00153,Merchant_00153,Food,Mumbai,Maharashtra,Offline,2024-06-10
+MER00154,Merchant_00154,Education,Kolkata,West Bengal,Offline,2024-09-10
+MER00155,Merchant_00155,Other,Kochi,Kerala,Offline,2024-01-04
+MER00156,Merchant_00156,Healthcare,Ahmedabad,Gujarat,Hybrid,2022-09-06
+MER00157,Merchant_00157,Utilities,Hyderabad,Telangana,Offline,2021-03-07
+MER00158,Merchant_00158,Electronics,Chennai,Tamil Nadu,Online,2021-09-24
+MER00159,Merchant_00159,Fashion,Ranchi,Jharkhand,Online,2020-02-01
+MER00160,Merchant_00160,Healthcare,Srinagar,Jammu and Kashmir,Online,2020-01-18
+MER00161,Merchant_00161,Other,Visakhapatnam,Andhra Pradesh,Online,2021-01-10
+MER00162,Merchant_00162,Travel,Visakhapatnam,Andhra Pradesh,Hybrid,2021-12-13
+MER00163,Merchant_00163,Fashion,Jaipur,Rajasthan,Offline,2023-07-17
+MER00164,Merchant_00164,Grocery,Chennai,Tamil Nadu,Online,2021-07-04
+MER00165,Merchant_00165,Education,Bengaluru,Karnataka,Offline,2022-08-07
+MER00166,Merchant_00166,Other,Kochi,Kerala,Hybrid,2022-01-30
+MER00167,Merchant_00167,Fashion,Pune,Maharashtra,Online,2023-10-22
+MER00168,Merchant_00168,Travel,Bhopal,Madhya Pradesh,Online,2022-06-07
+MER00169,Merchant_00169,Entertainment,Kolkata,West Bengal,Online,2023-02-02
+MER00170,Merchant_00170,Grocery,Mumbai,Maharashtra,Online,2023-03-13
+MER00171,Merchant_00171,Fashion,Patna,Bihar,Online,2021-05-13
+MER00172,Merchant_00172,Food,Patna,Bihar,Offline,2024-08-04
+MER00173,Merchant_00173,Grocery,Indore,Madhya Pradesh,Offline,2021-08-21
+MER00174,Merchant_00174,Grocery,Nagpur,Maharashtra,Online,2022-11-02
+MER00175,Merchant_00175,Utilities,Delhi,Delhi,Hybrid,2023-03-17
+MER00176,Merchant_00176,Fashion,Guwahati,Assam,Online,2024-06-02
+MER00177,Merchant_00177,Other,Kochi,Kerala,Hybrid,2020-12-04
+MER00178,Merchant_00178,Fashion,Jaipur,Rajasthan,Offline,2024-12-01
+MER00179,Merchant_00179,Grocery,Mumbai,Maharashtra,Online,2020-06-24
+MER00180,Merchant_00180,Travel,Visakhapatnam,Andhra Pradesh,Online,2020-03-17
+MER00181,Merchant_00181,Food,Bhopal,Madhya Pradesh,Offline,2020-09-29
+MER00182,Merchant_00182,Electronics,Delhi,Delhi,Offline,2020-04-14
+MER00183,Merchant_00183,Travel,Bhubaneswar,Odisha,Hybrid,2023-10-05
+MER00184,Merchant_00184,Grocery,Pune,Maharashtra,Online,2024-08-23
+MER00185,Merchant_00185,Electronics,Nagpur,Maharashtra,Offline,2022-07-05
+MER00186,Merchant_00186,Healthcare,Delhi,Delhi,Offline,2020-05-07
+MER00187,Merchant_00187,Grocery,Pune,Maharashtra,Hybrid,2020-12-02
+MER00188,Merchant_00188,Grocery,Nagpur,Maharashtra,Offline,2020-12-12
+MER00189,Merchant_00189,Healthcare,Lucknow,Uttar Pradesh,Offline,2022-09-05
+MER00190,Merchant_00190,Fashion,Chennai,Tamil Nadu,Hybrid,2020-09-23
+MER00191,Merchant_00191,Healthcare,Bengaluru,Karnataka,Online,2023-10-25
+MER00192,Merchant_00192,Healthcare,Bhopal,Madhya Pradesh,Offline,2022-10-19
+MER00193,Merchant_00193,Entertainment,Chennai,Tamil Nadu,Online,2023-09-21
+MER00194,Merchant_00194,Electronics,Surat,Gujarat,Hybrid,2022-07-27
+MER00195,Merchant_00195,Utilities,Chennai,Tamil Nadu,Hybrid,2022-09-02
+MER00196,Merchant_00196,Grocery,Pune,Maharashtra,Offline,2020-07-24
+MER00197,Merchant_00197,Grocery,Delhi,Delhi,Hybrid,2022-06-24
+MER00198,Merchant_00198,Grocery,Indore,Madhya Pradesh,Hybrid,2023-02-01
+MER00199,Merchant_00199,Utilities,Bhubaneswar,Odisha,Online,2021-11-11
+MER00200,Merchant_00200,Education,Ranchi,Jharkhand,Offline,2020-01-29
+MER00201,Merchant_00201,Grocery,Ahmedabad,Gujarat,Online,2023-02-03
+MER00202,Merchant_00202,Electronics,Patna,Bihar,Online,2024-03-30
+MER00203,Merchant_00203,Fashion,Delhi,Delhi,Offline,2020-04-04
+MER00204,Merchant_00204,Education,Hyderabad,Telangana,Offline,2021-01-20
+MER00205,Merchant_00205,Food,Bengaluru,Karnataka,Offline,2022-12-27
+MER00206,Merchant_00206,Healthcare,Bengaluru,Karnataka,Online,2021-02-10
+MER00207,Merchant_00207,Entertainment,Delhi,Delhi,Offline,2024-09-07
+MER00208,Merchant_00208,Grocery,Chennai,Tamil Nadu,Online,2023-06-12
+MER00209,Merchant_00209,Food,Hyderabad,Telangana,Offline,2020-05-28
+MER00210,Merchant_00210,Grocery,Pune,Maharashtra,Offline,2022-09-15
+MER00211,Merchant_00211,Utilities,Nagpur,Maharashtra,Offline,2024-06-09
+MER00212,Merchant_00212,Food,Delhi,Delhi,Online,2023-04-26
+MER00213,Merchant_00213,Grocery,Bengaluru,Karnataka,Online,2022-11-25
+MER00214,Merchant_00214,Grocery,Surat,Gujarat,Offline,2020-10-12
+MER00215,Merchant_00215,Healthcare,Delhi,Delhi,Online,2021-10-26
+MER00216,Merchant_00216,Fashion,Hyderabad,Telangana,Offline,2021-10-10
+MER00217,Merchant_00217,Food,Hyderabad,Telangana,Offline,2020-11-30
+MER00218,Merchant_00218,Other,Ranchi,Jharkhand,Offline,2021-08-28
+MER00219,Merchant_00219,Grocery,Chennai,Tamil Nadu,Online,2023-11-06
+MER00220,Merchant_00220,Food,Guwahati,Assam,Hybrid,2024-11-07
+MER00221,Merchant_00221,Fashion,Bengaluru,Karnataka,Online,2024-02-05
+MER00222,Merchant_00222,Other,Delhi,Delhi,Online,2023-10-29
+MER00223,Merchant_00223,Education,Jaipur,Rajasthan,Online,2024-05-09
+MER00224,Merchant_00224,Utilities,Chandigarh,Chandigarh,Offline,2024-10-10
+MER00225,Merchant_00225,Electronics,Jaipur,Rajasthan,Hybrid,2022-03-31
+MER00226,Merchant_00226,Electronics,Hyderabad,Telangana,Offline,2022-12-16
+MER00227,Merchant_00227,Utilities,Coimbatore,Tamil Nadu,Online,2021-06-24
+MER00228,Merchant_00228,Healthcare,Indore,Madhya Pradesh,Hybrid,2023-06-13
+MER00229,Merchant_00229,Travel,Kolkata,West Bengal,Online,2022-02-17
+MER00230,Merchant_00230,Education,Kochi,Kerala,Offline,2021-03-28
+MER00231,Merchant_00231,Entertainment,Guwahati,Assam,Offline,2022-03-26
+MER00232,Merchant_00232,Other,Lucknow,Uttar Pradesh,Offline,2020-07-25
+MER00233,Merchant_00233,Travel,Bengaluru,Karnataka,Offline,2024-05-23
+MER00234,Merchant_00234,Food,Bhubaneswar,Odisha,Online,2022-09-27
+MER00235,Merchant_00235,Food,Nagpur,Maharashtra,Online,2020-09-13
+MER00236,Merchant_00236,Healthcare,Hyderabad,Telangana,Hybrid,2023-08-13
+MER00237,Merchant_00237,Food,Delhi,Delhi,Online,2020-02-09
+MER00238,Merchant_00238,Utilities,Kolkata,West Bengal,Hybrid,2023-03-31
+MER00239,Merchant_00239,Other,Ahmedabad,Gujarat,Online,2024-01-14
+MER00240,Merchant_00240,Grocery,Pune,Maharashtra,Online,2024-07-29
+MER00241,Merchant_00241,Education,Srinagar,Jammu and Kashmir,Offline,2020-05-15
+MER00242,Merchant_00242,Food,Chandigarh,Chandigarh,Offline,2021-10-31
+MER00243,Merchant_00243,Fashion,Ranchi,Jharkhand,Offline,2022-10-22
+MER00244,Merchant_00244,Food,Delhi,Delhi,Hybrid,2020-11-18
+MER00245,Merchant_00245,Food,Bengaluru,Karnataka,Offline,2020-02-19
+MER00246,Merchant_00246,Entertainment,Mumbai,Maharashtra,Online,2020-09-26
+MER00247,Merchant_00247,Food,Bhubaneswar,Odisha,Online,2020-12-11
+MER00248,Merchant_00248,Entertainment,Bhopal,Madhya Pradesh,Hybrid,2020-03-10
+MER00249,Merchant_00249,Food,Chennai,Tamil Nadu,Offline,2021-06-11
+MER00250,Merchant_00250,Food,Kolkata,West Bengal,Offline,2022-10-05
+MER00251,Merchant_00251,Utilities,Chennai,Tamil Nadu,Offline,2021-03-02
+MER00252,Merchant_00252,Food,Delhi,Delhi,Offline,2021-08-24
+MER00253,Merchant_00253,Grocery,Kolkata,West Bengal,Offline,2020-11-29
+MER00254,Merchant_00254,Food,Chandigarh,Chandigarh,Offline,2022-03-11
+MER00255,Merchant_00255,Entertainment,Kolkata,West Bengal,Online,2020-10-21
+MER00256,Merchant_00256,Healthcare,Hyderabad,Telangana,Offline,2021-12-31
+MER00257,Merchant_00257,Travel,Ahmedabad,Gujarat,Offline,2021-03-23
+MER00258,Merchant_00258,Fashion,Bengaluru,Karnataka,Offline,2022-09-08
+MER00259,Merchant_00259,Grocery,Delhi,Delhi,Offline,2021-10-23
+MER00260,Merchant_00260,Food,Ahmedabad,Gujarat,Online,2022-02-15
+MER00261,Merchant_00261,Grocery,Jaipur,Rajasthan,Hybrid,2021-11-12
+MER00262,Merchant_00262,Food,Mumbai,Maharashtra,Online,2023-11-17
+MER00263,Merchant_00263,Food,Chennai,Tamil Nadu,Offline,2021-11-19
+MER00264,Merchant_00264,Electronics,Patna,Bihar,Offline,2022-01-07
+MER00265,Merchant_00265,Healthcare,Chandigarh,Chandigarh,Offline,2023-11-29
+MER00266,Merchant_00266,Fashion,Hyderabad,Telangana,Online,2024-11-26
+MER00267,Merchant_00267,Utilities,Surat,Gujarat,Online,2020-07-22
+MER00268,Merchant_00268,Food,Coimbatore,Tamil Nadu,Online,2022-05-29
+MER00269,Merchant_00269,Grocery,Ahmedabad,Gujarat,Online,2022-12-16
+MER00270,Merchant_00270,Utilities,Patna,Bihar,Offline,2021-05-06
+MER00271,Merchant_00271,Grocery,Delhi,Delhi,Hybrid,2021-12-03
+MER00272,Merchant_00272,Grocery,Patna,Bihar,Offline,2024-01-02
+MER00273,Merchant_00273,Utilities,Patna,Bihar,Hybrid,2020-12-03
+MER00274,Merchant_00274,Entertainment,Lucknow,Uttar Pradesh,Offline,2021-09-17
+MER00275,Merchant_00275,Grocery,Hyderabad,Telangana,Online,2020-05-06
+MER00276,Merchant_00276,Food,Ahmedabad,Gujarat,Hybrid,2022-04-25
+MER00277,Merchant_00277,Travel,Delhi,Delhi,Offline,2021-01-03
+MER00278,Merchant_00278,Travel,Ahmedabad,Gujarat,Online,2021-05-11
+MER00279,Merchant_00279,Education,Coimbatore,Tamil Nadu,Hybrid,2020-12-30
+MER00280,Merchant_00280,Food,Jaipur,Rajasthan,Hybrid,2024-01-01
+MER00281,Merchant_00281,Other,Bengaluru,Karnataka,Offline,2021-07-24
+MER00282,Merchant_00282,Food,Kolkata,West Bengal,Offline,2022-10-29
+MER00283,Merchant_00283,Grocery,Ahmedabad,Gujarat,Offline,2022-10-08
+MER00284,Merchant_00284,Food,Jaipur,Rajasthan,Offline,2021-07-29
+MER00285,Merchant_00285,Electronics,Ahmedabad,Gujarat,Online,2023-07-04
+MER00286,Merchant_00286,Healthcare,Coimbatore,Tamil Nadu,Online,2023-08-18
+MER00287,Merchant_00287,Healthcare,Mumbai,Maharashtra,Online,2021-09-18
+MER00288,Merchant_00288,Food,Jaipur,Rajasthan,Online,2020-12-15
+MER00289,Merchant_00289,Other,Kolkata,West Bengal,Offline,2021-06-06
+MER00290,Merchant_00290,Grocery,Delhi,Delhi,Offline,2021-12-06
+MER00291,Merchant_00291,Fashion,Mumbai,Maharashtra,Hybrid,2021-08-28
+MER00292,Merchant_00292,Healthcare,Coimbatore,Tamil Nadu,Offline,2021-08-08
+MER00293,Merchant_00293,Food,Guwahati,Assam,Offline,2020-07-30
+MER00294,Merchant_00294,Utilities,Jaipur,Rajasthan,Online,2023-11-25
+MER00295,Merchant_00295,Food,Srinagar,Jammu and Kashmir,Online,2023-09-25
+MER00296,Merchant_00296,Food,Bengaluru,Karnataka,Online,2023-09-09
+MER00297,Merchant_00297,Healthcare,Mumbai,Maharashtra,Online,2020-03-30
+MER00298,Merchant_00298,Fashion,Coimbatore,Tamil Nadu,Offline,2023-10-04
+MER00299,Merchant_00299,Utilities,Bengaluru,Karnataka,Offline,2022-03-31
+MER00300,Merchant_00300,Electronics,Ahmedabad,Gujarat,Offline,2020-04-19
+MER00301,Merchant_00301,Grocery,Hyderabad,Telangana,Offline,2020-10-24
+MER00302,Merchant_00302,Travel,Hyderabad,Telangana,Hybrid,2023-03-28
+MER00303,Merchant_00303,Fashion,Nagpur,Maharashtra,Offline,2024-05-26
+MER00304,Merchant_00304,Other,Pune,Maharashtra,Online,2021-03-04
+MER00305,Merchant_00305,Travel,Mumbai,Maharashtra,Offline,2022-03-20
+MER00306,Merchant_00306,Grocery,Lucknow,Uttar Pradesh,Offline,2024-10-26
+MER00307,Merchant_00307,Other,Ranchi,Jharkhand,Hybrid,2021-04-26
+MER00308,Merchant_00308,Education,Bengaluru,Karnataka,Online,2022-09-11
+MER00309,Merchant_00309,Fashion,Surat,Gujarat,Hybrid,2023-12-06
+MER00310,Merchant_00310,Fashion,Kolkata,West Bengal,Online,2024-06-13
+MER00311,Merchant_00311,Other,Bengaluru,Karnataka,Offline,2024-06-18
+MER00312,Merchant_00312,Grocery,Kochi,Kerala,Online,2022-11-29
+MER00313,Merchant_00313,Utilities,Mumbai,Maharashtra,Online,2021-07-09
+MER00314,Merchant_00314,Grocery,Guwahati,Assam,Online,2021-07-24
+MER00315,Merchant_00315,Grocery,Mumbai,Maharashtra,Offline,2023-03-13
+MER00316,Merchant_00316,Grocery,Bhopal,Madhya Pradesh,Hybrid,2024-07-03
+MER00317,Merchant_00317,Grocery,Mumbai,Maharashtra,Offline,2024-10-10
+MER00318,Merchant_00318,Grocery,Nagpur,Maharashtra,Hybrid,2022-05-19
+MER00319,Merchant_00319,Fashion,Patna,Bihar,Offline,2023-06-23
+MER00320,Merchant_00320,Utilities,Mumbai,Maharashtra,Offline,2020-01-11
+MER00321,Merchant_00321,Entertainment,Bhopal,Madhya Pradesh,Online,2023-04-07
+MER00322,Merchant_00322,Food,Surat,Gujarat,Offline,2021-11-29
+MER00323,Merchant_00323,Travel,Kolkata,West Bengal,Offline,2024-01-30
+MER00324,Merchant_00324,Food,Kochi,Kerala,Offline,2024-10-02
+MER00325,Merchant_00325,Travel,Kochi,Kerala,Online,2023-09-10
+MER00326,Merchant_00326,Other,Pune,Maharashtra,Offline,2020-02-24
+MER00327,Merchant_00327,Travel,Mumbai,Maharashtra,Online,2024-01-23
+MER00328,Merchant_00328,Electronics,Bhopal,Madhya Pradesh,Hybrid,2020-10-24
+MER00329,Merchant_00329,Entertainment,Jaipur,Rajasthan,Hybrid,2021-10-28
+MER00330,Merchant_00330,Fashion,Ahmedabad,Gujarat,Hybrid,2020-08-22
+MER00331,Merchant_00331,Travel,Kolkata,West Bengal,Offline,2023-04-27
+MER00332,Merchant_00332,Grocery,Chennai,Tamil Nadu,Online,2023-01-22
+MER00333,Merchant_00333,Utilities,Kolkata,West Bengal,Hybrid,2020-02-04
+MER00334,Merchant_00334,Healthcare,Mumbai,Maharashtra,Online,2024-01-12
+MER00335,Merchant_00335,Education,Mumbai,Maharashtra,Offline,2023-11-28
+MER00336,Merchant_00336,Fashion,Mumbai,Maharashtra,Offline,2020-01-15
+MER00337,Merchant_00337,Grocery,Bengaluru,Karnataka,Offline,2022-08-04
+MER00338,Merchant_00338,Entertainment,Mumbai,Maharashtra,Online,2024-02-19
+MER00339,Merchant_00339,Grocery,Srinagar,Jammu and Kashmir,Offline,2024-12-10
+MER00340,Merchant_00340,Food,Bhopal,Madhya Pradesh,Hybrid,2020-09-17
+MER00341,Merchant_00341,Fashion,Pune,Maharashtra,Online,2021-10-19
+MER00342,Merchant_00342,Fashion,Hyderabad,Telangana,Online,2021-11-01
+MER00343,Merchant_00343,Healthcare,Nagpur,Maharashtra,Hybrid,2022-05-04
+MER00344,Merchant_00344,Fashion,Hyderabad,Telangana,Online,2023-09-13
+MER00345,Merchant_00345,Fashion,Dehradun,Uttarakhand,Online,2024-04-14
+MER00346,Merchant_00346,Fashion,Jaipur,Rajasthan,Hybrid,2024-08-28
+MER00347,Merchant_00347,Food,Hyderabad,Telangana,Offline,2020-09-01
+MER00348,Merchant_00348,Other,Mumbai,Maharashtra,Offline,2024-10-27
+MER00349,Merchant_00349,Food,Bhopal,Madhya Pradesh,Offline,2023-12-30
+MER00350,Merchant_00350,Electronics,Delhi,Delhi,Online,2021-03-10
+MER00351,Merchant_00351,Education,Hyderabad,Telangana,Online,2020-05-06
+MER00352,Merchant_00352,Grocery,Dehradun,Uttarakhand,Offline,2024-12-14
+MER00353,Merchant_00353,Fashion,Mumbai,Maharashtra,Hybrid,2022-01-22
+MER00354,Merchant_00354,Food,Delhi,Delhi,Online,2024-01-22
+MER00355,Merchant_00355,Utilities,Kolkata,West Bengal,Hybrid,2023-08-08
+MER00356,Merchant_00356,Electronics,Mumbai,Maharashtra,Offline,2022-06-18
+MER00357,Merchant_00357,Other,Lucknow,Uttar Pradesh,Offline,2021-04-09
+MER00358,Merchant_00358,Travel,Indore,Madhya Pradesh,Online,2023-02-26
+MER00359,Merchant_00359,Other,Kolkata,West Bengal,Online,2023-02-21
+MER00360,Merchant_00360,Travel,Ahmedabad,Gujarat,Online,2023-02-11
+MER00361,Merchant_00361,Other,Pune,Maharashtra,Hybrid,2023-03-31
+MER00362,Merchant_00362,Food,Chennai,Tamil Nadu,Hybrid,2024-06-12
+MER00363,Merchant_00363,Fashion,Guwahati,Assam,Offline,2021-06-08
+MER00364,Merchant_00364,Fashion,Mumbai,Maharashtra,Offline,2021-12-26
+MER00365,Merchant_00365,Utilities,Chandigarh,Chandigarh,Offline,2021-04-18
+MER00366,Merchant_00366,Grocery,Bhubaneswar,Odisha,Online,2024-03-28
+MER00367,Merchant_00367,Utilities,Pune,Maharashtra,Offline,2024-01-10
+MER00368,Merchant_00368,Travel,Chandigarh,Chandigarh,Offline,2023-12-08
+MER00369,Merchant_00369,Travel,Mumbai,Maharashtra,Online,2023-07-08
+MER00370,Merchant_00370,Grocery,Hyderabad,Telangana,Online,2020-09-26
+MER00371,Merchant_00371,Grocery,Kochi,Kerala,Online,2024-09-28
+MER00372,Merchant_00372,Healthcare,Coimbatore,Tamil Nadu,Offline,2022-05-26
+MER00373,Merchant_00373,Grocery,Visakhapatnam,Andhra Pradesh,Hybrid,2024-03-18
+MER00374,Merchant_00374,Grocery,Surat,Gujarat,Offline,2024-02-29
+MER00375,Merchant_00375,Other,Delhi,Delhi,Offline,2022-03-01
+MER00376,Merchant_00376,Grocery,Ranchi,Jharkhand,Hybrid,2024-11-06
+MER00377,Merchant_00377,Grocery,Kolkata,West Bengal,Offline,2023-12-04
+MER00378,Merchant_00378,Electronics,Srinagar,Jammu and Kashmir,Offline,2020-05-31
+MER00379,Merchant_00379,Food,Lucknow,Uttar Pradesh,Offline,2023-05-24
+MER00380,Merchant_00380,Travel,Bhubaneswar,Odisha,Offline,2024-11-17
+MER00381,Merchant_00381,Healthcare,Bengaluru,Karnataka,Online,2023-03-08
+MER00382,Merchant_00382,Food,Chennai,Tamil Nadu,Hybrid,2024-05-17
+MER00383,Merchant_00383,Grocery,Mumbai,Maharashtra,Offline,2024-08-11
+MER00384,Merchant_00384,Grocery,Bhubaneswar,Odisha,Online,2023-06-02
+MER00385,Merchant_00385,Grocery,Chennai,Tamil Nadu,Online,2021-08-07
+MER00386,Merchant_00386,Electronics,Mumbai,Maharashtra,Offline,2021-11-12
+MER00387,Merchant_00387,Grocery,Mumbai,Maharashtra,Online,2024-02-08
+MER00388,Merchant_00388,Travel,Hyderabad,Telangana,Online,2024-06-14
+MER00389,Merchant_00389,Grocery,Dehradun,Uttarakhand,Offline,2022-07-28
+MER00390,Merchant_00390,Other,Mumbai,Maharashtra,Offline,2021-05-10
+MER00391,Merchant_00391,Entertainment,Kolkata,West Bengal,Offline,2020-07-25
+MER00392,Merchant_00392,Entertainment,Patna,Bihar,Offline,2020-07-17
+MER00393,Merchant_00393,Utilities,Hyderabad,Telangana,Hybrid,2021-07-24
+MER00394,Merchant_00394,Other,Chennai,Tamil Nadu,Online,2020-01-11
+MER00395,Merchant_00395,Food,Hyderabad,Telangana,Online,2024-04-22
+MER00396,Merchant_00396,Other,Mumbai,Maharashtra,Hybrid,2022-01-13
+MER00397,Merchant_00397,Electronics,Mumbai,Maharashtra,Offline,2022-02-01
+MER00398,Merchant_00398,Grocery,Bhubaneswar,Odisha,Online,2023-01-09
+MER00399,Merchant_00399,Fashion,Chandigarh,Chandigarh,Hybrid,2023-07-28
+MER00400,Merchant_00400,Utilities,Hyderabad,Telangana,Offline,2021-02-08
+MER00401,Merchant_00401,Utilities,Dehradun,Uttarakhand,Hybrid,2020-05-16
+MER00402,Merchant_00402,Travel,Mumbai,Maharashtra,Offline,2020-04-02
+MER00403,Merchant_00403,Electronics,Surat,Gujarat,Offline,2021-10-09
+MER00404,Merchant_00404,Healthcare,Hyderabad,Telangana,Offline,2020-02-22
+MER00405,Merchant_00405,Food,Kolkata,West Bengal,Hybrid,2023-09-29
+MER00406,Merchant_00406,Entertainment,Chennai,Tamil Nadu,Offline,2023-08-22
+MER00407,Merchant_00407,Travel,Mumbai,Maharashtra,Online,2023-08-31
+MER00408,Merchant_00408,Food,Indore,Madhya Pradesh,Online,2021-12-06
+MER00409,Merchant_00409,Grocery,Chandigarh,Chandigarh,Online,2022-02-01
+MER00410,Merchant_00410,Grocery,Mumbai,Maharashtra,Online,2023-03-06
+MER00411,Merchant_00411,Fashion,Surat,Gujarat,Online,2022-06-21
+MER00412,Merchant_00412,Grocery,Hyderabad,Telangana,Online,2021-08-05
+MER00413,Merchant_00413,Travel,Delhi,Delhi,Hybrid,2021-04-28
+MER00414,Merchant_00414,Electronics,Bengaluru,Karnataka,Online,2020-10-06
+MER00415,Merchant_00415,Grocery,Mumbai,Maharashtra,Hybrid,2020-08-18
+MER00416,Merchant_00416,Electronics,Delhi,Delhi,Online,2020-06-05
+MER00417,Merchant_00417,Utilities,Kolkata,West Bengal,Hybrid,2020-02-29
+MER00418,Merchant_00418,Utilities,Coimbatore,Tamil Nadu,Hybrid,2020-01-02
+MER00419,Merchant_00419,Grocery,Ahmedabad,Gujarat,Hybrid,2024-01-11
+MER00420,Merchant_00420,Travel,Ahmedabad,Gujarat,Offline,2022-04-08
+MER00421,Merchant_00421,Food,Chandigarh,Chandigarh,Offline,2020-04-30
+MER00422,Merchant_00422,Grocery,Indore,Madhya Pradesh,Offline,2020-07-12
+MER00423,Merchant_00423,Utilities,Lucknow,Uttar Pradesh,Online,2023-04-21
+MER00424,Merchant_00424,Entertainment,Kolkata,West Bengal,Online,2024-10-05
+MER00425,Merchant_00425,Food,Bengaluru,Karnataka,Hybrid,2020-12-19
+MER00426,Merchant_00426,Food,Delhi,Delhi,Online,2021-11-13
+MER00427,Merchant_00427,Food,Lucknow,Uttar Pradesh,Online,2023-04-04
+MER00428,Merchant_00428,Healthcare,Nagpur,Maharashtra,Hybrid,2024-06-06
+MER00429,Merchant_00429,Other,Nagpur,Maharashtra,Hybrid,2024-11-24
+MER00430,Merchant_00430,Fashion,Kolkata,West Bengal,Offline,2020-05-27
+MER00431,Merchant_00431,Other,Delhi,Delhi,Offline,2024-03-11
+MER00432,Merchant_00432,Travel,Kochi,Kerala,Online,2020-07-30
+MER00433,Merchant_00433,Grocery,Jaipur,Rajasthan,Hybrid,2022-01-10
+MER00434,Merchant_00434,Healthcare,Chennai,Tamil Nadu,Online,2022-06-25
+MER00435,Merchant_00435,Food,Delhi,Delhi,Offline,2020-06-03
+MER00436,Merchant_00436,Utilities,Lucknow,Uttar Pradesh,Hybrid,2024-01-16
+MER00437,Merchant_00437,Food,Bengaluru,Karnataka,Offline,2020-05-27
+MER00438,Merchant_00438,Electronics,Surat,Gujarat,Online,2023-09-22
+MER00439,Merchant_00439,Travel,Patna,Bihar,Online,2023-02-08
+MER00440,Merchant_00440,Utilities,Bengaluru,Karnataka,Hybrid,2021-02-19
+MER00441,Merchant_00441,Education,Hyderabad,Telangana,Offline,2023-06-17
+MER00442,Merchant_00442,Grocery,Kolkata,West Bengal,Offline,2021-12-21
+MER00443,Merchant_00443,Other,Ahmedabad,Gujarat,Offline,2022-06-02
+MER00444,Merchant_00444,Healthcare,Bhopal,Madhya Pradesh,Offline,2022-12-27
+MER00445,Merchant_00445,Utilities,Mumbai,Maharashtra,Hybrid,2022-04-02
+MER00446,Merchant_00446,Grocery,Patna,Bihar,Offline,2021-07-06
+MER00447,Merchant_00447,Food,Kochi,Kerala,Online,2020-01-27
+MER00448,Merchant_00448,Other,Lucknow,Uttar Pradesh,Hybrid,2020-10-21
+MER00449,Merchant_00449,Travel,Hyderabad,Telangana,Hybrid,2022-08-05
+MER00450,Merchant_00450,Grocery,Patna,Bihar,Offline,2022-03-23
+MER00451,Merchant_00451,Food,Hyderabad,Telangana,Online,2021-03-21
+MER00452,Merchant_00452,Other,Mumbai,Maharashtra,Offline,2022-05-04
+MER00453,Merchant_00453,Grocery,Bengaluru,Karnataka,Offline,2024-07-22
+MER00454,Merchant_00454,Healthcare,Patna,Bihar,Hybrid,2021-02-06
+MER00455,Merchant_00455,Healthcare,Chennai,Tamil Nadu,Hybrid,2021-10-04
+MER00456,Merchant_00456,Travel,Visakhapatnam,Andhra Pradesh,Hybrid,2021-11-07
+MER00457,Merchant_00457,Healthcare,Chandigarh,Chandigarh,Hybrid,2023-03-14
+MER00458,Merchant_00458,Electronics,Delhi,Delhi,Offline,2020-10-30
+MER00459,Merchant_00459,Other,Coimbatore,Tamil Nadu,Offline,2024-01-11
+MER00460,Merchant_00460,Utilities,Ranchi,Jharkhand,Offline,2022-07-30
+MER00461,Merchant_00461,Entertainment,Chandigarh,Chandigarh,Hybrid,2020-02-08
+MER00462,Merchant_00462,Grocery,Patna,Bihar,Offline,2024-02-01
+MER00463,Merchant_00463,Travel,Delhi,Delhi,Offline,2021-02-10
+MER00464,Merchant_00464,Fashion,Delhi,Delhi,Offline,2021-02-25
+MER00465,Merchant_00465,Electronics,Kolkata,West Bengal,Online,2020-02-03
+MER00466,Merchant_00466,Travel,Bengaluru,Karnataka,Hybrid,2024-07-29
+MER00467,Merchant_00467,Other,Hyderabad,Telangana,Online,2024-07-31
+MER00468,Merchant_00468,Healthcare,Mumbai,Maharashtra,Offline,2020-08-06
+MER00469,Merchant_00469,Utilities,Chennai,Tamil Nadu,Hybrid,2024-01-22
+MER00470,Merchant_00470,Fashion,Bengaluru,Karnataka,Offline,2024-10-24
+MER00471,Merchant_00471,Healthcare,Kochi,Kerala,Offline,2024-12-13
+MER00472,Merchant_00472,Education,Nagpur,Maharashtra,Online,2024-10-19
+MER00473,Merchant_00473,Entertainment,Indore,Madhya Pradesh,Online,2022-11-14
+MER00474,Merchant_00474,Grocery,Jaipur,Rajasthan,Hybrid,2022-10-18
+MER00475,Merchant_00475,Healthcare,Ahmedabad,Gujarat,Offline,2020-10-21
+MER00476,Merchant_00476,Healthcare,Delhi,Delhi,Online,2023-05-25
+MER00477,Merchant_00477,Grocery,Delhi,Delhi,Hybrid,2021-10-21
+MER00478,Merchant_00478,Fashion,Chennai,Tamil Nadu,Offline,2023-11-30
+MER00479,Merchant_00479,Entertainment,Hyderabad,Telangana,Offline,2022-05-12
+MER00480,Merchant_00480,Food,Pune,Maharashtra,Offline,2020-12-25
+MER00481,Merchant_00481,Food,Delhi,Delhi,Online,2022-05-09
+MER00482,Merchant_00482,Education,Patna,Bihar,Offline,2021-08-29
+MER00483,Merchant_00483,Healthcare,Visakhapatnam,Andhra Pradesh,Offline,2020-03-05
+MER00484,Merchant_00484,Other,Delhi,Delhi,Offline,2021-08-21
+MER00485,Merchant_00485,Other,Lucknow,Uttar Pradesh,Offline,2023-12-20
+MER00486,Merchant_00486,Grocery,Patna,Bihar,Offline,2021-07-07
+MER00487,Merchant_00487,Food,Pune,Maharashtra,Online,2023-04-08
+MER00488,Merchant_00488,Grocery,Surat,Gujarat,Offline,2021-06-25
+MER00489,Merchant_00489,Food,Bengaluru,Karnataka,Hybrid,2021-03-06
+MER00490,Merchant_00490,Utilities,Lucknow,Uttar Pradesh,Offline,2023-05-03
+MER00491,Merchant_00491,Healthcare,Bhopal,Madhya Pradesh,Hybrid,2021-09-24
+MER00492,Merchant_00492,Healthcare,Bhopal,Madhya Pradesh,Hybrid,2021-11-28
+MER00493,Merchant_00493,Entertainment,Kolkata,West Bengal,Online,2022-06-22
+MER00494,Merchant_00494,Grocery,Hyderabad,Telangana,Offline,2021-06-22
+MER00495,Merchant_00495,Food,Delhi,Delhi,Offline,2023-05-16
+MER00496,Merchant_00496,Travel,Delhi,Delhi,Hybrid,2023-08-24
+MER00497,Merchant_00497,Grocery,Chandigarh,Chandigarh,Online,2020-07-04
+MER00498,Merchant_00498,Entertainment,Coimbatore,Tamil Nadu,Hybrid,2024-01-13
+MER00499,Merchant_00499,Entertainment,Guwahati,Assam,Online,2023-08-19
+MER00500,Merchant_00500,Utilities,Bhubaneswar,Odisha,Hybrid,2020-09-09
+MER00501,Merchant_00501,Grocery,Nagpur,Maharashtra,Online,2020-08-02
+MER00502,Merchant_00502,Food,Delhi,Delhi,Online,2022-05-21
+MER00503,Merchant_00503,Food,Delhi,Delhi,Online,2024-04-06
+MER00504,Merchant_00504,Education,Pune,Maharashtra,Online,2021-07-08
+MER00505,Merchant_00505,Fashion,Visakhapatnam,Andhra Pradesh,Offline,2022-05-10
+MER00506,Merchant_00506,Grocery,Nagpur,Maharashtra,Offline,2022-11-28
+MER00507,Merchant_00507,Grocery,Mumbai,Maharashtra,Online,2021-06-04
+MER00508,Merchant_00508,Food,Nagpur,Maharashtra,Hybrid,2022-03-02
+MER00509,Merchant_00509,Utilities,Delhi,Delhi,Offline,2020-11-02
+MER00510,Merchant_00510,Fashion,Kochi,Kerala,Online,2022-11-28
+MER00511,Merchant_00511,Entertainment,Jaipur,Rajasthan,Offline,2021-07-22
+MER00512,Merchant_00512,Fashion,Ahmedabad,Gujarat,Hybrid,2023-12-02
+MER00513,Merchant_00513,Electronics,Hyderabad,Telangana,Online,2021-09-17
+MER00514,Merchant_00514,Fashion,Chandigarh,Chandigarh,Offline,2022-01-18
+MER00515,Merchant_00515,Entertainment,Bengaluru,Karnataka,Offline,2022-05-31
+MER00516,Merchant_00516,Utilities,Jaipur,Rajasthan,Hybrid,2022-06-29
+MER00517,Merchant_00517,Electronics,Lucknow,Uttar Pradesh,Hybrid,2022-01-02
+MER00518,Merchant_00518,Utilities,Delhi,Delhi,Online,2021-07-14
+MER00519,Merchant_00519,Grocery,Jaipur,Rajasthan,Offline,2021-10-23
+MER00520,Merchant_00520,Grocery,Lucknow,Uttar Pradesh,Offline,2020-06-12
+MER00521,Merchant_00521,Healthcare,Chennai,Tamil Nadu,Hybrid,2024-02-22
+MER00522,Merchant_00522,Other,Patna,Bihar,Offline,2021-03-13
+MER00523,Merchant_00523,Food,Jaipur,Rajasthan,Hybrid,2020-05-04
+MER00524,Merchant_00524,Food,Lucknow,Uttar Pradesh,Offline,2021-02-27
+MER00525,Merchant_00525,Education,Chennai,Tamil Nadu,Online,2023-10-11
+MER00526,Merchant_00526,Healthcare,Visakhapatnam,Andhra Pradesh,Offline,2022-06-12
+MER00527,Merchant_00527,Utilities,Delhi,Delhi,Online,2023-04-08
+MER00528,Merchant_00528,Electronics,Nagpur,Maharashtra,Hybrid,2023-04-24
+MER00529,Merchant_00529,Other,Coimbatore,Tamil Nadu,Offline,2020-04-13
+MER00530,Merchant_00530,Healthcare,Bengaluru,Karnataka,Offline,2022-01-20
+MER00531,Merchant_00531,Grocery,Mumbai,Maharashtra,Online,2020-02-08
+MER00532,Merchant_00532,Grocery,Indore,Madhya Pradesh,Offline,2022-04-07
+MER00533,Merchant_00533,Healthcare,Bengaluru,Karnataka,Offline,2020-06-11
+MER00534,Merchant_00534,Travel,Delhi,Delhi,Offline,2022-09-04
+MER00535,Merchant_00535,Grocery,Bhubaneswar,Odisha,Offline,2022-12-29
+MER00536,Merchant_00536,Food,Lucknow,Uttar Pradesh,Hybrid,2021-06-26
+MER00537,Merchant_00537,Other,Lucknow,Uttar Pradesh,Hybrid,2024-05-13
+MER00538,Merchant_00538,Food,Bengaluru,Karnataka,Offline,2024-01-08
+MER00539,Merchant_00539,Entertainment,Visakhapatnam,Andhra Pradesh,Online,2021-07-27
+MER00540,Merchant_00540,Food,Nagpur,Maharashtra,Online,2022-05-13
+MER00541,Merchant_00541,Grocery,Mumbai,Maharashtra,Online,2020-08-25
+MER00542,Merchant_00542,Food,Visakhapatnam,Andhra Pradesh,Online,2022-04-17
+MER00543,Merchant_00543,Food,Hyderabad,Telangana,Offline,2022-07-15
+MER00544,Merchant_00544,Other,Ranchi,Jharkhand,Online,2022-10-07
+MER00545,Merchant_00545,Grocery,Kolkata,West Bengal,Online,2020-05-26
+MER00546,Merchant_00546,Food,Kolkata,West Bengal,Offline,2021-10-29
+MER00547,Merchant_00547,Fashion,Bengaluru,Karnataka,Online,2021-01-30
+MER00548,Merchant_00548,Food,Bengaluru,Karnataka,Offline,2020-07-01
+MER00549,Merchant_00549,Travel,Bengaluru,Karnataka,Online,2023-06-12
+MER00550,Merchant_00550,Grocery,Lucknow,Uttar Pradesh,Offline,2022-03-11
+MER00551,Merchant_00551,Fashion,Lucknow,Uttar Pradesh,Hybrid,2021-05-12
+MER00552,Merchant_00552,Food,Kolkata,West Bengal,Hybrid,2024-01-11
+MER00553,Merchant_00553,Fashion,Chennai,Tamil Nadu,Online,2022-11-25
+MER00554,Merchant_00554,Grocery,Pune,Maharashtra,Online,2024-12-10
+MER00555,Merchant_00555,Entertainment,Kolkata,West Bengal,Offline,2024-06-19
+MER00556,Merchant_00556,Fashion,Delhi,Delhi,Offline,2024-02-17
+MER00557,Merchant_00557,Grocery,Ranchi,Jharkhand,Hybrid,2022-09-19
+MER00558,Merchant_00558,Electronics,Lucknow,Uttar Pradesh,Offline,2021-04-20
+MER00559,Merchant_00559,Other,Bengaluru,Karnataka,Offline,2023-09-06
+MER00560,Merchant_00560,Travel,Bengaluru,Karnataka,Offline,2021-02-08
+MER00561,Merchant_00561,Entertainment,Nagpur,Maharashtra,Offline,2024-05-23
+MER00562,Merchant_00562,Food,Delhi,Delhi,Online,2024-04-17
+MER00563,Merchant_00563,Grocery,Lucknow,Uttar Pradesh,Offline,2024-11-25
+MER00564,Merchant_00564,Entertainment,Jaipur,Rajasthan,Offline,2023-05-08
+MER00565,Merchant_00565,Grocery,Pune,Maharashtra,Online,2020-08-16
+MER00566,Merchant_00566,Other,Delhi,Delhi,Offline,2023-07-17
+MER00567,Merchant_00567,Education,Visakhapatnam,Andhra Pradesh,Offline,2020-12-26
+MER00568,Merchant_00568,Entertainment,Mumbai,Maharashtra,Hybrid,2021-02-27
+MER00569,Merchant_00569,Grocery,Patna,Bihar,Hybrid,2020-08-25
+MER00570,Merchant_00570,Entertainment,Surat,Gujarat,Hybrid,2021-04-09
+MER00571,Merchant_00571,Other,Chennai,Tamil Nadu,Online,2022-11-02
+MER00572,Merchant_00572,Grocery,Guwahati,Assam,Offline,2022-07-03
+MER00573,Merchant_00573,Education,Bengaluru,Karnataka,Hybrid,2021-12-15
+MER00574,Merchant_00574,Education,Bhubaneswar,Odisha,Online,2021-08-22
+MER00575,Merchant_00575,Grocery,Nagpur,Maharashtra,Offline,2023-03-17
+MER00576,Merchant_00576,Healthcare,Bengaluru,Karnataka,Online,2021-11-08
+MER00577,Merchant_00577,Entertainment,Chandigarh,Chandigarh,Hybrid,2020-01-22
+MER00578,Merchant_00578,Grocery,Bengaluru,Karnataka,Hybrid,2024-12-18
+MER00579,Merchant_00579,Food,Bengaluru,Karnataka,Online,2021-01-27
+MER00580,Merchant_00580,Other,Chandigarh,Chandigarh,Offline,2021-11-20
+MER00581,Merchant_00581,Food,Chennai,Tamil Nadu,Hybrid,2020-12-02
+MER00582,Merchant_00582,Grocery,Pune,Maharashtra,Online,2024-04-18
+MER00583,Merchant_00583,Other,Pune,Maharashtra,Hybrid,2023-11-15
+MER00584,Merchant_00584,Food,Guwahati,Assam,Offline,2024-01-22
+MER00585,Merchant_00585,Healthcare,Coimbatore,Tamil Nadu,Offline,2022-09-21
+MER00586,Merchant_00586,Utilities,Bengaluru,Karnataka,Offline,2022-07-05
+MER00587,Merchant_00587,Grocery,Delhi,Delhi,Offline,2021-08-19
+MER00588,Merchant_00588,Fashion,Mumbai,Maharashtra,Online,2024-09-24
+MER00589,Merchant_00589,Grocery,Kolkata,West Bengal,Online,2023-12-03
+MER00590,Merchant_00590,Education,Visakhapatnam,Andhra Pradesh,Offline,2021-12-17
+MER00591,Merchant_00591,Grocery,Ahmedabad,Gujarat,Offline,2020-11-26
+MER00592,Merchant_00592,Entertainment,Chennai,Tamil Nadu,Offline,2022-02-25
+MER00593,Merchant_00593,Grocery,Lucknow,Uttar Pradesh,Offline,2020-01-27
+MER00594,Merchant_00594,Travel,Kolkata,West Bengal,Hybrid,2020-12-01
+MER00595,Merchant_00595,Education,Pune,Maharashtra,Offline,2021-10-19
+MER00596,Merchant_00596,Other,Surat,Gujarat,Offline,2023-02-15
+MER00597,Merchant_00597,Entertainment,Nagpur,Maharashtra,Offline,2020-04-20
+MER00598,Merchant_00598,Education,Kolkata,West Bengal,Online,2021-06-05
+MER00599,Merchant_00599,Travel,Hyderabad,Telangana,Online,2021-06-11
+MER00600,Merchant_00600,Utilities,Guwahati,Assam,Offline,2022-03-23
+MER00601,Merchant_00601,Food,Indore,Madhya Pradesh,Online,2020-10-02
+MER00602,Merchant_00602,Education,Coimbatore,Tamil Nadu,Online,2024-04-14
+MER00603,Merchant_00603,Grocery,Delhi,Delhi,Online,2023-04-16
+MER00604,Merchant_00604,Healthcare,Chandigarh,Chandigarh,Hybrid,2023-12-10
+MER00605,Merchant_00605,Food,Pune,Maharashtra,Offline,2024-09-16
+MER00606,Merchant_00606,Food,Delhi,Delhi,Offline,2020-07-14
+MER00607,Merchant_00607,Utilities,Guwahati,Assam,Hybrid,2021-02-14
+MER00608,Merchant_00608,Grocery,Mumbai,Maharashtra,Hybrid,2023-10-07
+MER00609,Merchant_00609,Travel,Hyderabad,Telangana,Hybrid,2022-11-01
+MER00610,Merchant_00610,Grocery,Nagpur,Maharashtra,Online,2023-03-15
+MER00611,Merchant_00611,Other,Visakhapatnam,Andhra Pradesh,Online,2024-11-09
+MER00612,Merchant_00612,Fashion,Ranchi,Jharkhand,Hybrid,2023-09-23
+MER00613,Merchant_00613,Grocery,Hyderabad,Telangana,Offline,2020-03-30
+MER00614,Merchant_00614,Other,Surat,Gujarat,Hybrid,2020-03-03
+MER00615,Merchant_00615,Travel,Hyderabad,Telangana,Offline,2020-03-05
+MER00616,Merchant_00616,Utilities,Patna,Bihar,Offline,2022-12-09
+MER00617,Merchant_00617,Food,Jaipur,Rajasthan,Offline,2022-04-02
+MER00618,Merchant_00618,Healthcare,Bhubaneswar,Odisha,Hybrid,2020-07-16
+MER00619,Merchant_00619,Other,Lucknow,Uttar Pradesh,Online,2020-08-05
+MER00620,Merchant_00620,Food,Delhi,Delhi,Online,2023-06-21
+MER00621,Merchant_00621,Grocery,Delhi,Delhi,Hybrid,2020-06-26
+MER00622,Merchant_00622,Utilities,Kolkata,West Bengal,Online,2020-05-06
+MER00623,Merchant_00623,Fashion,Chandigarh,Chandigarh,Hybrid,2021-03-03
+MER00624,Merchant_00624,Healthcare,Delhi,Delhi,Online,2020-07-22
+MER00625,Merchant_00625,Fashion,Jaipur,Rajasthan,Hybrid,2024-10-17
+MER00626,Merchant_00626,Electronics,Jaipur,Rajasthan,Online,2020-10-17
+MER00627,Merchant_00627,Utilities,Bengaluru,Karnataka,Online,2024-05-20
+MER00628,Merchant_00628,Electronics,Bengaluru,Karnataka,Online,2022-12-30
+MER00629,Merchant_00629,Fashion,Bhopal,Madhya Pradesh,Hybrid,2024-08-09
+MER00630,Merchant_00630,Food,Ranchi,Jharkhand,Offline,2022-05-31
+MER00631,Merchant_00631,Utilities,Chandigarh,Chandigarh,Offline,2021-12-01
+MER00632,Merchant_00632,Fashion,Bhopal,Madhya Pradesh,Offline,2023-01-22
+MER00633,Merchant_00633,Utilities,Ahmedabad,Gujarat,Offline,2020-07-24
+MER00634,Merchant_00634,Grocery,Mumbai,Maharashtra,Offline,2021-11-14
+MER00635,Merchant_00635,Food,Ahmedabad,Gujarat,Hybrid,2021-11-05
+MER00636,Merchant_00636,Utilities,Bhopal,Madhya Pradesh,Offline,2023-04-16
+MER00637,Merchant_00637,Food,Bengaluru,Karnataka,Hybrid,2020-01-07
+MER00638,Merchant_00638,Grocery,Bengaluru,Karnataka,Offline,2021-12-29
+MER00639,Merchant_00639,Other,Ahmedabad,Gujarat,Online,2024-09-19
+MER00640,Merchant_00640,Utilities,Indore,Madhya Pradesh,Hybrid,2022-06-02
+MER00641,Merchant_00641,Electronics,Ranchi,Jharkhand,Online,2024-10-16
+MER00642,Merchant_00642,Healthcare,Bengaluru,Karnataka,Online,2024-06-20
+MER00643,Merchant_00643,Entertainment,Mumbai,Maharashtra,Offline,2022-09-17
+MER00644,Merchant_00644,Food,Kolkata,West Bengal,Hybrid,2021-06-23
+MER00645,Merchant_00645,Food,Bhubaneswar,Odisha,Online,2024-12-15
+MER00646,Merchant_00646,Fashion,Lucknow,Uttar Pradesh,Online,2023-05-10
+MER00647,Merchant_00647,Food,Delhi,Delhi,Hybrid,2022-11-05
+MER00648,Merchant_00648,Food,Mumbai,Maharashtra,Offline,2020-10-21
+MER00649,Merchant_00649,Education,Lucknow,Uttar Pradesh,Online,2021-12-03
+MER00650,Merchant_00650,Grocery,Kolkata,West Bengal,Hybrid,2023-11-10
+MER00651,Merchant_00651,Fashion,Delhi,Delhi,Hybrid,2021-10-27
+MER00652,Merchant_00652,Travel,Chennai,Tamil Nadu,Offline,2020-10-06
+MER00653,Merchant_00653,Healthcare,Bengaluru,Karnataka,Hybrid,2020-03-07
+MER00654,Merchant_00654,Grocery,Bhubaneswar,Odisha,Offline,2024-02-28
+MER00655,Merchant_00655,Fashion,Mumbai,Maharashtra,Hybrid,2021-09-13
+MER00656,Merchant_00656,Utilities,Delhi,Delhi,Offline,2020-03-18
+MER00657,Merchant_00657,Travel,Mumbai,Maharashtra,Hybrid,2020-03-20
+MER00658,Merchant_00658,Food,Bengaluru,Karnataka,Offline,2021-06-12
+MER00659,Merchant_00659,Healthcare,Chandigarh,Chandigarh,Hybrid,2023-09-10
+MER00660,Merchant_00660,Other,Guwahati,Assam,Hybrid,2023-05-13
+MER00661,Merchant_00661,Other,Kolkata,West Bengal,Offline,2021-06-03
+MER00662,Merchant_00662,Grocery,Guwahati,Assam,Online,2020-06-22
+MER00663,Merchant_00663,Grocery,Bengaluru,Karnataka,Hybrid,2023-01-28
+MER00664,Merchant_00664,Fashion,Indore,Madhya Pradesh,Offline,2024-08-03
+MER00665,Merchant_00665,Food,Jaipur,Rajasthan,Hybrid,2023-02-02
+MER00666,Merchant_00666,Utilities,Mumbai,Maharashtra,Online,2022-07-04
+MER00667,Merchant_00667,Entertainment,Nagpur,Maharashtra,Online,2022-10-09
+MER00668,Merchant_00668,Food,Mumbai,Maharashtra,Online,2022-02-07
+MER00669,Merchant_00669,Other,Hyderabad,Telangana,Offline,2021-04-07
+MER00670,Merchant_00670,Food,Lucknow,Uttar Pradesh,Online,2022-10-23
+MER00671,Merchant_00671,Grocery,Bhubaneswar,Odisha,Offline,2024-11-08
+MER00672,Merchant_00672,Travel,Mumbai,Maharashtra,Offline,2024-05-26
+MER00673,Merchant_00673,Entertainment,Bengaluru,Karnataka,Hybrid,2021-12-16
+MER00674,Merchant_00674,Education,Bhubaneswar,Odisha,Online,2021-04-02
+MER00675,Merchant_00675,Entertainment,Ahmedabad,Gujarat,Offline,2022-07-05
+MER00676,Merchant_00676,Education,Ahmedabad,Gujarat,Hybrid,2022-03-29
+MER00677,Merchant_00677,Food,Jaipur,Rajasthan,Hybrid,2020-05-13
+MER00678,Merchant_00678,Entertainment,Delhi,Delhi,Online,2020-10-25
+MER00679,Merchant_00679,Entertainment,Pune,Maharashtra,Hybrid,2024-04-29
+MER00680,Merchant_00680,Utilities,Delhi,Delhi,Hybrid,2024-07-30
+MER00681,Merchant_00681,Education,Guwahati,Assam,Online,2024-03-19
+MER00682,Merchant_00682,Food,Coimbatore,Tamil Nadu,Online,2024-12-11
+MER00683,Merchant_00683,Electronics,Mumbai,Maharashtra,Hybrid,2021-12-19
+MER00684,Merchant_00684,Food,Lucknow,Uttar Pradesh,Hybrid,2021-10-11
+MER00685,Merchant_00685,Fashion,Delhi,Delhi,Hybrid,2022-06-02
+MER00686,Merchant_00686,Grocery,Guwahati,Assam,Offline,2023-05-02
+MER00687,Merchant_00687,Grocery,Ahmedabad,Gujarat,Offline,2020-04-01
+MER00688,Merchant_00688,Grocery,Hyderabad,Telangana,Offline,2023-07-15
+MER00689,Merchant_00689,Food,Chennai,Tamil Nadu,Offline,2023-10-25
+MER00690,Merchant_00690,Grocery,Delhi,Delhi,Hybrid,2021-10-06
+MER00691,Merchant_00691,Education,Pune,Maharashtra,Offline,2020-11-08
+MER00692,Merchant_00692,Education,Dehradun,Uttarakhand,Online,2024-07-07
+MER00693,Merchant_00693,Fashion,Kochi,Kerala,Hybrid,2024-06-10
+MER00694,Merchant_00694,Food,Surat,Gujarat,Online,2022-06-28
+MER00695,Merchant_00695,Food,Bhubaneswar,Odisha,Hybrid,2021-07-24
+MER00696,Merchant_00696,Electronics,Pune,Maharashtra,Offline,2024-03-20
+MER00697,Merchant_00697,Other,Mumbai,Maharashtra,Offline,2020-02-15
+MER00698,Merchant_00698,Healthcare,Delhi,Delhi,Offline,2022-08-30
+MER00699,Merchant_00699,Education,Patna,Bihar,Offline,2024-11-30
+MER00700,Merchant_00700,Healthcare,Patna,Bihar,Hybrid,2023-07-25
+MER00701,Merchant_00701,Food,Hyderabad,Telangana,Offline,2020-03-15
+MER00702,Merchant_00702,Grocery,Lucknow,Uttar Pradesh,Hybrid,2021-10-21
+MER00703,Merchant_00703,Healthcare,Bengaluru,Karnataka,Offline,2021-07-12
+MER00704,Merchant_00704,Fashion,Mumbai,Maharashtra,Hybrid,2023-01-11
+MER00705,Merchant_00705,Food,Surat,Gujarat,Offline,2024-05-24
+MER00706,Merchant_00706,Food,Ahmedabad,Gujarat,Offline,2024-09-12
+MER00707,Merchant_00707,Education,Bhubaneswar,Odisha,Offline,2020-12-21
+MER00708,Merchant_00708,Fashion,Mumbai,Maharashtra,Offline,2023-01-07
+MER00709,Merchant_00709,Other,Patna,Bihar,Hybrid,2021-11-10
+MER00710,Merchant_00710,Electronics,Indore,Madhya Pradesh,Offline,2021-07-14
+MER00711,Merchant_00711,Fashion,Bengaluru,Karnataka,Online,2024-11-06
+MER00712,Merchant_00712,Healthcare,Bengaluru,Karnataka,Online,2023-07-07
+MER00713,Merchant_00713,Utilities,Kolkata,West Bengal,Offline,2020-01-21
+MER00714,Merchant_00714,Other,Chennai,Tamil Nadu,Online,2023-10-26
+MER00715,Merchant_00715,Grocery,Ahmedabad,Gujarat,Hybrid,2023-02-26
+MER00716,Merchant_00716,Food,Mumbai,Maharashtra,Offline,2024-05-20
+MER00717,Merchant_00717,Travel,Surat,Gujarat,Hybrid,2024-07-19
+MER00718,Merchant_00718,Fashion,Pune,Maharashtra,Hybrid,2023-01-24
+MER00719,Merchant_00719,Grocery,Ranchi,Jharkhand,Online,2020-11-21
+MER00720,Merchant_00720,Education,Chennai,Tamil Nadu,Online,2021-07-18
+MER00721,Merchant_00721,Healthcare,Ranchi,Jharkhand,Offline,2022-01-01
+MER00722,Merchant_00722,Healthcare,Kolkata,West Bengal,Offline,2022-12-25
+MER00723,Merchant_00723,Utilities,Kolkata,West Bengal,Offline,2023-11-10
+MER00724,Merchant_00724,Food,Lucknow,Uttar Pradesh,Offline,2021-09-11
+MER00725,Merchant_00725,Utilities,Hyderabad,Telangana,Offline,2020-04-12
+MER00726,Merchant_00726,Food,Pune,Maharashtra,Offline,2022-07-01
+MER00727,Merchant_00727,Food,Pune,Maharashtra,Offline,2021-10-13
+MER00728,Merchant_00728,Education,Indore,Madhya Pradesh,Hybrid,2021-03-13
+MER00729,Merchant_00729,Grocery,Indore,Madhya Pradesh,Online,2022-09-11
+MER00730,Merchant_00730,Entertainment,Hyderabad,Telangana,Offline,2021-09-09
+MER00731,Merchant_00731,Electronics,Bengaluru,Karnataka,Offline,2024-07-16
+MER00732,Merchant_00732,Grocery,Lucknow,Uttar Pradesh,Hybrid,2023-12-28
+MER00733,Merchant_00733,Grocery,Jaipur,Rajasthan,Hybrid,2024-09-11
+MER00734,Merchant_00734,Food,Visakhapatnam,Andhra Pradesh,Online,2022-10-10
+MER00735,Merchant_00735,Healthcare,Hyderabad,Telangana,Hybrid,2024-08-27
+MER00736,Merchant_00736,Fashion,Guwahati,Assam,Online,2023-02-25
+MER00737,Merchant_00737,Other,Chennai,Tamil Nadu,Offline,2021-01-14
+MER00738,Merchant_00738,Other,Mumbai,Maharashtra,Online,2023-07-10
+MER00739,Merchant_00739,Food,Hyderabad,Telangana,Offline,2024-07-21
+MER00740,Merchant_00740,Travel,Lucknow,Uttar Pradesh,Offline,2021-08-15
+MER00741,Merchant_00741,Grocery,Bengaluru,Karnataka,Offline,2020-12-17
+MER00742,Merchant_00742,Fashion,Delhi,Delhi,Hybrid,2021-03-04
+MER00743,Merchant_00743,Grocery,Kochi,Kerala,Offline,2024-10-16
+MER00744,Merchant_00744,Travel,Chennai,Tamil Nadu,Online,2020-10-02
+MER00745,Merchant_00745,Food,Hyderabad,Telangana,Offline,2021-03-23
+MER00746,Merchant_00746,Fashion,Hyderabad,Telangana,Offline,2020-10-30
+MER00747,Merchant_00747,Food,Kolkata,West Bengal,Online,2022-12-01
+MER00748,Merchant_00748,Electronics,Surat,Gujarat,Online,2021-02-08
+MER00749,Merchant_00749,Electronics,Chennai,Tamil Nadu,Hybrid,2021-01-29
+MER00750,Merchant_00750,Electronics,Mumbai,Maharashtra,Hybrid,2021-03-31
+MER00751,Merchant_00751,Electronics,Hyderabad,Telangana,Offline,2020-09-22
+MER00752,Merchant_00752,Food,Jaipur,Rajasthan,Offline,2023-10-06
+MER00753,Merchant_00753,Food,Delhi,Delhi,Online,2021-11-08
+MER00754,Merchant_00754,Food,Indore,Madhya Pradesh,Offline,2021-05-19
+MER00755,Merchant_00755,Fashion,Chennai,Tamil Nadu,Offline,2022-04-12
+MER00756,Merchant_00756,Electronics,Kolkata,West Bengal,Online,2024-07-13
+MER00757,Merchant_00757,Fashion,Patna,Bihar,Online,2020-07-24
+MER00758,Merchant_00758,Entertainment,Bengaluru,Karnataka,Offline,2021-11-27
+MER00759,Merchant_00759,Food,Kochi,Kerala,Offline,2023-09-22
+MER00760,Merchant_00760,Grocery,Surat,Gujarat,Offline,2022-10-22
+MER00761,Merchant_00761,Utilities,Chandigarh,Chandigarh,Hybrid,2023-01-28
+MER00762,Merchant_00762,Food,Pune,Maharashtra,Online,2021-05-07
+MER00763,Merchant_00763,Travel,Chennai,Tamil Nadu,Hybrid,2021-08-22
+MER00764,Merchant_00764,Grocery,Delhi,Delhi,Hybrid,2022-07-12
+MER00765,Merchant_00765,Grocery,Mumbai,Maharashtra,Offline,2021-02-15
+MER00766,Merchant_00766,Food,Mumbai,Maharashtra,Offline,2020-03-25
+MER00767,Merchant_00767,Food,Pune,Maharashtra,Offline,2024-03-08
+MER00768,Merchant_00768,Utilities,Bhopal,Madhya Pradesh,Online,2020-08-08
+MER00769,Merchant_00769,Grocery,Guwahati,Assam,Online,2022-06-18
+MER00770,Merchant_00770,Travel,Srinagar,Jammu and Kashmir,Online,2021-12-29
+MER00771,Merchant_00771,Healthcare,Pune,Maharashtra,Offline,2023-06-09
+MER00772,Merchant_00772,Entertainment,Bengaluru,Karnataka,Online,2023-03-09
+MER00773,Merchant_00773,Food,Pune,Maharashtra,Hybrid,2024-01-20
+MER00774,Merchant_00774,Food,Visakhapatnam,Andhra Pradesh,Offline,2024-07-02
+MER00775,Merchant_00775,Other,Ahmedabad,Gujarat,Online,2020-02-15
+MER00776,Merchant_00776,Utilities,Bhopal,Madhya Pradesh,Online,2023-11-20
+MER00777,Merchant_00777,Travel,Mumbai,Maharashtra,Hybrid,2024-11-21
+MER00778,Merchant_00778,Fashion,Mumbai,Maharashtra,Offline,2023-10-27
+MER00779,Merchant_00779,Entertainment,Indore,Madhya Pradesh,Online,2024-12-25
+MER00780,Merchant_00780,Food,Ahmedabad,Gujarat,Online,2022-12-06
+MER00781,Merchant_00781,Food,Delhi,Delhi,Offline,2020-08-18
+MER00782,Merchant_00782,Grocery,Hyderabad,Telangana,Hybrid,2022-02-12
+MER00783,Merchant_00783,Food,Surat,Gujarat,Hybrid,2021-05-19
+MER00784,Merchant_00784,Entertainment,Mumbai,Maharashtra,Offline,2024-08-13
+MER00785,Merchant_00785,Education,Chennai,Tamil Nadu,Online,2024-12-09
+MER00786,Merchant_00786,Food,Delhi,Delhi,Online,2020-03-10
+MER00787,Merchant_00787,Other,Mumbai,Maharashtra,Online,2021-07-06
+MER00788,Merchant_00788,Other,Hyderabad,Telangana,Offline,2020-03-01
+MER00789,Merchant_00789,Food,Delhi,Delhi,Hybrid,2024-05-26
+MER00790,Merchant_00790,Grocery,Hyderabad,Telangana,Hybrid,2024-04-23
+MER00791,Merchant_00791,Utilities,Delhi,Delhi,Offline,2020-05-05
+MER00792,Merchant_00792,Grocery,Kolkata,West Bengal,Offline,2024-05-29
+MER00793,Merchant_00793,Grocery,Delhi,Delhi,Offline,2020-05-07
+MER00794,Merchant_00794,Healthcare,Hyderabad,Telangana,Online,2021-03-16
+MER00795,Merchant_00795,Education,Coimbatore,Tamil Nadu,Hybrid,2021-02-27
+MER00796,Merchant_00796,Grocery,Bengaluru,Karnataka,Offline,2022-05-29
+MER00797,Merchant_00797,Utilities,Kolkata,West Bengal,Hybrid,2023-05-29
+MER00798,Merchant_00798,Utilities,Pune,Maharashtra,Online,2021-06-18
+MER00799,Merchant_00799,Food,Kolkata,West Bengal,Online,2024-10-15
+MER00800,Merchant_00800,Grocery,Hyderabad,Telangana,Offline,2022-02-14
+MER00801,Merchant_00801,Other,Guwahati,Assam,Hybrid,2021-06-08
+MER00802,Merchant_00802,Grocery,Chennai,Tamil Nadu,Offline,2022-08-30
+MER00803,Merchant_00803,Food,Hyderabad,Telangana,Offline,2020-07-05
+MER00804,Merchant_00804,Food,Mumbai,Maharashtra,Offline,2024-02-08
+MER00805,Merchant_00805,Food,Surat,Gujarat,Online,2022-10-12
+MER00806,Merchant_00806,Electronics,Delhi,Delhi,Online,2020-03-30
+MER00807,Merchant_00807,Food,Kolkata,West Bengal,Online,2023-01-03
+MER00808,Merchant_00808,Food,Hyderabad,Telangana,Offline,2023-06-20
+MER00809,Merchant_00809,Education,Delhi,Delhi,Offline,2023-09-08
+MER00810,Merchant_00810,Travel,Chennai,Tamil Nadu,Online,2020-06-02
+MER00811,Merchant_00811,Travel,Patna,Bihar,Online,2020-08-15
+MER00812,Merchant_00812,Food,Bengaluru,Karnataka,Hybrid,2024-12-30
+MER00813,Merchant_00813,Grocery,Bhopal,Madhya Pradesh,Hybrid,2022-04-22
+MER00814,Merchant_00814,Travel,Bengaluru,Karnataka,Offline,2022-06-23
+MER00815,Merchant_00815,Fashion,Bengaluru,Karnataka,Offline,2020-03-15
+MER00816,Merchant_00816,Grocery,Srinagar,Jammu and Kashmir,Hybrid,2022-10-26
+MER00817,Merchant_00817,Other,Kolkata,West Bengal,Online,2023-03-30
+MER00818,Merchant_00818,Other,Coimbatore,Tamil Nadu,Online,2023-02-23
+MER00819,Merchant_00819,Utilities,Delhi,Delhi,Offline,2024-11-27
+MER00820,Merchant_00820,Healthcare,Ahmedabad,Gujarat,Offline,2024-08-09
+MER00821,Merchant_00821,Grocery,Jaipur,Rajasthan,Offline,2024-11-09
+MER00822,Merchant_00822,Fashion,Bhopal,Madhya Pradesh,Hybrid,2020-10-28
+MER00823,Merchant_00823,Electronics,Bhubaneswar,Odisha,Online,2021-09-14
+MER00824,Merchant_00824,Grocery,Bengaluru,Karnataka,Offline,2022-06-28
+MER00825,Merchant_00825,Utilities,Lucknow,Uttar Pradesh,Online,2022-07-01
+MER00826,Merchant_00826,Food,Surat,Gujarat,Hybrid,2022-02-07
+MER00827,Merchant_00827,Grocery,Surat,Gujarat,Offline,2022-09-15
+MER00828,Merchant_00828,Education,Bengaluru,Karnataka,Hybrid,2024-04-24
+MER00829,Merchant_00829,Education,Bhubaneswar,Odisha,Hybrid,2020-07-19
+MER00830,Merchant_00830,Healthcare,Surat,Gujarat,Hybrid,2022-04-04
+MER00831,Merchant_00831,Grocery,Mumbai,Maharashtra,Online,2023-09-11
+MER00832,Merchant_00832,Grocery,Jaipur,Rajasthan,Hybrid,2022-10-08
+MER00833,Merchant_00833,Grocery,Mumbai,Maharashtra,Offline,2021-09-17
+MER00834,Merchant_00834,Healthcare,Mumbai,Maharashtra,Online,2022-11-29
+MER00835,Merchant_00835,Grocery,Delhi,Delhi,Offline,2022-09-12
+MER00836,Merchant_00836,Electronics,Bhopal,Madhya Pradesh,Hybrid,2020-11-28
+MER00837,Merchant_00837,Food,Kolkata,West Bengal,Offline,2021-11-19
+MER00838,Merchant_00838,Grocery,Surat,Gujarat,Offline,2024-07-25
+MER00839,Merchant_00839,Utilities,Srinagar,Jammu and Kashmir,Online,2022-02-20
+MER00840,Merchant_00840,Other,Guwahati,Assam,Hybrid,2022-04-14
+MER00841,Merchant_00841,Food,Chandigarh,Chandigarh,Offline,2023-09-24
+MER00842,Merchant_00842,Healthcare,Hyderabad,Telangana,Offline,2022-05-07
+MER00843,Merchant_00843,Grocery,Bhubaneswar,Odisha,Hybrid,2022-06-30
+MER00844,Merchant_00844,Grocery,Chennai,Tamil Nadu,Offline,2024-08-08
+MER00845,Merchant_00845,Grocery,Delhi,Delhi,Offline,2022-12-19
+MER00846,Merchant_00846,Education,Bhopal,Madhya Pradesh,Hybrid,2020-11-23
+MER00847,Merchant_00847,Grocery,Coimbatore,Tamil Nadu,Online,2020-03-26
+MER00848,Merchant_00848,Utilities,Patna,Bihar,Online,2022-03-29
+MER00849,Merchant_00849,Grocery,Chennai,Tamil Nadu,Offline,2022-08-20
+MER00850,Merchant_00850,Utilities,Bhopal,Madhya Pradesh,Offline,2021-06-20
+MER00851,Merchant_00851,Other,Delhi,Delhi,Online,2024-11-30
+MER00852,Merchant_00852,Utilities,Lucknow,Uttar Pradesh,Online,2024-06-21
+MER00853,Merchant_00853,Grocery,Delhi,Delhi,Offline,2021-11-07
+MER00854,Merchant_00854,Electronics,Mumbai,Maharashtra,Hybrid,2021-10-24
+MER00855,Merchant_00855,Food,Mumbai,Maharashtra,Hybrid,2022-08-13
+MER00856,Merchant_00856,Electronics,Ranchi,Jharkhand,Hybrid,2023-07-24
+MER00857,Merchant_00857,Grocery,Mumbai,Maharashtra,Online,2020-11-16
+MER00858,Merchant_00858,Other,Chennai,Tamil Nadu,Offline,2021-11-21
+MER00859,Merchant_00859,Food,Bhubaneswar,Odisha,Online,2020-12-03
+MER00860,Merchant_00860,Utilities,Ahmedabad,Gujarat,Online,2024-04-15
+MER00861,Merchant_00861,Electronics,Mumbai,Maharashtra,Online,2024-05-17
+MER00862,Merchant_00862,Education,Delhi,Delhi,Online,2023-01-15
+MER00863,Merchant_00863,Utilities,Delhi,Delhi,Online,2022-04-23
+MER00864,Merchant_00864,Other,Bengaluru,Karnataka,Offline,2020-02-19
+MER00865,Merchant_00865,Entertainment,Indore,Madhya Pradesh,Offline,2021-01-17
+MER00866,Merchant_00866,Food,Ahmedabad,Gujarat,Hybrid,2022-08-22
+MER00867,Merchant_00867,Grocery,Hyderabad,Telangana,Hybrid,2022-08-26
+MER00868,Merchant_00868,Electronics,Chennai,Tamil Nadu,Online,2020-08-11
+MER00869,Merchant_00869,Food,Lucknow,Uttar Pradesh,Offline,2023-10-20
+MER00870,Merchant_00870,Grocery,Indore,Madhya Pradesh,Offline,2022-03-15
+MER00871,Merchant_00871,Healthcare,Kolkata,West Bengal,Offline,2023-02-16
+MER00872,Merchant_00872,Other,Bhopal,Madhya Pradesh,Offline,2021-05-29
+MER00873,Merchant_00873,Travel,Indore,Madhya Pradesh,Online,2022-08-26
+MER00874,Merchant_00874,Grocery,Hyderabad,Telangana,Offline,2024-11-11
+MER00875,Merchant_00875,Electronics,Kolkata,West Bengal,Offline,2023-04-30
+MER00876,Merchant_00876,Healthcare,Bhopal,Madhya Pradesh,Offline,2024-06-05
+MER00877,Merchant_00877,Other,Coimbatore,Tamil Nadu,Hybrid,2023-07-13
+MER00878,Merchant_00878,Grocery,Hyderabad,Telangana,Hybrid,2020-12-21
+MER00879,Merchant_00879,Grocery,Chandigarh,Chandigarh,Offline,2022-11-05
+MER00880,Merchant_00880,Entertainment,Bhubaneswar,Odisha,Offline,2023-10-16
+MER00881,Merchant_00881,Education,Delhi,Delhi,Offline,2021-07-21
+MER00882,Merchant_00882,Healthcare,Lucknow,Uttar Pradesh,Offline,2020-09-18
+MER00883,Merchant_00883,Entertainment,Ranchi,Jharkhand,Hybrid,2023-11-25
+MER00884,Merchant_00884,Grocery,Hyderabad,Telangana,Offline,2023-03-22
+MER00885,Merchant_00885,Other,Kolkata,West Bengal,Hybrid,2023-05-02
+MER00886,Merchant_00886,Healthcare,Hyderabad,Telangana,Hybrid,2022-01-31
+MER00887,Merchant_00887,Other,Bhopal,Madhya Pradesh,Online,2020-06-01
+MER00888,Merchant_00888,Electronics,Mumbai,Maharashtra,Offline,2022-07-06
+MER00889,Merchant_00889,Entertainment,Kochi,Kerala,Offline,2022-06-25
+MER00890,Merchant_00890,Education,Ahmedabad,Gujarat,Online,2024-06-08
+MER00891,Merchant_00891,Grocery,Chennai,Tamil Nadu,Online,2020-08-01
+MER00892,Merchant_00892,Grocery,Bengaluru,Karnataka,Offline,2022-03-29
+MER00893,Merchant_00893,Food,Jaipur,Rajasthan,Hybrid,2022-07-28
+MER00894,Merchant_00894,Food,Hyderabad,Telangana,Hybrid,2021-01-08
+MER00895,Merchant_00895,Grocery,Nagpur,Maharashtra,Offline,2023-09-24
+MER00896,Merchant_00896,Other,Bhopal,Madhya Pradesh,Online,2022-07-26
+MER00897,Merchant_00897,Utilities,Hyderabad,Telangana,Hybrid,2021-01-27
+MER00898,Merchant_00898,Grocery,Dehradun,Uttarakhand,Offline,2022-12-21
+MER00899,Merchant_00899,Other,Guwahati,Assam,Hybrid,2024-07-24
+MER00900,Merchant_00900,Food,Bengaluru,Karnataka,Online,2021-02-03
+MER00901,Merchant_00901,Entertainment,Delhi,Delhi,Hybrid,2023-02-14
+MER00902,Merchant_00902,Food,Pune,Maharashtra,Online,2020-09-10
+MER00903,Merchant_00903,Electronics,Jaipur,Rajasthan,Hybrid,2023-02-05
+MER00904,Merchant_00904,Travel,Chennai,Tamil Nadu,Hybrid,2023-08-25
+MER00905,Merchant_00905,Electronics,Ahmedabad,Gujarat,Offline,2023-09-09
+MER00906,Merchant_00906,Fashion,Hyderabad,Telangana,Offline,2021-07-17
+MER00907,Merchant_00907,Grocery,Pune,Maharashtra,Offline,2024-03-04
+MER00908,Merchant_00908,Other,Chandigarh,Chandigarh,Hybrid,2023-04-08
+MER00909,Merchant_00909,Fashion,Mumbai,Maharashtra,Hybrid,2024-04-03
+MER00910,Merchant_00910,Electronics,Pune,Maharashtra,Online,2021-07-13
+MER00911,Merchant_00911,Food,Delhi,Delhi,Online,2022-10-14
+MER00912,Merchant_00912,Food,Ahmedabad,Gujarat,Offline,2021-01-25
+MER00913,Merchant_00913,Other,Bengaluru,Karnataka,Offline,2024-01-02
+MER00914,Merchant_00914,Grocery,Kochi,Kerala,Online,2020-07-14
+MER00915,Merchant_00915,Utilities,Kochi,Kerala,Offline,2022-11-04
+MER00916,Merchant_00916,Other,Hyderabad,Telangana,Hybrid,2024-09-11
+MER00917,Merchant_00917,Fashion,Kolkata,West Bengal,Offline,2021-04-29
+MER00918,Merchant_00918,Healthcare,Hyderabad,Telangana,Offline,2023-07-17
+MER00919,Merchant_00919,Fashion,Delhi,Delhi,Offline,2020-06-29
+MER00920,Merchant_00920,Electronics,Bengaluru,Karnataka,Offline,2020-06-21
+MER00921,Merchant_00921,Travel,Kochi,Kerala,Online,2022-01-12
+MER00922,Merchant_00922,Food,Ahmedabad,Gujarat,Online,2020-06-20
+MER00923,Merchant_00923,Grocery,Chandigarh,Chandigarh,Offline,2020-08-14
+MER00924,Merchant_00924,Grocery,Delhi,Delhi,Hybrid,2020-10-06
+MER00925,Merchant_00925,Utilities,Patna,Bihar,Offline,2021-02-09
+MER00926,Merchant_00926,Utilities,Chennai,Tamil Nadu,Hybrid,2022-06-20
+MER00927,Merchant_00927,Food,Pune,Maharashtra,Online,2020-08-03
+MER00928,Merchant_00928,Healthcare,Indore,Madhya Pradesh,Online,2022-04-03
+MER00929,Merchant_00929,Entertainment,Mumbai,Maharashtra,Offline,2022-07-21
+MER00930,Merchant_00930,Food,Pune,Maharashtra,Online,2023-06-14
+MER00931,Merchant_00931,Entertainment,Chandigarh,Chandigarh,Online,2022-11-30
+MER00932,Merchant_00932,Food,Delhi,Delhi,Offline,2023-03-03
+MER00933,Merchant_00933,Fashion,Surat,Gujarat,Online,2020-11-30
+MER00934,Merchant_00934,Grocery,Guwahati,Assam,Online,2024-02-06
+MER00935,Merchant_00935,Grocery,Hyderabad,Telangana,Online,2020-11-29
+MER00936,Merchant_00936,Grocery,Mumbai,Maharashtra,Offline,2021-08-25
+MER00937,Merchant_00937,Food,Ranchi,Jharkhand,Hybrid,2020-11-25
+MER00938,Merchant_00938,Electronics,Delhi,Delhi,Offline,2024-05-03
+MER00939,Merchant_00939,Utilities,Surat,Gujarat,Offline,2023-04-11
+MER00940,Merchant_00940,Grocery,Surat,Gujarat,Online,2023-03-03
+MER00941,Merchant_00941,Utilities,Indore,Madhya Pradesh,Offline,2021-04-08
+MER00942,Merchant_00942,Grocery,Lucknow,Uttar Pradesh,Offline,2021-02-14
+MER00943,Merchant_00943,Food,Hyderabad,Telangana,Online,2021-04-20
+MER00944,Merchant_00944,Fashion,Delhi,Delhi,Offline,2024-08-26
+MER00945,Merchant_00945,Food,Surat,Gujarat,Offline,2022-08-01
+MER00946,Merchant_00946,Food,Lucknow,Uttar Pradesh,Hybrid,2024-02-22
+MER00947,Merchant_00947,Other,Bengaluru,Karnataka,Online,2023-12-01
+MER00948,Merchant_00948,Electronics,Bengaluru,Karnataka,Online,2020-05-07
+MER00949,Merchant_00949,Fashion,Bhubaneswar,Odisha,Offline,2023-05-12
+MER00950,Merchant_00950,Utilities,Srinagar,Jammu and Kashmir,Offline,2023-03-27
+MER00951,Merchant_00951,Food,Guwahati,Assam,Online,2020-11-12
+MER00952,Merchant_00952,Other,Indore,Madhya Pradesh,Offline,2022-07-21
+MER00953,Merchant_00953,Grocery,Delhi,Delhi,Hybrid,2021-12-09
+MER00954,Merchant_00954,Grocery,Patna,Bihar,Online,2024-07-12
+MER00955,Merchant_00955,Food,Ahmedabad,Gujarat,Offline,2024-05-26
+MER00956,Merchant_00956,Utilities,Ahmedabad,Gujarat,Online,2021-11-23
+MER00957,Merchant_00957,Healthcare,Delhi,Delhi,Hybrid,2020-08-17
+MER00958,Merchant_00958,Grocery,Delhi,Delhi,Offline,2021-08-18
+MER00959,Merchant_00959,Electronics,Bengaluru,Karnataka,Online,2024-01-19
+MER00960,Merchant_00960,Food,Delhi,Delhi,Offline,2020-01-13
+MER00961,Merchant_00961,Travel,Chennai,Tamil Nadu,Hybrid,2021-05-06
+MER00962,Merchant_00962,Fashion,Ranchi,Jharkhand,Offline,2021-04-04
+MER00963,Merchant_00963,Healthcare,Srinagar,Jammu and Kashmir,Hybrid,2023-03-21
+MER00964,Merchant_00964,Travel,Nagpur,Maharashtra,Offline,2023-07-14
+MER00965,Merchant_00965,Entertainment,Jaipur,Rajasthan,Offline,2020-10-23
+MER00966,Merchant_00966,Grocery,Lucknow,Uttar Pradesh,Online,2021-10-11
+MER00967,Merchant_00967,Utilities,Dehradun,Uttarakhand,Hybrid,2023-01-31
+MER00968,Merchant_00968,Fashion,Ahmedabad,Gujarat,Hybrid,2024-12-27
+MER00969,Merchant_00969,Utilities,Mumbai,Maharashtra,Online,2023-06-18
+MER00970,Merchant_00970,Education,Jaipur,Rajasthan,Online,2024-10-21
+MER00971,Merchant_00971,Healthcare,Mumbai,Maharashtra,Offline,2024-09-14
+MER00972,Merchant_00972,Food,Chandigarh,Chandigarh,Hybrid,2023-08-05
+MER00973,Merchant_00973,Food,Coimbatore,Tamil Nadu,Offline,2020-07-20
+MER00974,Merchant_00974,Food,Pune,Maharashtra,Online,2022-07-18
+MER00975,Merchant_00975,Grocery,Delhi,Delhi,Offline,2024-05-03
+MER00976,Merchant_00976,Entertainment,Pune,Maharashtra,Hybrid,2022-03-01
+MER00977,Merchant_00977,Grocery,Coimbatore,Tamil Nadu,Offline,2022-12-18
+MER00978,Merchant_00978,Grocery,Bhopal,Madhya Pradesh,Offline,2022-03-11
+MER00979,Merchant_00979,Grocery,Bengaluru,Karnataka,Offline,2020-05-13
+MER00980,Merchant_00980,Electronics,Mumbai,Maharashtra,Offline,2023-10-01
+MER00981,Merchant_00981,Education,Bhubaneswar,Odisha,Online,2024-04-23
+MER00982,Merchant_00982,Grocery,Pune,Maharashtra,Offline,2021-10-31
+MER00983,Merchant_00983,Other,Bengaluru,Karnataka,Offline,2024-12-28
+MER00984,Merchant_00984,Education,Surat,Gujarat,Offline,2024-12-10
+MER00985,Merchant_00985,Electronics,Kolkata,West Bengal,Offline,2021-11-19
+MER00986,Merchant_00986,Utilities,Coimbatore,Tamil Nadu,Offline,2023-02-23
+MER00987,Merchant_00987,Grocery,Chennai,Tamil Nadu,Hybrid,2024-07-08
+MER00988,Merchant_00988,Utilities,Kochi,Kerala,Online,2023-07-24
+MER00989,Merchant_00989,Entertainment,Patna,Bihar,Hybrid,2021-07-24
+MER00990,Merchant_00990,Grocery,Nagpur,Maharashtra,Offline,2024-06-20
+MER00991,Merchant_00991,Healthcare,Lucknow,Uttar Pradesh,Offline,2022-02-03
+MER00992,Merchant_00992,Grocery,Guwahati,Assam,Offline,2024-04-23
+MER00993,Merchant_00993,Grocery,Nagpur,Maharashtra,Hybrid,2023-06-05
+MER00994,Merchant_00994,Grocery,Mumbai,Maharashtra,Online,2023-03-01
+MER00995,Merchant_00995,Grocery,Dehradun,Uttarakhand,Hybrid,2022-10-10
+MER00996,Merchant_00996,Entertainment,Hyderabad,Telangana,Hybrid,2021-07-30
+MER00997,Merchant_00997,Grocery,Lucknow,Uttar Pradesh,Online,2023-08-02
+MER00998,Merchant_00998,Grocery,Ahmedabad,Gujarat,Hybrid,2023-09-01
+MER00999,Merchant_00999,Utilities,Ahmedabad,Gujarat,Hybrid,2021-01-17
+MER01000,Merchant_01000,Grocery,Chennai,Tamil Nadu,Offline,2022-06-15
+MER01001,Merchant_01001,Other,Hyderabad,Telangana,Online,2024-07-07
+MER01002,Merchant_01002,Food,Hyderabad,Telangana,Online,2020-04-20
+MER01003,Merchant_01003,Education,Surat,Gujarat,Offline,2022-07-06
+MER01004,Merchant_01004,Travel,Nagpur,Maharashtra,Online,2022-08-13
+MER01005,Merchant_01005,Grocery,Kolkata,West Bengal,Online,2022-12-03
+MER01006,Merchant_01006,Other,Indore,Madhya Pradesh,Offline,2021-07-03
+MER01007,Merchant_01007,Other,Delhi,Delhi,Offline,2020-04-24
+MER01008,Merchant_01008,Travel,Nagpur,Maharashtra,Online,2020-09-01
+MER01009,Merchant_01009,Grocery,Delhi,Delhi,Offline,2022-12-25
+MER01010,Merchant_01010,Fashion,Bhubaneswar,Odisha,Offline,2023-08-24
+MER01011,Merchant_01011,Entertainment,Ahmedabad,Gujarat,Offline,2022-12-31
+MER01012,Merchant_01012,Food,Mumbai,Maharashtra,Online,2020-02-09
+MER01013,Merchant_01013,Electronics,Patna,Bihar,Hybrid,2021-08-04
+MER01014,Merchant_01014,Travel,Visakhapatnam,Andhra Pradesh,Online,2022-01-23
+MER01015,Merchant_01015,Electronics,Chandigarh,Chandigarh,Hybrid,2023-10-19
+MER01016,Merchant_01016,Education,Bengaluru,Karnataka,Online,2020-06-22
+MER01017,Merchant_01017,Grocery,Coimbatore,Tamil Nadu,Offline,2023-09-05
+MER01018,Merchant_01018,Grocery,Ranchi,Jharkhand,Online,2021-02-28
+MER01019,Merchant_01019,Healthcare,Jaipur,Rajasthan,Online,2020-09-21
+MER01020,Merchant_01020,Utilities,Chandigarh,Chandigarh,Online,2020-03-12
+MER01021,Merchant_01021,Food,Surat,Gujarat,Offline,2023-11-19
+MER01022,Merchant_01022,Fashion,Mumbai,Maharashtra,Online,2022-12-20
+MER01023,Merchant_01023,Food,Delhi,Delhi,Online,2022-11-14
+MER01024,Merchant_01024,Grocery,Kolkata,West Bengal,Hybrid,2023-11-22
+MER01025,Merchant_01025,Other,Hyderabad,Telangana,Offline,2021-05-24
+MER01026,Merchant_01026,Food,Srinagar,Jammu and Kashmir,Offline,2021-05-21
+MER01027,Merchant_01027,Healthcare,Delhi,Delhi,Online,2022-09-30
+MER01028,Merchant_01028,Food,Guwahati,Assam,Online,2022-08-04
+MER01029,Merchant_01029,Grocery,Lucknow,Uttar Pradesh,Offline,2023-04-01
+MER01030,Merchant_01030,Entertainment,Nagpur,Maharashtra,Hybrid,2021-04-13
+MER01031,Merchant_01031,Food,Mumbai,Maharashtra,Online,2020-11-29
+MER01032,Merchant_01032,Education,Hyderabad,Telangana,Online,2023-05-20
+MER01033,Merchant_01033,Food,Bengaluru,Karnataka,Hybrid,2023-11-07
+MER01034,Merchant_01034,Grocery,Guwahati,Assam,Hybrid,2023-03-22
+MER01035,Merchant_01035,Education,Srinagar,Jammu and Kashmir,Offline,2022-03-29
+MER01036,Merchant_01036,Fashion,Patna,Bihar,Offline,2022-09-30
+MER01037,Merchant_01037,Healthcare,Ahmedabad,Gujarat,Offline,2021-02-12
+MER01038,Merchant_01038,Entertainment,Delhi,Delhi,Online,2020-09-20
+MER01039,Merchant_01039,Electronics,Surat,Gujarat,Offline,2022-08-14
+MER01040,Merchant_01040,Food,Lucknow,Uttar Pradesh,Online,2020-09-29
+MER01041,Merchant_01041,Entertainment,Visakhapatnam,Andhra Pradesh,Online,2024-07-21
+MER01042,Merchant_01042,Fashion,Bengaluru,Karnataka,Offline,2021-10-29
+MER01043,Merchant_01043,Utilities,Bhopal,Madhya Pradesh,Online,2021-11-16
+MER01044,Merchant_01044,Food,Bengaluru,Karnataka,Offline,2023-10-27
+MER01045,Merchant_01045,Education,Dehradun,Uttarakhand,Online,2021-08-04
+MER01046,Merchant_01046,Electronics,Visakhapatnam,Andhra Pradesh,Hybrid,2021-06-17
+MER01047,Merchant_01047,Healthcare,Hyderabad,Telangana,Online,2020-11-15
+MER01048,Merchant_01048,Fashion,Kolkata,West Bengal,Offline,2023-03-05
+MER01049,Merchant_01049,Grocery,Pune,Maharashtra,Hybrid,2021-12-26
+MER01050,Merchant_01050,Electronics,Delhi,Delhi,Offline,2024-10-26
+MER01051,Merchant_01051,Utilities,Hyderabad,Telangana,Online,2022-08-10
+MER01052,Merchant_01052,Education,Surat,Gujarat,Offline,2024-08-22
+MER01053,Merchant_01053,Education,Kolkata,West Bengal,Offline,2021-01-18
+MER01054,Merchant_01054,Travel,Lucknow,Uttar Pradesh,Online,2021-08-16
+MER01055,Merchant_01055,Food,Bhubaneswar,Odisha,Offline,2022-03-31
+MER01056,Merchant_01056,Grocery,Hyderabad,Telangana,Online,2021-10-06
+MER01057,Merchant_01057,Other,Patna,Bihar,Online,2021-07-17
+MER01058,Merchant_01058,Healthcare,Patna,Bihar,Offline,2024-11-16
+MER01059,Merchant_01059,Electronics,Bengaluru,Karnataka,Offline,2023-01-29
+MER01060,Merchant_01060,Utilities,Mumbai,Maharashtra,Offline,2022-11-05
+MER01061,Merchant_01061,Grocery,Indore,Madhya Pradesh,Online,2023-10-24
+MER01062,Merchant_01062,Fashion,Indore,Madhya Pradesh,Online,2022-12-10
+MER01063,Merchant_01063,Healthcare,Mumbai,Maharashtra,Offline,2022-11-22
+MER01064,Merchant_01064,Food,Bengaluru,Karnataka,Offline,2022-03-29
+MER01065,Merchant_01065,Food,Chennai,Tamil Nadu,Hybrid,2020-06-21
+MER01066,Merchant_01066,Grocery,Guwahati,Assam,Online,2020-07-05
+MER01067,Merchant_01067,Education,Mumbai,Maharashtra,Online,2020-03-12
+MER01068,Merchant_01068,Travel,Ranchi,Jharkhand,Online,2020-02-17
+MER01069,Merchant_01069,Travel,Bengaluru,Karnataka,Hybrid,2024-05-11
+MER01070,Merchant_01070,Travel,Kolkata,West Bengal,Online,2022-10-29
+MER01071,Merchant_01071,Other,Mumbai,Maharashtra,Offline,2024-02-11
+MER01072,Merchant_01072,Fashion,Delhi,Delhi,Offline,2021-10-04
+MER01073,Merchant_01073,Fashion,Bengaluru,Karnataka,Hybrid,2023-05-12
+MER01074,Merchant_01074,Fashion,Dehradun,Uttarakhand,Online,2022-09-14
+MER01075,Merchant_01075,Grocery,Dehradun,Uttarakhand,Offline,2021-02-24
+MER01076,Merchant_01076,Fashion,Bengaluru,Karnataka,Hybrid,2024-08-17
+MER01077,Merchant_01077,Grocery,Nagpur,Maharashtra,Offline,2022-08-19
+MER01078,Merchant_01078,Electronics,Delhi,Delhi,Offline,2024-08-21
+MER01079,Merchant_01079,Healthcare,Kolkata,West Bengal,Offline,2022-02-13
+MER01080,Merchant_01080,Utilities,Pune,Maharashtra,Online,2021-03-10
+MER01081,Merchant_01081,Food,Delhi,Delhi,Offline,2024-12-04
+MER01082,Merchant_01082,Grocery,Jaipur,Rajasthan,Offline,2024-08-17
+MER01083,Merchant_01083,Electronics,Pune,Maharashtra,Online,2024-08-24
+MER01084,Merchant_01084,Grocery,Srinagar,Jammu and Kashmir,Offline,2020-02-17
+MER01085,Merchant_01085,Grocery,Bengaluru,Karnataka,Online,2021-06-05
+MER01086,Merchant_01086,Other,Visakhapatnam,Andhra Pradesh,Hybrid,2023-06-24
+MER01087,Merchant_01087,Utilities,Chennai,Tamil Nadu,Hybrid,2022-02-28
+MER01088,Merchant_01088,Grocery,Visakhapatnam,Andhra Pradesh,Offline,2021-03-24
+MER01089,Merchant_01089,Travel,Ahmedabad,Gujarat,Offline,2021-04-27
+MER01090,Merchant_01090,Grocery,Kolkata,West Bengal,Hybrid,2021-01-24
+MER01091,Merchant_01091,Utilities,Mumbai,Maharashtra,Hybrid,2022-08-15
+MER01092,Merchant_01092,Other,Bhopal,Madhya Pradesh,Offline,2022-03-03
+MER01093,Merchant_01093,Other,Delhi,Delhi,Hybrid,2022-06-27
+MER01094,Merchant_01094,Grocery,Patna,Bihar,Offline,2020-12-01
+MER01095,Merchant_01095,Utilities,Lucknow,Uttar Pradesh,Online,2024-11-15
+MER01096,Merchant_01096,Grocery,Indore,Madhya Pradesh,Hybrid,2024-01-14
+MER01097,Merchant_01097,Education,Kolkata,West Bengal,Hybrid,2020-04-14
+MER01098,Merchant_01098,Grocery,Jaipur,Rajasthan,Hybrid,2021-01-19
+MER01099,Merchant_01099,Grocery,Kolkata,West Bengal,Hybrid,2024-09-20
+MER01100,Merchant_01100,Grocery,Ahmedabad,Gujarat,Online,2024-12-17
+MER01101,Merchant_01101,Grocery,Chennai,Tamil Nadu,Hybrid,2022-10-01
+MER01102,Merchant_01102,Grocery,Bhopal,Madhya Pradesh,Offline,2023-08-16
+MER01103,Merchant_01103,Utilities,Ahmedabad,Gujarat,Online,2021-08-13
+MER01104,Merchant_01104,Healthcare,Bengaluru,Karnataka,Offline,2022-10-20
+MER01105,Merchant_01105,Grocery,Visakhapatnam,Andhra Pradesh,Online,2024-04-14
+MER01106,Merchant_01106,Travel,Hyderabad,Telangana,Online,2020-11-22
+MER01107,Merchant_01107,Electronics,Surat,Gujarat,Offline,2021-05-19
+MER01108,Merchant_01108,Travel,Kolkata,West Bengal,Hybrid,2023-12-06
+MER01109,Merchant_01109,Grocery,Dehradun,Uttarakhand,Offline,2022-07-01
+MER01110,Merchant_01110,Utilities,Lucknow,Uttar Pradesh,Hybrid,2022-12-13
+MER01111,Merchant_01111,Travel,Chennai,Tamil Nadu,Online,2024-03-14
+MER01112,Merchant_01112,Grocery,Ahmedabad,Gujarat,Hybrid,2021-02-14
+MER01113,Merchant_01113,Education,Ranchi,Jharkhand,Online,2024-12-12
+MER01114,Merchant_01114,Electronics,Surat,Gujarat,Offline,2020-08-08
+MER01115,Merchant_01115,Travel,Chennai,Tamil Nadu,Hybrid,2024-07-04
+MER01116,Merchant_01116,Healthcare,Chennai,Tamil Nadu,Online,2024-12-11
+MER01117,Merchant_01117,Food,Bengaluru,Karnataka,Hybrid,2023-03-28
+MER01118,Merchant_01118,Electronics,Chennai,Tamil Nadu,Offline,2022-11-20
+MER01119,Merchant_01119,Fashion,Ranchi,Jharkhand,Offline,2020-02-22
+MER01120,Merchant_01120,Food,Bhopal,Madhya Pradesh,Hybrid,2022-12-27
+MER01121,Merchant_01121,Utilities,Surat,Gujarat,Offline,2020-11-01
+MER01122,Merchant_01122,Grocery,Ahmedabad,Gujarat,Online,2021-07-30
+MER01123,Merchant_01123,Electronics,Coimbatore,Tamil Nadu,Offline,2022-03-27
+MER01124,Merchant_01124,Food,Srinagar,Jammu and Kashmir,Online,2021-04-23
+MER01125,Merchant_01125,Other,Kochi,Kerala,Hybrid,2021-06-09
+MER01126,Merchant_01126,Entertainment,Delhi,Delhi,Offline,2021-09-21
+MER01127,Merchant_01127,Entertainment,Patna,Bihar,Offline,2020-05-07
+MER01128,Merchant_01128,Travel,Ahmedabad,Gujarat,Offline,2020-10-28
+MER01129,Merchant_01129,Grocery,Jaipur,Rajasthan,Hybrid,2020-05-13
+MER01130,Merchant_01130,Entertainment,Ahmedabad,Gujarat,Hybrid,2023-07-02
+MER01131,Merchant_01131,Fashion,Kochi,Kerala,Offline,2024-03-15
+MER01132,Merchant_01132,Fashion,Ahmedabad,Gujarat,Offline,2023-12-30
+MER01133,Merchant_01133,Other,Mumbai,Maharashtra,Offline,2021-04-25
+MER01134,Merchant_01134,Food,Chandigarh,Chandigarh,Hybrid,2022-08-05
+MER01135,Merchant_01135,Utilities,Hyderabad,Telangana,Hybrid,2021-10-22
+MER01136,Merchant_01136,Grocery,Mumbai,Maharashtra,Offline,2024-11-20
+MER01137,Merchant_01137,Grocery,Kolkata,West Bengal,Hybrid,2023-10-15
+MER01138,Merchant_01138,Education,Coimbatore,Tamil Nadu,Hybrid,2022-10-30
+MER01139,Merchant_01139,Fashion,Pune,Maharashtra,Offline,2021-05-11
+MER01140,Merchant_01140,Electronics,Mumbai,Maharashtra,Offline,2021-06-03
+MER01141,Merchant_01141,Utilities,Visakhapatnam,Andhra Pradesh,Offline,2024-06-13
+MER01142,Merchant_01142,Other,Chandigarh,Chandigarh,Offline,2021-09-10
+MER01143,Merchant_01143,Fashion,Bengaluru,Karnataka,Hybrid,2022-12-09
+MER01144,Merchant_01144,Food,Bhopal,Madhya Pradesh,Offline,2022-07-05
+MER01145,Merchant_01145,Electronics,Ranchi,Jharkhand,Offline,2022-04-04
+MER01146,Merchant_01146,Grocery,Delhi,Delhi,Hybrid,2024-02-14
+MER01147,Merchant_01147,Food,Guwahati,Assam,Offline,2024-08-29
+MER01148,Merchant_01148,Food,Delhi,Delhi,Hybrid,2024-12-13
+MER01149,Merchant_01149,Healthcare,Bengaluru,Karnataka,Online,2021-08-08
+MER01150,Merchant_01150,Healthcare,Kolkata,West Bengal,Offline,2020-03-20
+MER01151,Merchant_01151,Utilities,Mumbai,Maharashtra,Hybrid,2022-10-06
+MER01152,Merchant_01152,Utilities,Pune,Maharashtra,Hybrid,2022-07-02
+MER01153,Merchant_01153,Education,Hyderabad,Telangana,Offline,2021-10-16
+MER01154,Merchant_01154,Grocery,Mumbai,Maharashtra,Online,2020-06-14
+MER01155,Merchant_01155,Electronics,Pune,Maharashtra,Online,2020-01-12
+MER01156,Merchant_01156,Grocery,Pune,Maharashtra,Offline,2021-01-01
+MER01157,Merchant_01157,Grocery,Coimbatore,Tamil Nadu,Hybrid,2022-03-12
+MER01158,Merchant_01158,Healthcare,Srinagar,Jammu and Kashmir,Offline,2023-01-14
+MER01159,Merchant_01159,Entertainment,Kochi,Kerala,Offline,2022-05-09
+MER01160,Merchant_01160,Food,Delhi,Delhi,Offline,2020-05-02
+MER01161,Merchant_01161,Grocery,Indore,Madhya Pradesh,Offline,2023-11-19
+MER01162,Merchant_01162,Food,Patna,Bihar,Hybrid,2023-01-23
+MER01163,Merchant_01163,Food,Coimbatore,Tamil Nadu,Offline,2024-04-02
+MER01164,Merchant_01164,Electronics,Bengaluru,Karnataka,Hybrid,2024-01-31
+MER01165,Merchant_01165,Grocery,Patna,Bihar,Hybrid,2021-02-12
+MER01166,Merchant_01166,Food,Surat,Gujarat,Online,2020-03-17
+MER01167,Merchant_01167,Food,Pune,Maharashtra,Online,2021-06-26
+MER01168,Merchant_01168,Healthcare,Coimbatore,Tamil Nadu,Hybrid,2021-07-24
+MER01169,Merchant_01169,Grocery,Bengaluru,Karnataka,Online,2022-11-14
+MER01170,Merchant_01170,Grocery,Chennai,Tamil Nadu,Online,2021-10-15
+MER01171,Merchant_01171,Grocery,Chennai,Tamil Nadu,Offline,2021-08-04
+MER01172,Merchant_01172,Food,Ahmedabad,Gujarat,Offline,2021-02-05
+MER01173,Merchant_01173,Grocery,Mumbai,Maharashtra,Online,2022-06-04
+MER01174,Merchant_01174,Other,Kolkata,West Bengal,Offline,2023-06-07
+MER01175,Merchant_01175,Food,Mumbai,Maharashtra,Online,2023-02-03
+MER01176,Merchant_01176,Food,Delhi,Delhi,Hybrid,2023-01-01
+MER01177,Merchant_01177,Fashion,Bhubaneswar,Odisha,Online,2022-01-10
+MER01178,Merchant_01178,Electronics,Hyderabad,Telangana,Online,2022-01-19
+MER01179,Merchant_01179,Utilities,Delhi,Delhi,Online,2020-09-14
+MER01180,Merchant_01180,Electronics,Bhubaneswar,Odisha,Hybrid,2021-04-19
+MER01181,Merchant_01181,Grocery,Delhi,Delhi,Online,2023-07-14
+MER01182,Merchant_01182,Fashion,Chennai,Tamil Nadu,Offline,2021-11-27
+MER01183,Merchant_01183,Education,Patna,Bihar,Hybrid,2021-11-29
+MER01184,Merchant_01184,Grocery,Dehradun,Uttarakhand,Online,2023-09-27
+MER01185,Merchant_01185,Grocery,Bhopal,Madhya Pradesh,Offline,2020-02-01
+MER01186,Merchant_01186,Other,Surat,Gujarat,Online,2024-03-31
+MER01187,Merchant_01187,Healthcare,Bengaluru,Karnataka,Offline,2020-01-07
+MER01188,Merchant_01188,Healthcare,Surat,Gujarat,Hybrid,2021-05-22
+MER01189,Merchant_01189,Grocery,Visakhapatnam,Andhra Pradesh,Offline,2023-07-17
+MER01190,Merchant_01190,Food,Mumbai,Maharashtra,Online,2024-08-25
+MER01191,Merchant_01191,Fashion,Chennai,Tamil Nadu,Online,2023-05-30
+MER01192,Merchant_01192,Grocery,Bengaluru,Karnataka,Online,2020-09-15
+MER01193,Merchant_01193,Grocery,Delhi,Delhi,Offline,2021-04-25
+MER01194,Merchant_01194,Utilities,Hyderabad,Telangana,Offline,2020-09-04
+MER01195,Merchant_01195,Grocery,Jaipur,Rajasthan,Offline,2022-01-04
+MER01196,Merchant_01196,Education,Chennai,Tamil Nadu,Offline,2023-06-02
+MER01197,Merchant_01197,Fashion,Surat,Gujarat,Online,2024-03-18
+MER01198,Merchant_01198,Grocery,Jaipur,Rajasthan,Online,2021-10-28
+MER01199,Merchant_01199,Fashion,Delhi,Delhi,Online,2024-06-21
+MER01200,Merchant_01200,Travel,Delhi,Delhi,Offline,2021-05-20
+MER01201,Merchant_01201,Entertainment,Delhi,Delhi,Online,2023-06-15
+MER01202,Merchant_01202,Education,Jaipur,Rajasthan,Online,2022-06-21
+MER01203,Merchant_01203,Grocery,Visakhapatnam,Andhra Pradesh,Hybrid,2022-07-11
+MER01204,Merchant_01204,Travel,Ahmedabad,Gujarat,Offline,2024-04-13
+MER01205,Merchant_01205,Grocery,Chandigarh,Chandigarh,Online,2024-12-09
+MER01206,Merchant_01206,Fashion,Pune,Maharashtra,Offline,2023-12-02
+MER01207,Merchant_01207,Utilities,Pune,Maharashtra,Online,2022-03-07
+MER01208,Merchant_01208,Other,Coimbatore,Tamil Nadu,Online,2023-11-02
+MER01209,Merchant_01209,Entertainment,Bengaluru,Karnataka,Hybrid,2020-05-17
+MER01210,Merchant_01210,Travel,Delhi,Delhi,Online,2023-02-07
+MER01211,Merchant_01211,Utilities,Delhi,Delhi,Online,2024-12-01
+MER01212,Merchant_01212,Entertainment,Jaipur,Rajasthan,Online,2022-03-17
+MER01213,Merchant_01213,Fashion,Bengaluru,Karnataka,Offline,2022-10-14
+MER01214,Merchant_01214,Electronics,Mumbai,Maharashtra,Hybrid,2021-07-21
+MER01215,Merchant_01215,Healthcare,Kochi,Kerala,Online,2021-08-24
+MER01216,Merchant_01216,Grocery,Mumbai,Maharashtra,Offline,2022-11-10
+MER01217,Merchant_01217,Food,Surat,Gujarat,Hybrid,2020-12-02
+MER01218,Merchant_01218,Grocery,Bhubaneswar,Odisha,Online,2024-01-01
+MER01219,Merchant_01219,Other,Ahmedabad,Gujarat,Offline,2020-06-06
+MER01220,Merchant_01220,Food,Visakhapatnam,Andhra Pradesh,Online,2022-12-12
+MER01221,Merchant_01221,Food,Nagpur,Maharashtra,Online,2022-03-27
+MER01222,Merchant_01222,Utilities,Indore,Madhya Pradesh,Hybrid,2020-03-18
+MER01223,Merchant_01223,Grocery,Nagpur,Maharashtra,Online,2020-11-26
+MER01224,Merchant_01224,Grocery,Lucknow,Uttar Pradesh,Hybrid,2023-05-20
+MER01225,Merchant_01225,Grocery,Delhi,Delhi,Offline,2020-12-24
+MER01226,Merchant_01226,Healthcare,Hyderabad,Telangana,Offline,2022-04-11
+MER01227,Merchant_01227,Fashion,Coimbatore,Tamil Nadu,Offline,2021-10-20
+MER01228,Merchant_01228,Other,Jaipur,Rajasthan,Online,2023-04-04
+MER01229,Merchant_01229,Grocery,Bengaluru,Karnataka,Online,2022-11-12
+MER01230,Merchant_01230,Education,Indore,Madhya Pradesh,Offline,2024-09-03
+MER01231,Merchant_01231,Food,Lucknow,Uttar Pradesh,Hybrid,2024-04-09
+MER01232,Merchant_01232,Electronics,Bengaluru,Karnataka,Online,2023-12-17
+MER01233,Merchant_01233,Food,Bhubaneswar,Odisha,Online,2021-11-24
+MER01234,Merchant_01234,Education,Delhi,Delhi,Online,2020-12-10
+MER01235,Merchant_01235,Fashion,Chennai,Tamil Nadu,Offline,2020-09-09
+MER01236,Merchant_01236,Food,Ahmedabad,Gujarat,Offline,2021-09-09
+MER01237,Merchant_01237,Grocery,Kolkata,West Bengal,Offline,2021-09-22
+MER01238,Merchant_01238,Education,Kochi,Kerala,Offline,2024-12-21
+MER01239,Merchant_01239,Healthcare,Delhi,Delhi,Online,2024-02-04
+MER01240,Merchant_01240,Electronics,Ahmedabad,Gujarat,Offline,2020-04-17
+MER01241,Merchant_01241,Fashion,Bengaluru,Karnataka,Offline,2024-10-27
+MER01242,Merchant_01242,Entertainment,Bengaluru,Karnataka,Offline,2020-03-01
+MER01243,Merchant_01243,Food,Nagpur,Maharashtra,Offline,2020-05-21
+MER01244,Merchant_01244,Food,Ahmedabad,Gujarat,Offline,2020-04-20
+MER01245,Merchant_01245,Food,Hyderabad,Telangana,Online,2021-02-21
+MER01246,Merchant_01246,Electronics,Patna,Bihar,Hybrid,2023-11-08
+MER01247,Merchant_01247,Other,Indore,Madhya Pradesh,Online,2022-05-26
+MER01248,Merchant_01248,Other,Surat,Gujarat,Hybrid,2022-12-13
+MER01249,Merchant_01249,Fashion,Mumbai,Maharashtra,Offline,2021-11-03
+MER01250,Merchant_01250,Entertainment,Kolkata,West Bengal,Offline,2020-12-28
+MER01251,Merchant_01251,Fashion,Surat,Gujarat,Online,2020-01-07
+MER01252,Merchant_01252,Grocery,Patna,Bihar,Hybrid,2023-07-18
+MER01253,Merchant_01253,Grocery,Srinagar,Jammu and Kashmir,Hybrid,2022-11-30
+MER01254,Merchant_01254,Travel,Mumbai,Maharashtra,Offline,2023-11-11
+MER01255,Merchant_01255,Travel,Patna,Bihar,Online,2020-09-27
+MER01256,Merchant_01256,Grocery,Ahmedabad,Gujarat,Offline,2023-08-17
+MER01257,Merchant_01257,Food,Mumbai,Maharashtra,Offline,2023-06-14
+MER01258,Merchant_01258,Electronics,Delhi,Delhi,Online,2021-06-26
+MER01259,Merchant_01259,Food,Bhubaneswar,Odisha,Hybrid,2022-02-02
+MER01260,Merchant_01260,Grocery,Mumbai,Maharashtra,Online,2021-04-21
+MER01261,Merchant_01261,Food,Lucknow,Uttar Pradesh,Offline,2022-04-05
+MER01262,Merchant_01262,Grocery,Chennai,Tamil Nadu,Hybrid,2021-02-14
+MER01263,Merchant_01263,Electronics,Guwahati,Assam,Offline,2020-06-27
+MER01264,Merchant_01264,Healthcare,Ahmedabad,Gujarat,Offline,2021-12-01
+MER01265,Merchant_01265,Grocery,Chandigarh,Chandigarh,Offline,2024-06-05
+MER01266,Merchant_01266,Utilities,Hyderabad,Telangana,Online,2020-05-23
+MER01267,Merchant_01267,Entertainment,Delhi,Delhi,Hybrid,2023-04-15
+MER01268,Merchant_01268,Food,Bhubaneswar,Odisha,Offline,2022-11-18
+MER01269,Merchant_01269,Food,Kochi,Kerala,Hybrid,2021-04-08
+MER01270,Merchant_01270,Other,Chennai,Tamil Nadu,Hybrid,2021-03-17
+MER01271,Merchant_01271,Entertainment,Coimbatore,Tamil Nadu,Online,2023-01-03
+MER01272,Merchant_01272,Healthcare,Mumbai,Maharashtra,Online,2022-09-16
+MER01273,Merchant_01273,Grocery,Hyderabad,Telangana,Online,2022-10-10
+MER01274,Merchant_01274,Travel,Mumbai,Maharashtra,Online,2020-02-13
+MER01275,Merchant_01275,Grocery,Delhi,Delhi,Hybrid,2023-04-13
+MER01276,Merchant_01276,Travel,Surat,Gujarat,Offline,2021-05-05
+MER01277,Merchant_01277,Grocery,Ahmedabad,Gujarat,Hybrid,2022-12-11
+MER01278,Merchant_01278,Entertainment,Visakhapatnam,Andhra Pradesh,Online,2020-02-12
+MER01279,Merchant_01279,Electronics,Kolkata,West Bengal,Offline,2020-03-08
+MER01280,Merchant_01280,Entertainment,Jaipur,Rajasthan,Online,2021-07-08
+MER01281,Merchant_01281,Grocery,Nagpur,Maharashtra,Offline,2023-06-14
+MER01282,Merchant_01282,Electronics,Bengaluru,Karnataka,Online,2021-09-21
+MER01283,Merchant_01283,Healthcare,Chandigarh,Chandigarh,Online,2024-05-26
+MER01284,Merchant_01284,Entertainment,Surat,Gujarat,Online,2022-03-29
+MER01285,Merchant_01285,Grocery,Kochi,Kerala,Offline,2023-09-26
+MER01286,Merchant_01286,Grocery,Coimbatore,Tamil Nadu,Offline,2020-11-27
+MER01287,Merchant_01287,Healthcare,Jaipur,Rajasthan,Offline,2022-12-26
+MER01288,Merchant_01288,Fashion,Indore,Madhya Pradesh,Hybrid,2024-04-26
+MER01289,Merchant_01289,Utilities,Kolkata,West Bengal,Online,2021-05-04
+MER01290,Merchant_01290,Food,Bengaluru,Karnataka,Offline,2023-11-27
+MER01291,Merchant_01291,Fashion,Bengaluru,Karnataka,Online,2020-03-21
+MER01292,Merchant_01292,Grocery,Kolkata,West Bengal,Offline,2024-02-27
+MER01293,Merchant_01293,Travel,Pune,Maharashtra,Online,2020-07-18
+MER01294,Merchant_01294,Healthcare,Kochi,Kerala,Offline,2022-09-25
+MER01295,Merchant_01295,Grocery,Nagpur,Maharashtra,Offline,2020-11-06
+MER01296,Merchant_01296,Food,Kolkata,West Bengal,Hybrid,2023-02-20
+MER01297,Merchant_01297,Grocery,Mumbai,Maharashtra,Online,2022-08-06
+MER01298,Merchant_01298,Fashion,Jaipur,Rajasthan,Online,2021-06-06
+MER01299,Merchant_01299,Utilities,Lucknow,Uttar Pradesh,Offline,2021-12-09
+MER01300,Merchant_01300,Fashion,Lucknow,Uttar Pradesh,Hybrid,2021-09-08
+MER01301,Merchant_01301,Healthcare,Hyderabad,Telangana,Hybrid,2020-06-21
+MER01302,Merchant_01302,Travel,Ahmedabad,Gujarat,Offline,2023-12-20
+MER01303,Merchant_01303,Grocery,Kochi,Kerala,Offline,2021-08-02
+MER01304,Merchant_01304,Utilities,Ahmedabad,Gujarat,Online,2022-10-17
+MER01305,Merchant_01305,Travel,Lucknow,Uttar Pradesh,Hybrid,2020-01-11
+MER01306,Merchant_01306,Food,Mumbai,Maharashtra,Online,2023-10-08
+MER01307,Merchant_01307,Electronics,Pune,Maharashtra,Online,2022-04-07
+MER01308,Merchant_01308,Travel,Pune,Maharashtra,Online,2022-02-18
+MER01309,Merchant_01309,Grocery,Delhi,Delhi,Online,2022-03-06
+MER01310,Merchant_01310,Healthcare,Guwahati,Assam,Online,2024-12-02
+MER01311,Merchant_01311,Food,Delhi,Delhi,Hybrid,2022-07-08
+MER01312,Merchant_01312,Grocery,Bhopal,Madhya Pradesh,Offline,2022-01-11
+MER01313,Merchant_01313,Other,Surat,Gujarat,Offline,2021-09-01
+MER01314,Merchant_01314,Education,Lucknow,Uttar Pradesh,Online,2024-02-29
+MER01315,Merchant_01315,Education,Mumbai,Maharashtra,Online,2023-09-16
+MER01316,Merchant_01316,Travel,Ahmedabad,Gujarat,Online,2020-11-06
+MER01317,Merchant_01317,Electronics,Surat,Gujarat,Offline,2021-07-10
+MER01318,Merchant_01318,Food,Ranchi,Jharkhand,Offline,2020-08-01
+MER01319,Merchant_01319,Utilities,Jaipur,Rajasthan,Offline,2020-10-15
+MER01320,Merchant_01320,Food,Bengaluru,Karnataka,Hybrid,2023-12-15
+MER01321,Merchant_01321,Travel,Nagpur,Maharashtra,Hybrid,2024-12-19
+MER01322,Merchant_01322,Entertainment,Lucknow,Uttar Pradesh,Hybrid,2022-06-24
+MER01323,Merchant_01323,Grocery,Dehradun,Uttarakhand,Offline,2022-07-16
+MER01324,Merchant_01324,Grocery,Jaipur,Rajasthan,Online,2020-06-03
+MER01325,Merchant_01325,Travel,Ranchi,Jharkhand,Offline,2021-03-08
+MER01326,Merchant_01326,Fashion,Hyderabad,Telangana,Offline,2020-06-21
+MER01327,Merchant_01327,Electronics,Ahmedabad,Gujarat,Online,2024-03-06
+MER01328,Merchant_01328,Food,Hyderabad,Telangana,Offline,2022-06-06
+MER01329,Merchant_01329,Grocery,Delhi,Delhi,Online,2020-10-22
+MER01330,Merchant_01330,Travel,Nagpur,Maharashtra,Online,2023-10-09
+MER01331,Merchant_01331,Grocery,Nagpur,Maharashtra,Hybrid,2023-11-19
+MER01332,Merchant_01332,Fashion,Mumbai,Maharashtra,Hybrid,2020-01-21
+MER01333,Merchant_01333,Utilities,Bhopal,Madhya Pradesh,Hybrid,2020-08-30
+MER01334,Merchant_01334,Grocery,Pune,Maharashtra,Hybrid,2021-12-04
+MER01335,Merchant_01335,Entertainment,Bengaluru,Karnataka,Offline,2024-11-09
+MER01336,Merchant_01336,Food,Bhopal,Madhya Pradesh,Offline,2021-05-04
+MER01337,Merchant_01337,Utilities,Ahmedabad,Gujarat,Offline,2020-07-07
+MER01338,Merchant_01338,Grocery,Mumbai,Maharashtra,Offline,2022-06-23
+MER01339,Merchant_01339,Grocery,Pune,Maharashtra,Online,2020-01-03
+MER01340,Merchant_01340,Food,Chennai,Tamil Nadu,Online,2024-12-02
+MER01341,Merchant_01341,Education,Bhopal,Madhya Pradesh,Offline,2021-03-06
+MER01342,Merchant_01342,Fashion,Hyderabad,Telangana,Hybrid,2021-10-28
+MER01343,Merchant_01343,Entertainment,Bhopal,Madhya Pradesh,Offline,2022-06-01
+MER01344,Merchant_01344,Fashion,Delhi,Delhi,Offline,2022-10-19
+MER01345,Merchant_01345,Other,Ranchi,Jharkhand,Offline,2021-10-15
+MER01346,Merchant_01346,Food,Bengaluru,Karnataka,Offline,2024-05-20
+MER01347,Merchant_01347,Grocery,Patna,Bihar,Hybrid,2024-12-26
+MER01348,Merchant_01348,Food,Chennai,Tamil Nadu,Online,2023-08-06
+MER01349,Merchant_01349,Electronics,Kolkata,West Bengal,Offline,2023-03-07
+MER01350,Merchant_01350,Food,Ranchi,Jharkhand,Hybrid,2023-11-09
+MER01351,Merchant_01351,Fashion,Ahmedabad,Gujarat,Offline,2021-08-09
+MER01352,Merchant_01352,Fashion,Bhubaneswar,Odisha,Offline,2020-12-29
+MER01353,Merchant_01353,Food,Chandigarh,Chandigarh,Offline,2023-03-23
+MER01354,Merchant_01354,Other,Bhubaneswar,Odisha,Hybrid,2022-07-23
+MER01355,Merchant_01355,Travel,Mumbai,Maharashtra,Offline,2020-11-11
+MER01356,Merchant_01356,Fashion,Ahmedabad,Gujarat,Hybrid,2024-09-12
+MER01357,Merchant_01357,Fashion,Nagpur,Maharashtra,Online,2020-07-12
+MER01358,Merchant_01358,Education,Surat,Gujarat,Online,2021-07-17
+MER01359,Merchant_01359,Utilities,Bengaluru,Karnataka,Offline,2023-06-02
+MER01360,Merchant_01360,Food,Kolkata,West Bengal,Offline,2021-07-03
+MER01361,Merchant_01361,Utilities,Hyderabad,Telangana,Offline,2022-07-10
+MER01362,Merchant_01362,Food,Hyderabad,Telangana,Online,2020-05-25
+MER01363,Merchant_01363,Other,Kolkata,West Bengal,Offline,2022-06-20
+MER01364,Merchant_01364,Utilities,Bengaluru,Karnataka,Offline,2022-11-28
+MER01365,Merchant_01365,Grocery,Lucknow,Uttar Pradesh,Hybrid,2023-10-19
+MER01366,Merchant_01366,Entertainment,Hyderabad,Telangana,Offline,2022-07-17
+MER01367,Merchant_01367,Fashion,Mumbai,Maharashtra,Hybrid,2021-10-13
+MER01368,Merchant_01368,Grocery,Bengaluru,Karnataka,Offline,2024-05-19
+MER01369,Merchant_01369,Grocery,Dehradun,Uttarakhand,Online,2024-12-11
+MER01370,Merchant_01370,Travel,Chandigarh,Chandigarh,Hybrid,2022-05-15
+MER01371,Merchant_01371,Fashion,Pune,Maharashtra,Online,2023-03-24
+MER01372,Merchant_01372,Education,Coimbatore,Tamil Nadu,Offline,2022-12-20
+MER01373,Merchant_01373,Other,Hyderabad,Telangana,Online,2024-08-10
+MER01374,Merchant_01374,Food,Chennai,Tamil Nadu,Offline,2023-05-26
+MER01375,Merchant_01375,Grocery,Pune,Maharashtra,Offline,2024-05-20
+MER01376,Merchant_01376,Other,Bengaluru,Karnataka,Offline,2023-06-29
+MER01377,Merchant_01377,Utilities,Coimbatore,Tamil Nadu,Offline,2020-02-18
+MER01378,Merchant_01378,Food,Kolkata,West Bengal,Offline,2024-12-27
+MER01379,Merchant_01379,Other,Mumbai,Maharashtra,Hybrid,2020-01-06
+MER01380,Merchant_01380,Other,Bengaluru,Karnataka,Hybrid,2020-12-21
+MER01381,Merchant_01381,Travel,Ahmedabad,Gujarat,Offline,2024-03-24
+MER01382,Merchant_01382,Grocery,Jaipur,Rajasthan,Hybrid,2021-07-09
+MER01383,Merchant_01383,Grocery,Bhubaneswar,Odisha,Offline,2021-09-18
+MER01384,Merchant_01384,Education,Chennai,Tamil Nadu,Offline,2023-08-08
+MER01385,Merchant_01385,Grocery,Surat,Gujarat,Online,2024-01-19
+MER01386,Merchant_01386,Entertainment,Bengaluru,Karnataka,Hybrid,2022-09-25
+MER01387,Merchant_01387,Food,Jaipur,Rajasthan,Online,2022-10-30
+MER01388,Merchant_01388,Grocery,Chennai,Tamil Nadu,Offline,2021-11-16
+MER01389,Merchant_01389,Other,Bhubaneswar,Odisha,Hybrid,2022-10-23
+MER01390,Merchant_01390,Utilities,Kochi,Kerala,Offline,2020-12-14
+MER01391,Merchant_01391,Grocery,Patna,Bihar,Online,2020-01-21
+MER01392,Merchant_01392,Entertainment,Lucknow,Uttar Pradesh,Offline,2021-08-18
+MER01393,Merchant_01393,Education,Delhi,Delhi,Hybrid,2024-10-20
+MER01394,Merchant_01394,Grocery,Lucknow,Uttar Pradesh,Hybrid,2024-09-17
+MER01395,Merchant_01395,Food,Ahmedabad,Gujarat,Online,2020-07-17
+MER01396,Merchant_01396,Other,Mumbai,Maharashtra,Hybrid,2022-10-15
+MER01397,Merchant_01397,Electronics,Delhi,Delhi,Offline,2024-12-06
+MER01398,Merchant_01398,Food,Hyderabad,Telangana,Offline,2023-10-15
+MER01399,Merchant_01399,Grocery,Pune,Maharashtra,Online,2020-02-11
+MER01400,Merchant_01400,Grocery,Guwahati,Assam,Offline,2021-05-22
+MER01401,Merchant_01401,Food,Bengaluru,Karnataka,Online,2023-06-03
+MER01402,Merchant_01402,Fashion,Mumbai,Maharashtra,Offline,2022-07-24
+MER01403,Merchant_01403,Fashion,Patna,Bihar,Offline,2023-06-29
+MER01404,Merchant_01404,Food,Bhopal,Madhya Pradesh,Offline,2020-12-02
+MER01405,Merchant_01405,Grocery,Bhubaneswar,Odisha,Hybrid,2023-06-10
+MER01406,Merchant_01406,Food,Bhubaneswar,Odisha,Offline,2022-10-25
+MER01407,Merchant_01407,Fashion,Jaipur,Rajasthan,Online,2024-08-17
+MER01408,Merchant_01408,Grocery,Pune,Maharashtra,Online,2020-09-27
+MER01409,Merchant_01409,Grocery,Delhi,Delhi,Offline,2022-12-10
+MER01410,Merchant_01410,Utilities,Indore,Madhya Pradesh,Offline,2024-03-06
+MER01411,Merchant_01411,Grocery,Patna,Bihar,Offline,2023-06-19
+MER01412,Merchant_01412,Fashion,Chandigarh,Chandigarh,Online,2020-08-23
+MER01413,Merchant_01413,Entertainment,Srinagar,Jammu and Kashmir,Online,2022-09-21
+MER01414,Merchant_01414,Healthcare,Ranchi,Jharkhand,Offline,2024-01-15
+MER01415,Merchant_01415,Utilities,Bengaluru,Karnataka,Hybrid,2024-03-03
+MER01416,Merchant_01416,Grocery,Indore,Madhya Pradesh,Online,2020-05-07
+MER01417,Merchant_01417,Grocery,Bhopal,Madhya Pradesh,Online,2023-05-26
+MER01418,Merchant_01418,Fashion,Kochi,Kerala,Online,2024-08-10
+MER01419,Merchant_01419,Entertainment,Ranchi,Jharkhand,Offline,2022-11-29
+MER01420,Merchant_01420,Utilities,Chennai,Tamil Nadu,Online,2024-03-20
+MER01421,Merchant_01421,Grocery,Pune,Maharashtra,Online,2022-10-31
+MER01422,Merchant_01422,Grocery,Delhi,Delhi,Hybrid,2023-06-26
+MER01423,Merchant_01423,Grocery,Mumbai,Maharashtra,Offline,2023-04-23
+MER01424,Merchant_01424,Other,Coimbatore,Tamil Nadu,Hybrid,2023-05-07
+MER01425,Merchant_01425,Grocery,Nagpur,Maharashtra,Hybrid,2024-10-21
+MER01426,Merchant_01426,Grocery,Delhi,Delhi,Offline,2021-12-16
+MER01427,Merchant_01427,Fashion,Delhi,Delhi,Offline,2023-02-10
+MER01428,Merchant_01428,Other,Delhi,Delhi,Offline,2024-12-24
+MER01429,Merchant_01429,Food,Hyderabad,Telangana,Online,2024-11-29
+MER01430,Merchant_01430,Food,Guwahati,Assam,Offline,2020-01-08
+MER01431,Merchant_01431,Other,Kolkata,West Bengal,Hybrid,2021-06-23
+MER01432,Merchant_01432,Healthcare,Lucknow,Uttar Pradesh,Hybrid,2020-03-27
+MER01433,Merchant_01433,Grocery,Hyderabad,Telangana,Online,2023-05-04
+MER01434,Merchant_01434,Fashion,Mumbai,Maharashtra,Offline,2023-08-05
+MER01435,Merchant_01435,Grocery,Kolkata,West Bengal,Offline,2023-02-27
+MER01436,Merchant_01436,Entertainment,Kolkata,West Bengal,Offline,2022-12-26
+MER01437,Merchant_01437,Healthcare,Kolkata,West Bengal,Online,2020-06-29
+MER01438,Merchant_01438,Fashion,Bengaluru,Karnataka,Offline,2021-04-18
+MER01439,Merchant_01439,Entertainment,Chennai,Tamil Nadu,Offline,2020-12-15
+MER01440,Merchant_01440,Food,Mumbai,Maharashtra,Hybrid,2021-12-07
+MER01441,Merchant_01441,Fashion,Chandigarh,Chandigarh,Offline,2023-01-07
+MER01442,Merchant_01442,Food,Ahmedabad,Gujarat,Online,2022-12-30
+MER01443,Merchant_01443,Grocery,Indore,Madhya Pradesh,Offline,2023-01-30
+MER01444,Merchant_01444,Grocery,Coimbatore,Tamil Nadu,Offline,2022-01-23
+MER01445,Merchant_01445,Other,Surat,Gujarat,Offline,2020-02-01
+MER01446,Merchant_01446,Grocery,Kolkata,West Bengal,Online,2020-04-23
+MER01447,Merchant_01447,Utilities,Bengaluru,Karnataka,Offline,2020-04-05
+MER01448,Merchant_01448,Utilities,Kolkata,West Bengal,Online,2020-03-06
+MER01449,Merchant_01449,Utilities,Ahmedabad,Gujarat,Online,2021-05-31
+MER01450,Merchant_01450,Travel,Kolkata,West Bengal,Hybrid,2022-03-21
+MER01451,Merchant_01451,Travel,Bhubaneswar,Odisha,Online,2021-05-19
+MER01452,Merchant_01452,Food,Kochi,Kerala,Offline,2022-05-16
+MER01453,Merchant_01453,Grocery,Nagpur,Maharashtra,Offline,2024-11-10
+MER01454,Merchant_01454,Grocery,Kolkata,West Bengal,Offline,2023-05-06
+MER01455,Merchant_01455,Travel,Nagpur,Maharashtra,Hybrid,2023-04-22
+MER01456,Merchant_01456,Electronics,Pune,Maharashtra,Offline,2024-12-03
+MER01457,Merchant_01457,Grocery,Hyderabad,Telangana,Offline,2022-07-06
+MER01458,Merchant_01458,Fashion,Indore,Madhya Pradesh,Offline,2020-05-23
+MER01459,Merchant_01459,Grocery,Surat,Gujarat,Offline,2024-01-10
+MER01460,Merchant_01460,Food,Kolkata,West Bengal,Hybrid,2021-05-26
+MER01461,Merchant_01461,Food,Hyderabad,Telangana,Hybrid,2023-12-18
+MER01462,Merchant_01462,Fashion,Delhi,Delhi,Hybrid,2022-11-29
+MER01463,Merchant_01463,Utilities,Bengaluru,Karnataka,Hybrid,2023-05-03
+MER01464,Merchant_01464,Food,Mumbai,Maharashtra,Offline,2021-09-27
+MER01465,Merchant_01465,Grocery,Chennai,Tamil Nadu,Offline,2020-09-28
+MER01466,Merchant_01466,Grocery,Chennai,Tamil Nadu,Offline,2021-06-23
+MER01467,Merchant_01467,Grocery,Kolkata,West Bengal,Online,2024-03-02
+MER01468,Merchant_01468,Entertainment,Jaipur,Rajasthan,Hybrid,2021-07-15
+MER01469,Merchant_01469,Entertainment,Surat,Gujarat,Offline,2020-08-27
+MER01470,Merchant_01470,Entertainment,Kolkata,West Bengal,Offline,2021-01-27
+MER01471,Merchant_01471,Fashion,Coimbatore,Tamil Nadu,Offline,2024-01-21
+MER01472,Merchant_01472,Healthcare,Bengaluru,Karnataka,Offline,2023-01-31
+MER01473,Merchant_01473,Travel,Mumbai,Maharashtra,Online,2024-10-18
+MER01474,Merchant_01474,Utilities,Bengaluru,Karnataka,Hybrid,2023-03-04
+MER01475,Merchant_01475,Other,Mumbai,Maharashtra,Online,2021-10-05
+MER01476,Merchant_01476,Food,Bhopal,Madhya Pradesh,Offline,2023-07-15
+MER01477,Merchant_01477,Grocery,Kolkata,West Bengal,Offline,2020-07-28
+MER01478,Merchant_01478,Fashion,Pune,Maharashtra,Online,2020-08-30
+MER01479,Merchant_01479,Grocery,Mumbai,Maharashtra,Hybrid,2023-10-15
+MER01480,Merchant_01480,Other,Bengaluru,Karnataka,Offline,2020-11-24
+MER01481,Merchant_01481,Utilities,Hyderabad,Telangana,Hybrid,2022-02-21
+MER01482,Merchant_01482,Fashion,Pune,Maharashtra,Offline,2024-12-26
+MER01483,Merchant_01483,Healthcare,Chennai,Tamil Nadu,Hybrid,2024-05-25
+MER01484,Merchant_01484,Food,Kolkata,West Bengal,Online,2021-03-25
+MER01485,Merchant_01485,Utilities,Bengaluru,Karnataka,Hybrid,2022-06-23
+MER01486,Merchant_01486,Food,Hyderabad,Telangana,Hybrid,2023-01-24
+MER01487,Merchant_01487,Entertainment,Hyderabad,Telangana,Hybrid,2023-07-16
+MER01488,Merchant_01488,Grocery,Kolkata,West Bengal,Offline,2020-06-08
+MER01489,Merchant_01489,Healthcare,Nagpur,Maharashtra,Hybrid,2021-07-07
+MER01490,Merchant_01490,Fashion,Nagpur,Maharashtra,Offline,2023-09-13
+MER01491,Merchant_01491,Grocery,Ranchi,Jharkhand,Offline,2020-07-30
+MER01492,Merchant_01492,Food,Kochi,Kerala,Offline,2020-09-10
+MER01493,Merchant_01493,Fashion,Ahmedabad,Gujarat,Online,2024-03-08
+MER01494,Merchant_01494,Grocery,Kolkata,West Bengal,Offline,2021-12-31
+MER01495,Merchant_01495,Food,Bengaluru,Karnataka,Offline,2024-11-26
+MER01496,Merchant_01496,Food,Bhopal,Madhya Pradesh,Online,2021-02-06
+MER01497,Merchant_01497,Grocery,Surat,Gujarat,Offline,2022-02-08
+MER01498,Merchant_01498,Food,Chennai,Tamil Nadu,Online,2022-02-18
+MER01499,Merchant_01499,Grocery,Srinagar,Jammu and Kashmir,Hybrid,2022-05-28
+MER01500,Merchant_01500,Entertainment,Mumbai,Maharashtra,Online,2024-08-25
+MER01501,Merchant_01501,Food,Surat,Gujarat,Offline,2021-04-09
+MER01502,Merchant_01502,Education,Bengaluru,Karnataka,Online,2021-04-17
+MER01503,Merchant_01503,Utilities,Coimbatore,Tamil Nadu,Offline,2022-01-25
+MER01504,Merchant_01504,Other,Lucknow,Uttar Pradesh,Offline,2020-11-18
+MER01505,Merchant_01505,Other,Patna,Bihar,Offline,2023-01-12
+MER01506,Merchant_01506,Entertainment,Bengaluru,Karnataka,Offline,2020-05-20
+MER01507,Merchant_01507,Utilities,Jaipur,Rajasthan,Online,2020-04-06
+MER01508,Merchant_01508,Healthcare,Lucknow,Uttar Pradesh,Offline,2020-12-18
+MER01509,Merchant_01509,Grocery,Bhopal,Madhya Pradesh,Online,2021-08-13
+MER01510,Merchant_01510,Other,Surat,Gujarat,Offline,2023-12-01
+MER01511,Merchant_01511,Grocery,Bengaluru,Karnataka,Offline,2021-06-02
+MER01512,Merchant_01512,Healthcare,Surat,Gujarat,Offline,2021-01-17
+MER01513,Merchant_01513,Grocery,Nagpur,Maharashtra,Online,2022-09-03
+MER01514,Merchant_01514,Grocery,Ranchi,Jharkhand,Online,2024-10-05
+MER01515,Merchant_01515,Utilities,Chennai,Tamil Nadu,Offline,2020-12-16
+MER01516,Merchant_01516,Fashion,Chennai,Tamil Nadu,Online,2021-06-08
+MER01517,Merchant_01517,Healthcare,Hyderabad,Telangana,Offline,2023-03-30
+MER01518,Merchant_01518,Entertainment,Bhubaneswar,Odisha,Hybrid,2021-04-01
+MER01519,Merchant_01519,Grocery,Kolkata,West Bengal,Online,2021-10-26
+MER01520,Merchant_01520,Entertainment,Mumbai,Maharashtra,Offline,2024-02-11
+MER01521,Merchant_01521,Grocery,Patna,Bihar,Offline,2021-06-13
+MER01522,Merchant_01522,Education,Nagpur,Maharashtra,Hybrid,2023-01-02
+MER01523,Merchant_01523,Healthcare,Surat,Gujarat,Hybrid,2022-03-25
+MER01524,Merchant_01524,Electronics,Mumbai,Maharashtra,Hybrid,2022-04-14
+MER01525,Merchant_01525,Electronics,Delhi,Delhi,Hybrid,2024-06-17
+MER01526,Merchant_01526,Grocery,Bengaluru,Karnataka,Offline,2020-11-14
+MER01527,Merchant_01527,Travel,Chennai,Tamil Nadu,Offline,2022-02-13
+MER01528,Merchant_01528,Grocery,Indore,Madhya Pradesh,Offline,2023-07-20
+MER01529,Merchant_01529,Healthcare,Bhubaneswar,Odisha,Online,2022-01-10
+MER01530,Merchant_01530,Utilities,Kolkata,West Bengal,Offline,2023-02-19
+MER01531,Merchant_01531,Other,Jaipur,Rajasthan,Offline,2022-02-06
+MER01532,Merchant_01532,Utilities,Chandigarh,Chandigarh,Online,2024-09-26
+MER01533,Merchant_01533,Other,Patna,Bihar,Offline,2021-07-09
+MER01534,Merchant_01534,Food,Patna,Bihar,Online,2024-10-25
+MER01535,Merchant_01535,Healthcare,Mumbai,Maharashtra,Online,2022-10-14
+MER01536,Merchant_01536,Food,Patna,Bihar,Offline,2023-01-03
+MER01537,Merchant_01537,Grocery,Kochi,Kerala,Hybrid,2021-05-03
+MER01538,Merchant_01538,Electronics,Mumbai,Maharashtra,Online,2021-05-26
+MER01539,Merchant_01539,Electronics,Hyderabad,Telangana,Online,2023-08-06
+MER01540,Merchant_01540,Other,Guwahati,Assam,Hybrid,2024-06-27
+MER01541,Merchant_01541,Healthcare,Chennai,Tamil Nadu,Offline,2022-10-28
+MER01542,Merchant_01542,Travel,Chennai,Tamil Nadu,Offline,2020-11-15
+MER01543,Merchant_01543,Healthcare,Jaipur,Rajasthan,Offline,2023-11-18
+MER01544,Merchant_01544,Grocery,Pune,Maharashtra,Hybrid,2023-01-03
+MER01545,Merchant_01545,Other,Coimbatore,Tamil Nadu,Hybrid,2024-06-26
+MER01546,Merchant_01546,Food,Mumbai,Maharashtra,Online,2020-11-21
+MER01547,Merchant_01547,Food,Surat,Gujarat,Offline,2020-07-25
+MER01548,Merchant_01548,Electronics,Chennai,Tamil Nadu,Offline,2022-04-23
+MER01549,Merchant_01549,Fashion,Kolkata,West Bengal,Offline,2022-01-02
+MER01550,Merchant_01550,Healthcare,Pune,Maharashtra,Online,2020-10-08
+MER01551,Merchant_01551,Healthcare,Chandigarh,Chandigarh,Hybrid,2023-02-07
+MER01552,Merchant_01552,Food,Ahmedabad,Gujarat,Hybrid,2024-12-14
+MER01553,Merchant_01553,Healthcare,Bengaluru,Karnataka,Offline,2023-06-12
+MER01554,Merchant_01554,Food,Hyderabad,Telangana,Online,2020-11-05
+MER01555,Merchant_01555,Utilities,Coimbatore,Tamil Nadu,Hybrid,2022-09-02
+MER01556,Merchant_01556,Electronics,Chennai,Tamil Nadu,Offline,2023-01-02
+MER01557,Merchant_01557,Grocery,Patna,Bihar,Offline,2023-12-22
+MER01558,Merchant_01558,Food,Lucknow,Uttar Pradesh,Offline,2021-06-20
+MER01559,Merchant_01559,Entertainment,Hyderabad,Telangana,Offline,2022-10-23
+MER01560,Merchant_01560,Other,Delhi,Delhi,Offline,2024-08-17
+MER01561,Merchant_01561,Entertainment,Surat,Gujarat,Offline,2021-08-21
+MER01562,Merchant_01562,Fashion,Pune,Maharashtra,Online,2024-07-24
+MER01563,Merchant_01563,Grocery,Patna,Bihar,Offline,2020-07-04
+MER01564,Merchant_01564,Grocery,Bhopal,Madhya Pradesh,Offline,2024-04-23
+MER01565,Merchant_01565,Electronics,Hyderabad,Telangana,Offline,2022-02-24
+MER01566,Merchant_01566,Electronics,Srinagar,Jammu and Kashmir,Offline,2023-01-12
+MER01567,Merchant_01567,Other,Guwahati,Assam,Online,2022-05-21
+MER01568,Merchant_01568,Food,Kolkata,West Bengal,Hybrid,2021-11-18
+MER01569,Merchant_01569,Food,Hyderabad,Telangana,Offline,2022-08-04
+MER01570,Merchant_01570,Travel,Kolkata,West Bengal,Offline,2023-04-06
+MER01571,Merchant_01571,Fashion,Delhi,Delhi,Offline,2020-08-17
+MER01572,Merchant_01572,Electronics,Jaipur,Rajasthan,Hybrid,2020-06-04
+MER01573,Merchant_01573,Entertainment,Guwahati,Assam,Hybrid,2021-08-18
+MER01574,Merchant_01574,Travel,Bengaluru,Karnataka,Hybrid,2020-01-20
+MER01575,Merchant_01575,Other,Bhopal,Madhya Pradesh,Offline,2024-11-28
+MER01576,Merchant_01576,Food,Jaipur,Rajasthan,Offline,2022-06-07
+MER01577,Merchant_01577,Fashion,Delhi,Delhi,Offline,2020-12-22
+MER01578,Merchant_01578,Electronics,Pune,Maharashtra,Offline,2021-12-02
+MER01579,Merchant_01579,Grocery,Dehradun,Uttarakhand,Online,2024-03-13
+MER01580,Merchant_01580,Other,Hyderabad,Telangana,Offline,2024-04-30
+MER01581,Merchant_01581,Utilities,Visakhapatnam,Andhra Pradesh,Hybrid,2022-05-12
+MER01582,Merchant_01582,Electronics,Pune,Maharashtra,Offline,2023-08-01
+MER01583,Merchant_01583,Grocery,Kochi,Kerala,Offline,2023-03-26
+MER01584,Merchant_01584,Education,Visakhapatnam,Andhra Pradesh,Hybrid,2024-07-27
+MER01585,Merchant_01585,Food,Chennai,Tamil Nadu,Offline,2024-07-14
+MER01586,Merchant_01586,Food,Bhopal,Madhya Pradesh,Offline,2020-05-28
+MER01587,Merchant_01587,Grocery,Lucknow,Uttar Pradesh,Online,2024-04-10
+MER01588,Merchant_01588,Education,Ahmedabad,Gujarat,Hybrid,2023-07-28
+MER01589,Merchant_01589,Electronics,Bengaluru,Karnataka,Online,2020-06-03
+MER01590,Merchant_01590,Healthcare,Ahmedabad,Gujarat,Offline,2022-09-03
+MER01591,Merchant_01591,Travel,Delhi,Delhi,Online,2024-11-25
+MER01592,Merchant_01592,Other,Patna,Bihar,Hybrid,2020-01-01
+MER01593,Merchant_01593,Grocery,Guwahati,Assam,Offline,2021-06-25
+MER01594,Merchant_01594,Education,Hyderabad,Telangana,Offline,2020-04-09
+MER01595,Merchant_01595,Healthcare,Kolkata,West Bengal,Online,2022-11-09
+MER01596,Merchant_01596,Entertainment,Hyderabad,Telangana,Hybrid,2024-11-24
+MER01597,Merchant_01597,Electronics,Chennai,Tamil Nadu,Offline,2024-04-08
+MER01598,Merchant_01598,Grocery,Chennai,Tamil Nadu,Online,2021-03-23
+MER01599,Merchant_01599,Fashion,Dehradun,Uttarakhand,Online,2023-02-21
+MER01600,Merchant_01600,Utilities,Mumbai,Maharashtra,Offline,2020-08-11
+MER01601,Merchant_01601,Travel,Surat,Gujarat,Hybrid,2023-07-12
+MER01602,Merchant_01602,Entertainment,Bhubaneswar,Odisha,Online,2022-11-23
+MER01603,Merchant_01603,Entertainment,Delhi,Delhi,Offline,2024-09-28
+MER01604,Merchant_01604,Entertainment,Ahmedabad,Gujarat,Hybrid,2020-08-20
+MER01605,Merchant_01605,Electronics,Hyderabad,Telangana,Offline,2021-11-13
+MER01606,Merchant_01606,Travel,Bengaluru,Karnataka,Online,2023-04-01
+MER01607,Merchant_01607,Electronics,Chennai,Tamil Nadu,Offline,2022-10-17
+MER01608,Merchant_01608,Food,Delhi,Delhi,Online,2021-11-09
+MER01609,Merchant_01609,Food,Bhubaneswar,Odisha,Online,2022-04-13
+MER01610,Merchant_01610,Food,Mumbai,Maharashtra,Offline,2023-10-05
+MER01611,Merchant_01611,Electronics,Bhubaneswar,Odisha,Online,2022-02-21
+MER01612,Merchant_01612,Fashion,Mumbai,Maharashtra,Offline,2022-04-08
+MER01613,Merchant_01613,Other,Kolkata,West Bengal,Hybrid,2021-04-11
+MER01614,Merchant_01614,Healthcare,Bengaluru,Karnataka,Online,2023-11-14
+MER01615,Merchant_01615,Travel,Lucknow,Uttar Pradesh,Online,2023-03-12
+MER01616,Merchant_01616,Grocery,Ranchi,Jharkhand,Online,2023-01-31
+MER01617,Merchant_01617,Entertainment,Bengaluru,Karnataka,Offline,2020-11-11
+MER01618,Merchant_01618,Food,Lucknow,Uttar Pradesh,Online,2023-09-17
+MER01619,Merchant_01619,Other,Pune,Maharashtra,Offline,2021-01-10
+MER01620,Merchant_01620,Grocery,Bhubaneswar,Odisha,Hybrid,2024-07-01
+MER01621,Merchant_01621,Fashion,Ahmedabad,Gujarat,Offline,2020-08-14
+MER01622,Merchant_01622,Utilities,Kolkata,West Bengal,Online,2022-12-02
+MER01623,Merchant_01623,Grocery,Chandigarh,Chandigarh,Online,2020-09-28
+MER01624,Merchant_01624,Grocery,Visakhapatnam,Andhra Pradesh,Offline,2021-08-05
+MER01625,Merchant_01625,Food,Visakhapatnam,Andhra Pradesh,Online,2023-06-23
+MER01626,Merchant_01626,Other,Delhi,Delhi,Offline,2023-03-22
+MER01627,Merchant_01627,Travel,Kochi,Kerala,Online,2022-01-10
+MER01628,Merchant_01628,Food,Lucknow,Uttar Pradesh,Online,2021-06-22
+MER01629,Merchant_01629,Travel,Guwahati,Assam,Hybrid,2024-01-06
+MER01630,Merchant_01630,Other,Bhopal,Madhya Pradesh,Hybrid,2022-02-02
+MER01631,Merchant_01631,Grocery,Bengaluru,Karnataka,Online,2023-02-11
+MER01632,Merchant_01632,Grocery,Patna,Bihar,Offline,2021-04-01
+MER01633,Merchant_01633,Fashion,Delhi,Delhi,Offline,2024-05-09
+MER01634,Merchant_01634,Healthcare,Pune,Maharashtra,Offline,2022-12-13
+MER01635,Merchant_01635,Grocery,Delhi,Delhi,Hybrid,2023-06-10
+MER01636,Merchant_01636,Grocery,Bhopal,Madhya Pradesh,Offline,2021-09-21
+MER01637,Merchant_01637,Fashion,Chennai,Tamil Nadu,Offline,2021-02-20
+MER01638,Merchant_01638,Education,Srinagar,Jammu and Kashmir,Offline,2020-09-11
+MER01639,Merchant_01639,Food,Bhopal,Madhya Pradesh,Offline,2021-05-03
+MER01640,Merchant_01640,Travel,Visakhapatnam,Andhra Pradesh,Hybrid,2023-02-16
+MER01641,Merchant_01641,Grocery,Dehradun,Uttarakhand,Online,2021-02-16
+MER01642,Merchant_01642,Education,Coimbatore,Tamil Nadu,Offline,2024-08-25
+MER01643,Merchant_01643,Grocery,Lucknow,Uttar Pradesh,Online,2023-09-10
+MER01644,Merchant_01644,Travel,Jaipur,Rajasthan,Online,2020-06-22
+MER01645,Merchant_01645,Grocery,Pune,Maharashtra,Hybrid,2024-05-19
+MER01646,Merchant_01646,Travel,Bengaluru,Karnataka,Offline,2024-12-28
+MER01647,Merchant_01647,Other,Bhubaneswar,Odisha,Offline,2024-07-02
+MER01648,Merchant_01648,Healthcare,Hyderabad,Telangana,Offline,2023-11-01
+MER01649,Merchant_01649,Food,Hyderabad,Telangana,Hybrid,2021-01-30
+MER01650,Merchant_01650,Education,Surat,Gujarat,Offline,2022-01-03
+MER01651,Merchant_01651,Fashion,Ahmedabad,Gujarat,Online,2024-04-16
+MER01652,Merchant_01652,Fashion,Chandigarh,Chandigarh,Offline,2023-09-18
+MER01653,Merchant_01653,Food,Chennai,Tamil Nadu,Online,2020-05-13
+MER01654,Merchant_01654,Grocery,Jaipur,Rajasthan,Hybrid,2024-12-25
+MER01655,Merchant_01655,Entertainment,Bengaluru,Karnataka,Hybrid,2021-11-21
+MER01656,Merchant_01656,Education,Bhopal,Madhya Pradesh,Hybrid,2022-04-30
+MER01657,Merchant_01657,Grocery,Pune,Maharashtra,Offline,2021-02-26
+MER01658,Merchant_01658,Grocery,Mumbai,Maharashtra,Online,2020-12-10
+MER01659,Merchant_01659,Fashion,Bhubaneswar,Odisha,Offline,2023-01-12
+MER01660,Merchant_01660,Other,Delhi,Delhi,Online,2020-07-28
+MER01661,Merchant_01661,Food,Bengaluru,Karnataka,Online,2021-11-21
+MER01662,Merchant_01662,Healthcare,Bhubaneswar,Odisha,Hybrid,2024-07-11
+MER01663,Merchant_01663,Grocery,Bengaluru,Karnataka,Hybrid,2021-01-24
+MER01664,Merchant_01664,Entertainment,Hyderabad,Telangana,Offline,2024-07-07
+MER01665,Merchant_01665,Fashion,Hyderabad,Telangana,Online,2023-05-14
+MER01666,Merchant_01666,Fashion,Delhi,Delhi,Hybrid,2023-05-17
+MER01667,Merchant_01667,Electronics,Bengaluru,Karnataka,Offline,2021-01-20
+MER01668,Merchant_01668,Utilities,Bengaluru,Karnataka,Online,2024-06-12
+MER01669,Merchant_01669,Food,Kochi,Kerala,Offline,2023-03-11
+MER01670,Merchant_01670,Education,Ahmedabad,Gujarat,Online,2024-09-21
+MER01671,Merchant_01671,Healthcare,Delhi,Delhi,Offline,2023-12-11
+MER01672,Merchant_01672,Fashion,Coimbatore,Tamil Nadu,Online,2023-05-21
+MER01673,Merchant_01673,Other,Pune,Maharashtra,Hybrid,2022-02-07
+MER01674,Merchant_01674,Fashion,Jaipur,Rajasthan,Offline,2020-01-08
+MER01675,Merchant_01675,Other,Hyderabad,Telangana,Offline,2021-11-09
+MER01676,Merchant_01676,Grocery,Ahmedabad,Gujarat,Hybrid,2021-08-05
+MER01677,Merchant_01677,Grocery,Lucknow,Uttar Pradesh,Hybrid,2020-03-01
+MER01678,Merchant_01678,Grocery,Hyderabad,Telangana,Offline,2021-01-04
+MER01679,Merchant_01679,Entertainment,Indore,Madhya Pradesh,Online,2023-09-20
+MER01680,Merchant_01680,Fashion,Chandigarh,Chandigarh,Hybrid,2022-10-30
+MER01681,Merchant_01681,Other,Patna,Bihar,Hybrid,2023-03-09
+MER01682,Merchant_01682,Grocery,Delhi,Delhi,Offline,2023-01-30
+MER01683,Merchant_01683,Fashion,Chennai,Tamil Nadu,Hybrid,2021-05-13
+MER01684,Merchant_01684,Grocery,Mumbai,Maharashtra,Offline,2024-10-05
+MER01685,Merchant_01685,Education,Chennai,Tamil Nadu,Online,2020-07-04
+MER01686,Merchant_01686,Entertainment,Chennai,Tamil Nadu,Offline,2024-09-09
+MER01687,Merchant_01687,Entertainment,Delhi,Delhi,Hybrid,2023-08-17
+MER01688,Merchant_01688,Food,Jaipur,Rajasthan,Online,2020-04-30
+MER01689,Merchant_01689,Electronics,Hyderabad,Telangana,Hybrid,2022-06-25
+MER01690,Merchant_01690,Education,Dehradun,Uttarakhand,Hybrid,2023-10-04
+MER01691,Merchant_01691,Healthcare,Hyderabad,Telangana,Online,2021-11-15
+MER01692,Merchant_01692,Grocery,Hyderabad,Telangana,Offline,2022-04-29
+MER01693,Merchant_01693,Entertainment,Delhi,Delhi,Hybrid,2022-02-17
+MER01694,Merchant_01694,Travel,Patna,Bihar,Hybrid,2024-05-05
+MER01695,Merchant_01695,Grocery,Jaipur,Rajasthan,Hybrid,2023-07-20
+MER01696,Merchant_01696,Electronics,Bengaluru,Karnataka,Online,2020-01-16
+MER01697,Merchant_01697,Grocery,Hyderabad,Telangana,Offline,2022-11-07
+MER01698,Merchant_01698,Grocery,Bengaluru,Karnataka,Offline,2022-06-05
+MER01699,Merchant_01699,Travel,Delhi,Delhi,Online,2022-08-08
+MER01700,Merchant_01700,Entertainment,Bengaluru,Karnataka,Offline,2021-10-07
+MER01701,Merchant_01701,Grocery,Nagpur,Maharashtra,Offline,2021-03-19
+MER01702,Merchant_01702,Travel,Mumbai,Maharashtra,Offline,2022-06-28
+MER01703,Merchant_01703,Fashion,Delhi,Delhi,Online,2023-12-04
+MER01704,Merchant_01704,Education,Delhi,Delhi,Online,2023-09-28
+MER01705,Merchant_01705,Fashion,Lucknow,Uttar Pradesh,Offline,2022-03-20
+MER01706,Merchant_01706,Fashion,Nagpur,Maharashtra,Hybrid,2023-07-31
+MER01707,Merchant_01707,Electronics,Hyderabad,Telangana,Offline,2023-05-10
+MER01708,Merchant_01708,Fashion,Chennai,Tamil Nadu,Hybrid,2021-02-22
+MER01709,Merchant_01709,Fashion,Delhi,Delhi,Online,2024-04-19
+MER01710,Merchant_01710,Other,Bengaluru,Karnataka,Online,2020-10-09
+MER01711,Merchant_01711,Electronics,Kolkata,West Bengal,Hybrid,2024-03-05
+MER01712,Merchant_01712,Grocery,Nagpur,Maharashtra,Hybrid,2022-09-18
+MER01713,Merchant_01713,Travel,Chandigarh,Chandigarh,Offline,2023-05-26
+MER01714,Merchant_01714,Healthcare,Jaipur,Rajasthan,Hybrid,2023-11-05
+MER01715,Merchant_01715,Food,Ahmedabad,Gujarat,Hybrid,2021-11-04
+MER01716,Merchant_01716,Utilities,Lucknow,Uttar Pradesh,Offline,2024-12-30
+MER01717,Merchant_01717,Education,Chennai,Tamil Nadu,Online,2020-06-30
+MER01718,Merchant_01718,Fashion,Chennai,Tamil Nadu,Offline,2020-01-01
+MER01719,Merchant_01719,Other,Ahmedabad,Gujarat,Offline,2023-10-11
+MER01720,Merchant_01720,Grocery,Mumbai,Maharashtra,Online,2021-06-19
+MER01721,Merchant_01721,Travel,Kochi,Kerala,Online,2020-06-23
+MER01722,Merchant_01722,Grocery,Ahmedabad,Gujarat,Offline,2024-02-22
+MER01723,Merchant_01723,Fashion,Ahmedabad,Gujarat,Online,2020-07-13
+MER01724,Merchant_01724,Utilities,Kolkata,West Bengal,Offline,2022-08-07
+MER01725,Merchant_01725,Grocery,Nagpur,Maharashtra,Hybrid,2020-09-26
+MER01726,Merchant_01726,Grocery,Mumbai,Maharashtra,Offline,2020-07-08
+MER01727,Merchant_01727,Other,Ahmedabad,Gujarat,Offline,2022-10-29
+MER01728,Merchant_01728,Entertainment,Hyderabad,Telangana,Hybrid,2021-02-03
+MER01729,Merchant_01729,Grocery,Bengaluru,Karnataka,Offline,2021-03-26
+MER01730,Merchant_01730,Travel,Coimbatore,Tamil Nadu,Offline,2021-10-27
+MER01731,Merchant_01731,Grocery,Patna,Bihar,Online,2021-04-25
+MER01732,Merchant_01732,Food,Surat,Gujarat,Hybrid,2024-12-28
+MER01733,Merchant_01733,Food,Delhi,Delhi,Offline,2021-12-31
+MER01734,Merchant_01734,Electronics,Bhopal,Madhya Pradesh,Offline,2022-10-29
+MER01735,Merchant_01735,Grocery,Hyderabad,Telangana,Offline,2024-05-27
+MER01736,Merchant_01736,Other,Lucknow,Uttar Pradesh,Online,2022-01-21
+MER01737,Merchant_01737,Grocery,Ahmedabad,Gujarat,Offline,2024-10-11
+MER01738,Merchant_01738,Utilities,Hyderabad,Telangana,Offline,2023-06-20
+MER01739,Merchant_01739,Food,Chennai,Tamil Nadu,Offline,2023-01-02
+MER01740,Merchant_01740,Education,Chennai,Tamil Nadu,Online,2021-08-30
+MER01741,Merchant_01741,Grocery,Pune,Maharashtra,Hybrid,2020-09-10
+MER01742,Merchant_01742,Entertainment,Chandigarh,Chandigarh,Hybrid,2021-08-10
+MER01743,Merchant_01743,Food,Pune,Maharashtra,Hybrid,2022-08-10
+MER01744,Merchant_01744,Education,Visakhapatnam,Andhra Pradesh,Hybrid,2020-08-27
+MER01745,Merchant_01745,Fashion,Kolkata,West Bengal,Online,2023-10-05
+MER01746,Merchant_01746,Grocery,Chandigarh,Chandigarh,Online,2022-09-27
+MER01747,Merchant_01747,Grocery,Kolkata,West Bengal,Offline,2023-09-27
+MER01748,Merchant_01748,Utilities,Jaipur,Rajasthan,Offline,2024-02-05
+MER01749,Merchant_01749,Electronics,Hyderabad,Telangana,Offline,2024-10-14
+MER01750,Merchant_01750,Education,Visakhapatnam,Andhra Pradesh,Offline,2022-07-21
+MER01751,Merchant_01751,Travel,Kolkata,West Bengal,Offline,2022-12-07
+MER01752,Merchant_01752,Other,Bengaluru,Karnataka,Offline,2024-12-13
+MER01753,Merchant_01753,Food,Ahmedabad,Gujarat,Hybrid,2021-03-27
+MER01754,Merchant_01754,Food,Surat,Gujarat,Hybrid,2023-03-09
+MER01755,Merchant_01755,Electronics,Patna,Bihar,Online,2020-06-18
+MER01756,Merchant_01756,Food,Delhi,Delhi,Offline,2022-09-15
+MER01757,Merchant_01757,Food,Delhi,Delhi,Offline,2024-11-23
+MER01758,Merchant_01758,Food,Bengaluru,Karnataka,Offline,2022-07-13
+MER01759,Merchant_01759,Other,Ahmedabad,Gujarat,Online,2024-09-09
+MER01760,Merchant_01760,Utilities,Chennai,Tamil Nadu,Online,2020-05-23
+MER01761,Merchant_01761,Grocery,Dehradun,Uttarakhand,Offline,2020-06-09
+MER01762,Merchant_01762,Grocery,Guwahati,Assam,Offline,2024-11-27
+MER01763,Merchant_01763,Entertainment,Delhi,Delhi,Offline,2020-03-05
+MER01764,Merchant_01764,Fashion,Mumbai,Maharashtra,Offline,2024-04-25
+MER01765,Merchant_01765,Food,Chandigarh,Chandigarh,Online,2022-02-05
+MER01766,Merchant_01766,Electronics,Patna,Bihar,Offline,2020-10-08
+MER01767,Merchant_01767,Other,Patna,Bihar,Online,2022-11-13
+MER01768,Merchant_01768,Utilities,Chandigarh,Chandigarh,Hybrid,2024-11-26
+MER01769,Merchant_01769,Healthcare,Chandigarh,Chandigarh,Offline,2024-02-12
+MER01770,Merchant_01770,Utilities,Kolkata,West Bengal,Offline,2020-11-01
+MER01771,Merchant_01771,Other,Hyderabad,Telangana,Offline,2021-06-28
+MER01772,Merchant_01772,Fashion,Guwahati,Assam,Online,2020-05-10
+MER01773,Merchant_01773,Utilities,Coimbatore,Tamil Nadu,Offline,2020-06-28
+MER01774,Merchant_01774,Electronics,Mumbai,Maharashtra,Hybrid,2022-05-09
+MER01775,Merchant_01775,Utilities,Hyderabad,Telangana,Offline,2022-10-04
+MER01776,Merchant_01776,Healthcare,Mumbai,Maharashtra,Offline,2021-02-12
+MER01777,Merchant_01777,Electronics,Hyderabad,Telangana,Hybrid,2021-05-29
+MER01778,Merchant_01778,Other,Bhopal,Madhya Pradesh,Offline,2020-06-03
+MER01779,Merchant_01779,Food,Bengaluru,Karnataka,Online,2023-12-31
+MER01780,Merchant_01780,Other,Delhi,Delhi,Offline,2021-04-21
+MER01781,Merchant_01781,Grocery,Delhi,Delhi,Online,2022-06-03
+MER01782,Merchant_01782,Entertainment,Delhi,Delhi,Offline,2021-11-07
+MER01783,Merchant_01783,Fashion,Hyderabad,Telangana,Offline,2020-12-16
+MER01784,Merchant_01784,Fashion,Jaipur,Rajasthan,Online,2022-09-02
+MER01785,Merchant_01785,Food,Mumbai,Maharashtra,Offline,2023-08-29
+MER01786,Merchant_01786,Electronics,Chandigarh,Chandigarh,Offline,2024-07-27
+MER01787,Merchant_01787,Electronics,Mumbai,Maharashtra,Offline,2020-09-03
+MER01788,Merchant_01788,Entertainment,Nagpur,Maharashtra,Offline,2022-07-14
+MER01789,Merchant_01789,Utilities,Nagpur,Maharashtra,Hybrid,2022-07-25
+MER01790,Merchant_01790,Fashion,Chennai,Tamil Nadu,Online,2024-12-28
+MER01791,Merchant_01791,Entertainment,Chennai,Tamil Nadu,Hybrid,2022-03-10
+MER01792,Merchant_01792,Utilities,Chennai,Tamil Nadu,Offline,2022-12-19
+MER01793,Merchant_01793,Other,Kolkata,West Bengal,Hybrid,2024-04-14
+MER01794,Merchant_01794,Food,Bengaluru,Karnataka,Hybrid,2024-03-24
+MER01795,Merchant_01795,Food,Jaipur,Rajasthan,Offline,2024-03-26
+MER01796,Merchant_01796,Healthcare,Chandigarh,Chandigarh,Offline,2022-08-26
+MER01797,Merchant_01797,Education,Bengaluru,Karnataka,Offline,2021-12-13
+MER01798,Merchant_01798,Utilities,Pune,Maharashtra,Offline,2021-07-03
+MER01799,Merchant_01799,Fashion,Coimbatore,Tamil Nadu,Hybrid,2024-05-17
+MER01800,Merchant_01800,Food,Chennai,Tamil Nadu,Offline,2024-12-31
+MER01801,Merchant_01801,Utilities,Chennai,Tamil Nadu,Hybrid,2020-05-28
+MER01802,Merchant_01802,Healthcare,Lucknow,Uttar Pradesh,Online,2023-05-03
+MER01803,Merchant_01803,Entertainment,Chennai,Tamil Nadu,Hybrid,2022-07-15
+MER01804,Merchant_01804,Electronics,Patna,Bihar,Hybrid,2024-10-11
+MER01805,Merchant_01805,Grocery,Chandigarh,Chandigarh,Offline,2022-01-28
+MER01806,Merchant_01806,Grocery,Bengaluru,Karnataka,Hybrid,2023-03-13
+MER01807,Merchant_01807,Entertainment,Chandigarh,Chandigarh,Online,2021-05-25
+MER01808,Merchant_01808,Grocery,Bengaluru,Karnataka,Offline,2020-02-06
+MER01809,Merchant_01809,Fashion,Ahmedabad,Gujarat,Online,2021-08-03
+MER01810,Merchant_01810,Electronics,Chandigarh,Chandigarh,Online,2023-08-07
+MER01811,Merchant_01811,Food,Kochi,Kerala,Hybrid,2021-04-27
+MER01812,Merchant_01812,Entertainment,Jaipur,Rajasthan,Offline,2024-12-15
+MER01813,Merchant_01813,Grocery,Delhi,Delhi,Offline,2021-09-27
+MER01814,Merchant_01814,Fashion,Jaipur,Rajasthan,Offline,2023-01-24
+MER01815,Merchant_01815,Travel,Surat,Gujarat,Offline,2020-09-11
+MER01816,Merchant_01816,Grocery,Coimbatore,Tamil Nadu,Offline,2023-04-08
+MER01817,Merchant_01817,Utilities,Mumbai,Maharashtra,Hybrid,2020-01-26
+MER01818,Merchant_01818,Travel,Ahmedabad,Gujarat,Offline,2021-01-24
+MER01819,Merchant_01819,Food,Kolkata,West Bengal,Hybrid,2021-09-10
+MER01820,Merchant_01820,Utilities,Bhubaneswar,Odisha,Hybrid,2024-03-10
+MER01821,Merchant_01821,Grocery,Bengaluru,Karnataka,Online,2023-06-19
+MER01822,Merchant_01822,Other,Visakhapatnam,Andhra Pradesh,Online,2020-01-07
+MER01823,Merchant_01823,Food,Pune,Maharashtra,Online,2024-07-30
+MER01824,Merchant_01824,Electronics,Bengaluru,Karnataka,Hybrid,2023-10-17
+MER01825,Merchant_01825,Food,Bengaluru,Karnataka,Offline,2021-02-16
+MER01826,Merchant_01826,Healthcare,Ahmedabad,Gujarat,Hybrid,2021-05-09
+MER01827,Merchant_01827,Other,Hyderabad,Telangana,Offline,2024-08-14
+MER01828,Merchant_01828,Food,Hyderabad,Telangana,Hybrid,2021-02-24
+MER01829,Merchant_01829,Food,Nagpur,Maharashtra,Offline,2023-03-19
+MER01830,Merchant_01830,Fashion,Bengaluru,Karnataka,Hybrid,2024-01-15
+MER01831,Merchant_01831,Food,Mumbai,Maharashtra,Hybrid,2024-12-05
+MER01832,Merchant_01832,Grocery,Delhi,Delhi,Hybrid,2021-09-01
+MER01833,Merchant_01833,Utilities,Chandigarh,Chandigarh,Online,2021-12-12
+MER01834,Merchant_01834,Utilities,Jaipur,Rajasthan,Online,2021-12-25
+MER01835,Merchant_01835,Utilities,Nagpur,Maharashtra,Offline,2024-08-20
+MER01836,Merchant_01836,Healthcare,Srinagar,Jammu and Kashmir,Offline,2021-12-05
+MER01837,Merchant_01837,Education,Patna,Bihar,Offline,2022-11-15
+MER01838,Merchant_01838,Fashion,Chennai,Tamil Nadu,Online,2023-02-22
+MER01839,Merchant_01839,Healthcare,Kolkata,West Bengal,Offline,2021-09-30
+MER01840,Merchant_01840,Entertainment,Bengaluru,Karnataka,Hybrid,2024-06-24
+MER01841,Merchant_01841,Education,Bhopal,Madhya Pradesh,Offline,2023-05-19
+MER01842,Merchant_01842,Entertainment,Mumbai,Maharashtra,Offline,2024-02-11
+MER01843,Merchant_01843,Healthcare,Dehradun,Uttarakhand,Hybrid,2022-10-07
+MER01844,Merchant_01844,Grocery,Dehradun,Uttarakhand,Hybrid,2023-05-31
+MER01845,Merchant_01845,Travel,Lucknow,Uttar Pradesh,Online,2020-10-26
+MER01846,Merchant_01846,Electronics,Ahmedabad,Gujarat,Offline,2023-11-07
+MER01847,Merchant_01847,Healthcare,Bengaluru,Karnataka,Online,2023-09-26
+MER01848,Merchant_01848,Utilities,Ahmedabad,Gujarat,Hybrid,2020-06-27
+MER01849,Merchant_01849,Fashion,Kolkata,West Bengal,Online,2024-07-24
+MER01850,Merchant_01850,Grocery,Mumbai,Maharashtra,Online,2024-10-31
+MER01851,Merchant_01851,Grocery,Patna,Bihar,Offline,2020-08-11
+MER01852,Merchant_01852,Grocery,Mumbai,Maharashtra,Offline,2021-07-15
+MER01853,Merchant_01853,Other,Delhi,Delhi,Online,2020-09-08
+MER01854,Merchant_01854,Grocery,Chennai,Tamil Nadu,Offline,2020-07-30
+MER01855,Merchant_01855,Travel,Chandigarh,Chandigarh,Online,2021-01-07
+MER01856,Merchant_01856,Grocery,Dehradun,Uttarakhand,Online,2024-08-01
+MER01857,Merchant_01857,Travel,Lucknow,Uttar Pradesh,Online,2024-02-11
+MER01858,Merchant_01858,Grocery,Surat,Gujarat,Offline,2021-04-21
+MER01859,Merchant_01859,Fashion,Hyderabad,Telangana,Hybrid,2020-08-04
+MER01860,Merchant_01860,Healthcare,Mumbai,Maharashtra,Online,2020-09-24
+MER01861,Merchant_01861,Utilities,Chennai,Tamil Nadu,Online,2020-08-06
+MER01862,Merchant_01862,Grocery,Visakhapatnam,Andhra Pradesh,Offline,2024-12-14
+MER01863,Merchant_01863,Other,Hyderabad,Telangana,Offline,2023-06-08
+MER01864,Merchant_01864,Food,Visakhapatnam,Andhra Pradesh,Online,2020-02-05
+MER01865,Merchant_01865,Grocery,Bhopal,Madhya Pradesh,Offline,2020-04-27
+MER01866,Merchant_01866,Healthcare,Mumbai,Maharashtra,Hybrid,2023-06-18
+MER01867,Merchant_01867,Entertainment,Bhubaneswar,Odisha,Online,2024-10-06
+MER01868,Merchant_01868,Electronics,Kolkata,West Bengal,Offline,2021-12-13
+MER01869,Merchant_01869,Entertainment,Mumbai,Maharashtra,Hybrid,2020-06-30
+MER01870,Merchant_01870,Grocery,Guwahati,Assam,Hybrid,2024-02-03
+MER01871,Merchant_01871,Grocery,Nagpur,Maharashtra,Online,2024-09-04
+MER01872,Merchant_01872,Electronics,Nagpur,Maharashtra,Offline,2020-04-30
+MER01873,Merchant_01873,Electronics,Bhubaneswar,Odisha,Online,2024-01-14
+MER01874,Merchant_01874,Utilities,Lucknow,Uttar Pradesh,Hybrid,2021-08-02
+MER01875,Merchant_01875,Electronics,Surat,Gujarat,Offline,2021-09-02
+MER01876,Merchant_01876,Other,Patna,Bihar,Offline,2021-03-17
+MER01877,Merchant_01877,Food,Kolkata,West Bengal,Offline,2022-01-01
+MER01878,Merchant_01878,Grocery,Surat,Gujarat,Hybrid,2020-08-18
+MER01879,Merchant_01879,Utilities,Bengaluru,Karnataka,Online,2020-08-12
+MER01880,Merchant_01880,Fashion,Mumbai,Maharashtra,Offline,2022-11-26
+MER01881,Merchant_01881,Food,Surat,Gujarat,Offline,2024-06-27
+MER01882,Merchant_01882,Utilities,Jaipur,Rajasthan,Online,2021-08-02
+MER01883,Merchant_01883,Grocery,Kolkata,West Bengal,Offline,2024-05-13
+MER01884,Merchant_01884,Entertainment,Guwahati,Assam,Hybrid,2021-12-22
+MER01885,Merchant_01885,Grocery,Surat,Gujarat,Hybrid,2022-03-05
+MER01886,Merchant_01886,Food,Bengaluru,Karnataka,Hybrid,2023-04-13
+MER01887,Merchant_01887,Fashion,Delhi,Delhi,Hybrid,2024-01-28
+MER01888,Merchant_01888,Grocery,Pune,Maharashtra,Hybrid,2020-05-15
+MER01889,Merchant_01889,Fashion,Kolkata,West Bengal,Offline,2020-08-08
+MER01890,Merchant_01890,Grocery,Delhi,Delhi,Online,2023-12-27
+MER01891,Merchant_01891,Grocery,Bengaluru,Karnataka,Online,2022-01-14
+MER01892,Merchant_01892,Grocery,Srinagar,Jammu and Kashmir,Offline,2021-12-29
+MER01893,Merchant_01893,Food,Delhi,Delhi,Online,2023-12-09
+MER01894,Merchant_01894,Healthcare,Ranchi,Jharkhand,Online,2021-04-25
+MER01895,Merchant_01895,Grocery,Delhi,Delhi,Offline,2023-11-25
+MER01896,Merchant_01896,Grocery,Surat,Gujarat,Offline,2024-01-27
+MER01897,Merchant_01897,Other,Jaipur,Rajasthan,Offline,2024-09-01
+MER01898,Merchant_01898,Other,Mumbai,Maharashtra,Offline,2021-03-20
+MER01899,Merchant_01899,Food,Jaipur,Rajasthan,Hybrid,2022-12-25
+MER01900,Merchant_01900,Grocery,Pune,Maharashtra,Offline,2023-03-03
+MER01901,Merchant_01901,Entertainment,Nagpur,Maharashtra,Offline,2022-03-09
+MER01902,Merchant_01902,Healthcare,Pune,Maharashtra,Offline,2020-12-20
+MER01903,Merchant_01903,Grocery,Kolkata,West Bengal,Offline,2021-11-01
+MER01904,Merchant_01904,Utilities,Bengaluru,Karnataka,Online,2022-10-17
+MER01905,Merchant_01905,Entertainment,Mumbai,Maharashtra,Online,2022-07-22
+MER01906,Merchant_01906,Grocery,Chennai,Tamil Nadu,Offline,2022-01-01
+MER01907,Merchant_01907,Food,Hyderabad,Telangana,Offline,2022-11-12
+MER01908,Merchant_01908,Travel,Surat,Gujarat,Offline,2024-04-23
+MER01909,Merchant_01909,Grocery,Hyderabad,Telangana,Online,2023-06-23
+MER01910,Merchant_01910,Electronics,Mumbai,Maharashtra,Offline,2021-12-29
+MER01911,Merchant_01911,Grocery,Pune,Maharashtra,Offline,2023-08-15
+MER01912,Merchant_01912,Grocery,Ahmedabad,Gujarat,Online,2023-06-05
+MER01913,Merchant_01913,Grocery,Ahmedabad,Gujarat,Offline,2021-07-21
+MER01914,Merchant_01914,Healthcare,Delhi,Delhi,Offline,2024-11-30
+MER01915,Merchant_01915,Entertainment,Pune,Maharashtra,Offline,2020-08-14
+MER01916,Merchant_01916,Grocery,Mumbai,Maharashtra,Online,2020-01-05
+MER01917,Merchant_01917,Grocery,Lucknow,Uttar Pradesh,Hybrid,2022-08-17
+MER01918,Merchant_01918,Fashion,Jaipur,Rajasthan,Hybrid,2020-06-11
+MER01919,Merchant_01919,Travel,Lucknow,Uttar Pradesh,Online,2023-04-22
+MER01920,Merchant_01920,Food,Hyderabad,Telangana,Hybrid,2022-11-09
+MER01921,Merchant_01921,Electronics,Hyderabad,Telangana,Offline,2021-07-18
+MER01922,Merchant_01922,Fashion,Delhi,Delhi,Online,2021-03-29
+MER01923,Merchant_01923,Entertainment,Pune,Maharashtra,Offline,2024-07-19
+MER01924,Merchant_01924,Entertainment,Delhi,Delhi,Online,2020-01-12
+MER01925,Merchant_01925,Healthcare,Surat,Gujarat,Hybrid,2022-03-18
+MER01926,Merchant_01926,Grocery,Delhi,Delhi,Offline,2024-09-20
+MER01927,Merchant_01927,Grocery,Guwahati,Assam,Hybrid,2023-10-24
+MER01928,Merchant_01928,Fashion,Mumbai,Maharashtra,Offline,2021-06-04
+MER01929,Merchant_01929,Fashion,Delhi,Delhi,Hybrid,2022-08-28
+MER01930,Merchant_01930,Food,Mumbai,Maharashtra,Online,2024-12-25
+MER01931,Merchant_01931,Healthcare,Ahmedabad,Gujarat,Offline,2020-12-30
+MER01932,Merchant_01932,Electronics,Delhi,Delhi,Online,2021-01-17
+MER01933,Merchant_01933,Food,Chandigarh,Chandigarh,Hybrid,2020-07-29
+MER01934,Merchant_01934,Utilities,Chennai,Tamil Nadu,Online,2024-08-17
+MER01935,Merchant_01935,Healthcare,Pune,Maharashtra,Offline,2024-04-30
+MER01936,Merchant_01936,Fashion,Bengaluru,Karnataka,Offline,2020-01-07
+MER01937,Merchant_01937,Other,Visakhapatnam,Andhra Pradesh,Online,2024-11-17
+MER01938,Merchant_01938,Healthcare,Indore,Madhya Pradesh,Offline,2023-01-07
+MER01939,Merchant_01939,Other,Mumbai,Maharashtra,Offline,2023-02-13
+MER01940,Merchant_01940,Fashion,Hyderabad,Telangana,Online,2023-09-21
+MER01941,Merchant_01941,Fashion,Mumbai,Maharashtra,Offline,2021-11-07
+MER01942,Merchant_01942,Travel,Surat,Gujarat,Offline,2023-06-21
+MER01943,Merchant_01943,Grocery,Mumbai,Maharashtra,Online,2023-08-22
+MER01944,Merchant_01944,Other,Mumbai,Maharashtra,Online,2023-12-06
+MER01945,Merchant_01945,Fashion,Chennai,Tamil Nadu,Offline,2020-08-07
+MER01946,Merchant_01946,Food,Mumbai,Maharashtra,Offline,2024-05-01
+MER01947,Merchant_01947,Grocery,Pune,Maharashtra,Hybrid,2022-04-24
+MER01948,Merchant_01948,Grocery,Kolkata,West Bengal,Hybrid,2021-09-12
+MER01949,Merchant_01949,Other,Chennai,Tamil Nadu,Online,2021-05-20
+MER01950,Merchant_01950,Travel,Indore,Madhya Pradesh,Online,2023-01-02
+MER01951,Merchant_01951,Entertainment,Bengaluru,Karnataka,Offline,2023-12-24
+MER01952,Merchant_01952,Food,Lucknow,Uttar Pradesh,Online,2023-07-26
+MER01953,Merchant_01953,Grocery,Bengaluru,Karnataka,Offline,2022-04-28
+MER01954,Merchant_01954,Entertainment,Chennai,Tamil Nadu,Online,2024-04-15
+MER01955,Merchant_01955,Healthcare,Ahmedabad,Gujarat,Offline,2024-09-25
+MER01956,Merchant_01956,Other,Ahmedabad,Gujarat,Online,2020-02-12
+MER01957,Merchant_01957,Utilities,Pune,Maharashtra,Hybrid,2023-01-27
+MER01958,Merchant_01958,Fashion,Indore,Madhya Pradesh,Online,2020-02-15
+MER01959,Merchant_01959,Healthcare,Pune,Maharashtra,Online,2023-01-16
+MER01960,Merchant_01960,Entertainment,Ahmedabad,Gujarat,Online,2024-12-20
+MER01961,Merchant_01961,Other,Surat,Gujarat,Offline,2024-11-12
+MER01962,Merchant_01962,Food,Jaipur,Rajasthan,Online,2020-08-15
+MER01963,Merchant_01963,Entertainment,Guwahati,Assam,Offline,2021-08-13
+MER01964,Merchant_01964,Food,Kochi,Kerala,Offline,2021-04-15
+MER01965,Merchant_01965,Fashion,Coimbatore,Tamil Nadu,Hybrid,2021-01-15
+MER01966,Merchant_01966,Healthcare,Guwahati,Assam,Offline,2021-05-27
+MER01967,Merchant_01967,Grocery,Delhi,Delhi,Hybrid,2021-06-22
+MER01968,Merchant_01968,Healthcare,Delhi,Delhi,Hybrid,2022-01-21
+MER01969,Merchant_01969,Electronics,Bengaluru,Karnataka,Online,2023-08-12
+MER01970,Merchant_01970,Food,Bhubaneswar,Odisha,Online,2023-09-19
+MER01971,Merchant_01971,Utilities,Chandigarh,Chandigarh,Hybrid,2022-03-25
+MER01972,Merchant_01972,Healthcare,Hyderabad,Telangana,Offline,2024-09-09
+MER01973,Merchant_01973,Healthcare,Kolkata,West Bengal,Hybrid,2020-10-16
+MER01974,Merchant_01974,Electronics,Hyderabad,Telangana,Hybrid,2022-09-22
+MER01975,Merchant_01975,Grocery,Pune,Maharashtra,Offline,2024-07-07
+MER01976,Merchant_01976,Utilities,Mumbai,Maharashtra,Hybrid,2022-11-13
+MER01977,Merchant_01977,Other,Hyderabad,Telangana,Offline,2022-12-20
+MER01978,Merchant_01978,Utilities,Nagpur,Maharashtra,Offline,2021-12-27
+MER01979,Merchant_01979,Food,Chennai,Tamil Nadu,Hybrid,2023-08-15
+MER01980,Merchant_01980,Travel,Kolkata,West Bengal,Hybrid,2022-12-27
+MER01981,Merchant_01981,Fashion,Lucknow,Uttar Pradesh,Online,2024-11-10
+MER01982,Merchant_01982,Other,Nagpur,Maharashtra,Online,2020-03-16
+MER01983,Merchant_01983,Entertainment,Guwahati,Assam,Offline,2020-04-28
+MER01984,Merchant_01984,Food,Bengaluru,Karnataka,Offline,2022-09-08
+MER01985,Merchant_01985,Food,Mumbai,Maharashtra,Offline,2023-06-28
+MER01986,Merchant_01986,Entertainment,Patna,Bihar,Offline,2024-08-22
+MER01987,Merchant_01987,Utilities,Hyderabad,Telangana,Hybrid,2024-04-10
+MER01988,Merchant_01988,Entertainment,Mumbai,Maharashtra,Offline,2023-11-22
+MER01989,Merchant_01989,Grocery,Indore,Madhya Pradesh,Offline,2021-03-17
+MER01990,Merchant_01990,Healthcare,Patna,Bihar,Hybrid,2021-12-07
+MER01991,Merchant_01991,Education,Mumbai,Maharashtra,Online,2020-01-19
+MER01992,Merchant_01992,Fashion,Bhubaneswar,Odisha,Offline,2023-12-10
+MER01993,Merchant_01993,Utilities,Surat,Gujarat,Online,2020-11-06
+MER01994,Merchant_01994,Grocery,Delhi,Delhi,Online,2021-03-24
+MER01995,Merchant_01995,Entertainment,Kolkata,West Bengal,Offline,2022-10-12
+MER01996,Merchant_01996,Grocery,Pune,Maharashtra,Hybrid,2023-07-23
+MER01997,Merchant_01997,Fashion,Hyderabad,Telangana,Offline,2023-10-14
+MER01998,Merchant_01998,Grocery,Ahmedabad,Gujarat,Online,2021-04-06
+MER01999,Merchant_01999,Other,Bhubaneswar,Odisha,Offline,2023-02-12
+MER02000,Merchant_02000,Healthcare,Pune,Maharashtra,Offline,2023-09-06
