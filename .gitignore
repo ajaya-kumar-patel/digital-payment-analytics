@@ -15,5 +15,4 @@ venv/
 Thumbs.db
 
 # Power BI
-*.pbix
 *.pbit
